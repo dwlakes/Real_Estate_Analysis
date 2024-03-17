@@ -1,0 +1,21 @@
+
+Introduction
+
+Purpose: The purpose of this document is to outline the features and scope of a real estate analysis program aimed at providing insights into housing market trends in Latin American countries.
+
+Conventions: None specified.
+
+Intended audience: This document is intended for individuals interested in gaining insights into real estate market trends and comparisons across various Latin American countries.
+
+Scope: The program will analyze and compare the average prices of houses, housing costs per square foot, and the price of land in different Latin American countries. The findings will be visualized through various graphs and made accessible on a website for public viewing.
+
+Overall Description
+
+Product Features: The program will offer features to present its findings through bar graphs, allowing users to compare and contrast housing costs across different Latin American countries. For instance, users will be able to visualize and compare the average housing costs in countries such as Honduras, Nicaragua, Colombia, and others.
+
+System Features
+
+Description and priority:
+
+Graphical Visualization: The system will prioritize generating graphical representations, such as bar graphs, to effectively visualize and present the analyzed housing market data. This feature is essential for users to gain insights into housing trends across Latin American countries.
+Stimulus: Users will access the information graphs through a publicly accessible website. 

@@ -1,0 +1,721 @@
+Listing ID,Bedrooms,Bathrooms,Lot Size,House Size,Property Type,Price,Country
+l_152775452,2 Beds,2 Baths,,"('1,565.61 Sqft', ' sqft')",Residential,"363,625 ",Mexico
+l_155536818,2 Beds,2 Baths,,"('968 Sqft', ' sqft')",Residential,"139,000 ",Mexico
+l_152765640,5 Beds,6 Baths,,,Residential,"1,200,000 ",Mexico
+l_159911135,3 Beds,3 Baths,0.344 ac Lot Size,"('2,700 Sqft', ' sqft')",Residential,"425,000 ",Mexico
+l_156899498,2 Beds,2 Baths,,,Condominium,"565,000 ",Mexico
+l_140506691,1 Bed,1 Bath,,"('505.9 Sqft', ' sqft')",Condominium,"159,000 ",Mexico
+l_156033382,3 Beds,2 Baths,,,Residential,"399,999 ",Mexico
+l_157539358,1 Bed,1 Bath,,"('603.64 Sqft', ' sqft')",Residential,"141,500 ",Mexico
+l_156905005,4 Beds,3 Baths,0.307 ac Lot Size,"('4,230.22 Sqft', ' sqft')",Residential,"3,570,000 ",Mexico
+l_143854158,2 Beds,2 Baths,,"('1,020.42 Sqft', ' sqft')",Residential,"186,400 ",Mexico
+l_154740140,5 Beds,5 Baths,18.687 ac Lot Size,"('2,150 Sqft', ' sqft')",Lots and Land,"69,000 ",Mexico
+l_158298564,5 Beds,5 Baths,,"('4,583.06 Sqft', ' sqft')",Condominium,"1,761,354.151226 ",Mexico
+l_132728188,2 Beds,2 Baths,,"('1,291.67 Sqft', ' sqft')",Residential,"310,498 ",Mexico
+l_158467985,1 Bed,1 Bath,,"('388 Sqft', ' sqft')",Residential,"159,000  20",Mexico
+l_145566684,2 Beds,2 Baths,,"('1,713.61 Sqft', ' sqft')",Residential,"700,843 ",Mexico
+l_157540638,3 Beds,2 Baths,,"('1,350 Sqft', ' sqft')",Residential,"229,000 ",Mexico
+l_152709342,2 Beds,2 Baths,,"('1,130.21 Sqft', ' sqft')",Condominium,"385,000  47",Mexico
+l_156111412,1 Bed,1 Bath,,"('484 Sqft', ' sqft')",Condominium,"13,955.838038 ",Mexico
+l_152768989,2 Beds,3 Baths,,"('2,104.88 Sqft', ' sqft')",Residential,"656,850 ",Mexico
+l_153507514,2 Beds,2 Baths,0.038 ac Lot Size,"('3,918.06 Sqft', ' sqft')",Condominium,"310,000 ",Mexico
+l_153969412,2 Beds,2 Baths,,"('1,367.02 Sqft', ' sqft')",Residential,"353,616 ",Mexico
+l_155305226,2 Beds,2 Baths,,"('1,238 Sqft', ' sqft')",Condominium,"440,000 ",Mexico
+l_153245840,2 Beds,2 Baths,,"('929.67 Sqft', ' sqft')",Residential,"152,159 ",Mexico
+l_160021092,2 Beds,2 Baths,,"('699.65 Sqft', ' sqft')",Condominium,"185,000 ",Mexico
+l_161124206,3 Beds,2 Baths,,"('2,029 Sqft', ' sqft')",Residential,"182,500 ",Mexico
+l_140507765,1 Bed,1 Bath,,"('445 Sqft', ' sqft')",Residential,"94,500 ",Mexico
+l_161122877,,1 Bath,,"('2,605.94 Sqft', ' sqft')",Residential,"130,000 ",Mexico
+l_158163597,1 Bed,1 Bath,,"('485 Sqft', ' sqft')",Condominium,"236,000 ",Mexico
+l_135519308,2 Beds,2 Baths,,"('1,667 Sqft', ' sqft')",Residential,"316,900 ",Mexico
+l_159708973,2 Beds,2 Baths,,,Residential,"595,000 ",Mexico
+l_153694105,1 Bed,1 Bath,,"('484.38 Sqft', ' sqft')",Condominium,"238,233.38 ",Mexico
+l_136321480,2 Beds,2 Baths,,"('1,862.16 Sqft', ' sqft')",Residential,"1,151,186 ",Mexico
+l_157863133,4 Beds,4 Baths,0.206 ac Lot Size,"('3,918.06 Sqft', ' sqft')",Residential,"731,500 ",Mexico
+l_113541339,2 Beds,2 Baths,,"('26,059.43 Sqft', ' sqft')",Residential,"1,118,068 ",Mexico
+l_145665599,2 Beds,2 Baths,,"('2,421.66 Sqft', ' sqft')",Residential,"849,999 ",Mexico
+l_158013932,2 Beds,,,"('1,270 Sqft', ' sqft')",Condominium,"600,000 ",Mexico
+l_152747808,4 Beds,5 Baths,,"('3,171.05 Sqft', ' sqft')",Residential,"1,816,031  717",Mexico
+l_144562283,1 Bed,1 Bath,,"('378 Sqft', ' sqft')",Condominium,"89,900 ",Mexico
+l_157658089,3 Beds,2 Baths,0.064 ac Lot Size,"('148 Sqft', ' sqft')",Residential,"295,000 ",Mexico
+l_145558707,3 Beds,2 Baths,0.077 ac Lot Size,"('1,829.86 Sqft', ' sqft')",Residential,"357,500 ",Mexico
+l_157602888,4 Beds,3 Baths,,"('1,906 Sqft', ' sqft')",Residential,"459,000 ",Mexico
+l_139998712,1 Bed,1 Bath,,"('326.57 Sqft', ' sqft')",Residential,"242,000 ",Mexico
+l_158299339,1 Bed,1 Bath,,"('781.13 Sqft', ' sqft')",Residential,"151,000 ",Mexico
+l_153393129,2 Beds,2 Baths,,"('807.29 Sqft', ' sqft')",Condominium,"305,898.415966 ",Mexico
+l_121280964,1 Bed,1 Bath,,"('441.32 Sqft', ' sqft')",Residential,"116,000 ",Mexico
+l_140043297,2 Beds,2 Baths,,"('1,244 Sqft', ' sqft')",Condominium,"291,000 ",Mexico
+l_140974500,4 Beds,5 Baths,0.08 ac Lot Size,,Residential,"1,799,000  200",Mexico
+l_115710250,4 Beds,6 Baths,,"('4,895 Sqft', ' sqft')",Condominium,"1,250,000 ",Mexico
+l_159911131,5 Beds,5 Baths,,"('3,496.87 Sqft', ' sqft')",Residential,"1,471,000 ",Mexico
+l_154209703,,,0.024 ac Lot Size,"('1,061 Sqft', ' sqft')",Residential,"210,000  3.2",Mexico
+l_153393128,1 Bed,1 Bath,,"('678.13 Sqft', ' sqft')",Condominium,"256,954.669412 ",Mexico
+l_130890400,2 Beds,2 Baths,,"('1,264.9 Sqft', ' sqft')",Residential,"279,000 ",Mexico
+l_140435435,2 Beds,,,"('166 Sqft', ' sqft')",Residential,"460,000 ",Mexico
+l_153505453,1 Bed,1 Bath,,"('430 Sqft', ' sqft')",Residential,"129,000 ",Mexico
+l_144730787,2 Beds,2 Baths,,"('855.73 Sqft', ' sqft')",Residential,"315,000 ",Mexico
+l_160033804,2 Beds,2 Baths,,"('1,614.59 Sqft', ' sqft')",Residential,"365,000 ",Mexico
+l_159377846,2 Beds,2 Baths,,"('1,453.13 Sqft', ' sqft')",Condominium,"303,600 ",Mexico
+l_157538011,2 Beds,3 Baths,,"('1,851.39 Sqft', ' sqft')",Condominium,"518,332 ",Mexico
+l_136363969,4 Beds,4 Baths,,"('1,765 Sqft', ' sqft')",Residential,"1,556,507 ",Mexico
+l_158013923,3 Beds,2 Baths,,"('1,366 Sqft', ' sqft')",Residential,"735,000 ",Mexico
+l_143888903,2 Beds,2 Baths,,"('1,679.17 Sqft', ' sqft')",Residential,"276,000 ",Mexico
+l_154131779,,,,"('34,240 Sqft', ' sqft')",Lots and Land,"549,000 ",Mexico
+l_139473323,2 Beds,2 Baths,,"('1,138.8 Sqft', ' sqft')",Residential,"467,884.467337 ",Mexico
+l_158467174,1 Bed,1 Bath,,"('832.7 Sqft', ' sqft')",Residential,"176,500 ",Mexico
+l_154083600,3 Beds,3 Baths,,"('3,229 Sqft', ' sqft')",Residential,"565,000 ",Mexico
+l_153507671,3 Beds,4 Baths,,"('1,355 Sqft', ' sqft')",Residential,"649,900 ",Mexico
+l_145419244,3 Beds,3 Baths,,"('2,303.48 Sqft', ' sqft')",Residential,"860,853 ",Mexico
+l_146000513,5 Beds,3 Baths,,"('6,512.17 Sqft', ' sqft')",Residential,"2,850,000  500",Mexico
+l_154308930,3 Beds,3 Baths,0.23 ac Lot Size,"('1,700 Sqft', ' sqft')",Residential,"239,000 ",Mexico
+l_154259679,1 Bed,1 Bath,,"('621.72 Sqft', ' sqft')",Residential,"180,135.519925 ",Mexico
+l_156176373,3 Beds,2 Baths,,"('1,506 Sqft', ' sqft')",Condominium,"399,000 ",Mexico
+l_153921899,2 Beds,2 Baths,,"('1,270.14 Sqft', ' sqft')",Residential,"336,798 ",Mexico
+l_158082537,5 Beds,4 Baths,,"('4,195 Sqft', ' sqft')",Residential,"3,375,000 ",Mexico
+l_148535456,2 Beds,2 Baths,,"('1,334.72 Sqft', ' sqft')",Condominium,"370,526 ",Mexico
+l_158300359,4 Beds,3 Baths,,"('3,971.88 Sqft', ' sqft')",Condominium,"1,823,549.718851 ",Mexico
+l_157163869,4 Beds,4 Baths,0.064 ac Lot Size,"('3,401.4 Sqft', ' sqft')",Residential,"1,600,000 ",Mexico
+l_144829769,3 Beds,2 Baths,,"('2,698.51 Sqft', ' sqft')",Residential,"414,977.531415 ",Mexico
+l_152751155,2 Beds,2 Baths,,"('1,399.31 Sqft', ' sqft')",Residential,"290,000 ",Mexico
+l_141156374,2 Beds,2 Baths,,"('1,431.6 Sqft', ' sqft')",Condominium,"610,000 ",Mexico
+l_160308033,3 Beds,3 Baths,,"('6,856.67 Sqft', ' sqft')",Residential,"998,000 ",Mexico
+l_122738934,2 Beds,2 Baths,,"('1,505.7 Sqft', ' sqft')",Residential,"329,000 ",Mexico
+l_157861161,2 Beds,2 Baths,0.029 ac Lot Size,"('1,044.1 Sqft', ' sqft')",Condominium,"710,583 ",Mexico
+l_160969509,3 Beds,2 Baths,,"('986.73 Sqft', ' sqft')",Residential,"187,500 ",Mexico
+l_118686914,2 Beds,2 Baths,,"('993.95 Sqft', ' sqft')",Residential,"263,940 ",Mexico
+l_144563151,2 Beds,2 Baths,,"('2,068.82 Sqft', ' sqft')",Residential,"618,646 ",Mexico
+l_158117620,2 Beds,2 Baths,,"('1,008.4 Sqft', ' sqft')",Residential,"349,000 ",Mexico
+l_156970911,3 Beds,3 Baths,,"('2,793 Sqft', ' sqft')",Residential,"814,000 ",Mexico
+l_157282206,3 Beds,2 Baths,0.137 ac Lot Size,"('2,800 Sqft', ' sqft')",Residential,"289,000 ",Mexico
+l_154308945,3 Beds,2 Baths,,"('2,195.84 Sqft', ' sqft')",Residential,"284,929.643571 ",Mexico
+l_139795910,2 Beds,2 Baths,,"('1,208 Sqft', ' sqft')",Residential,"310,000 ",Mexico
+l_155346416,2 Beds,2 Baths,,"('1,334 Sqft', ' sqft')",Condominium,"219,000 ",Mexico
+l_154958369,3 Beds,3 Baths,0.04 ac Lot Size,"('2,421.88 Sqft', ' sqft')",Residential,"491,878.542585 ",Mexico
+l_157438474,,,,,Residential,"812,767.912905 ",Mexico
+l_160253396,1 Bed,1 Bath,,"('442.4 Sqft', ' sqft')",Condominium,"75,294 ",Mexico
+l_156110663,,,,,Condominium,"330,000 ",Mexico
+l_157717977,3 Beds,3 Baths,0.494 ac Lot Size,"('3,229.17 Sqft', ' sqft')",Residential,"2,850,000 ",Mexico
+l_143525909,,,,,Condominium,"330,000  39",Mexico
+l_153853255,1 Bed,1 Bath,,"('957.99 Sqft', ' sqft')",Residential,"425,000 ",Mexico
+l_160653733,6 Beds,8 Baths,,"('6,354 Sqft', ' sqft')",Residential,"2,500,000 ",Mexico
+l_146707558,1 Bed,1 Bath,,"('553.27 Sqft', ' sqft')",Condominium,"237,292  3.9",Mexico
+l_153612575,1 Bed,2 Baths,,"('536.37 Sqft', ' sqft')",Condominium,"232,217.43 ",Mexico
+l_152066804,2 Beds,2 Baths,,"('3,797,034 Sqft', ' sqft')",Condominium,"439,000 ",Mexico
+l_154029550,2 Beds,2 Baths,,"('1,915.98 Sqft', ' sqft')",Residential,"188,493.535389 ",Mexico
+l_137592143,2 Beds,2 Baths,,"('1,937.72 Sqft', ' sqft')",Residential,"239,900 ",Mexico
+l_141620280,4 Beds,4 Baths,,"('4,531.61 Sqft', ' sqft')",Residential,"899,000 ",Mexico
+l_155924010,3 Beds,3 Baths,0.086 ac Lot Size,"('2,507.99 Sqft', ' sqft')",Residential,"850,000 ",Mexico
+l_158298160,3 Beds,3 Baths,,"('2,875.47 Sqft', ' sqft')",Residential,"1,319,623.179624 ",Mexico
+l_152698180,2 Beds,2 Baths,,"('1,463.89 Sqft', ' sqft')",Condominium,"347,150 ",Mexico
+l_158033845,2 Beds,2 Baths,,"('2,174.31 Sqft', ' sqft')",Residential,"309,000 ",Mexico
+l_158162590,2 Beds,2 Baths,0.032 ac Lot Size,"('1,108.28 Sqft', ' sqft')",Condominium,"527,711 ",Mexico
+l_123204477,3 Beds,3 Baths,,"('1,367.2 Sqft', ' sqft')",Residential,"631,473 ",Mexico
+l_157539365,,,0.291 ac Lot Size,,Residential,"311,000 ",Mexico
+l_158013908,2 Beds,2 Baths,,"('1,422 Sqft', ' sqft')",Residential,"350,000 ",Mexico
+l_158716427,2 Beds,2 Baths,,"('101 Sqft', ' sqft')",Residential,"225,000 ",Mexico
+l_157720948,4 Beds,4 Baths,,"('3,651.76 Sqft', ' sqft')",Residential,"485,294.11 ",Mexico
+l_160823240,2 Beds,2 Baths,,"('1,500 Sqft', ' sqft')",Residential,"369,000 ",Mexico
+l_157719495,2 Beds,2 Baths,,,Residential,"299,000 ",Mexico
+l_154574397,2 Beds,2 Baths,161 ac Lot Size,"('2,045.14 Sqft', ' sqft')",Residential,"265,000 ",Mexico
+l_152770577,4 Beds,4 Baths,,"('3,188.05 Sqft', ' sqft')",Residential,"478,400 ",Mexico
+l_153878422,3 Beds,2 Baths,,"('1,539.24 Sqft', ' sqft')",Residential,"208,965.749517 ",Mexico
+l_121466602,,1 Bath,,"('419.79 Sqft', ' sqft')",Residential,"129,410 ",Mexico
+l_156109880,1 Bed,1 Bath,,"('796.53 Sqft', ' sqft')",Condominium,"277,875 ",Mexico
+l_155481079,,,,"('11,177 Sqft', ' sqft')",Lots and Land,"1,380,000  820",Mexico
+l_135694377,1 Bed,1 Bath,,"('708.81 Sqft', ' sqft')",Residential,"299,915.196072 ",Mexico
+l_123468912,2 Beds,2 Baths,,"('1,426.2 Sqft', ' sqft')",Residential,"339,000 ",Mexico
+l_154029488,1 Bed,1 Bath,,"('592.02 Sqft', ' sqft')",Residential,"169,632.034898 ",Mexico
+l_144284533,2 Beds,2 Baths,,"('1,754.52 Sqft', ' sqft')",Residential,"477,000 ",Mexico
+l_153876409,3 Beds,1 Bath,0.079 ac Lot Size,"('2,077.43 Sqft', ' sqft')",Residential,"199,900 ",Mexico
+l_142630738,2 Beds,2 Baths,,"('1,530 Sqft', ' sqft')",Residential,"249,000 ",Mexico
+l_158576087,2 Beds,2 Baths,,"('953.68 Sqft', ' sqft')",Residential,"147,000 ",Mexico
+l_140734676,2 Beds,1 Bath,,"('1,098 Sqft', ' sqft')",Residential,"116,000 ",Mexico
+l_155410488,2 Beds,2 Baths,,"('786 Sqft', ' sqft')",Condominium,"750,000 ",Mexico
+l_129093140,2 Beds,1 Bath,,"('902 Sqft', ' sqft')",Condominium,"309,000  34",Mexico
+l_157074640,2 Beds,2 Baths,0.033 ac Lot Size,"('1,253.54 Sqft', ' sqft')",Residential,"475,000 ",Mexico
+l_160149914,,,,,Residential,"200,000 ",Mexico
+l_118197530,2 Beds,2 Baths,,"('1,862 Sqft', ' sqft')",Condominium,"1,141,752 ",Mexico
+l_160172933,3 Beds,2 Baths,,"('2,033 Sqft', ' sqft')",Condominium,"750,000 ",Mexico
+l_158296138,6 Beds,5 Baths,0.164 ac Lot Size,"('6,792.03 Sqft', ' sqft')",Residential,"2,849,000 ",Mexico
+l_134608955,1 Bed,1 Bath,,"('775 Sqft', ' sqft')",Condominium,"144,000 ",Mexico
+l_154405185,1 Bed,1 Bath,,"('731.95 Sqft', ' sqft')",Residential,"189,546.523883 ",Mexico
+l_140220065,1 Bed,1 Bath,,"('581.9 Sqft', ' sqft')",Residential,"289,000 ",Mexico
+l_152839586,6 Beds,6 Baths,0.085 ac Lot Size,"('6,000 Sqft', ' sqft')",Residential,"749,000 ",Mexico
+l_153851541,2 Beds,2 Baths,,"('818.06 Sqft', ' sqft')",Residential,"139,000 ",Mexico
+l_142118769,,,,,Condominium,"345,000 ",Mexico
+l_160741802,1 Bed,1 Bath,,"('611 Sqft', ' sqft')",Residential,"169,000 ",Mexico
+l_142120027,1 Bed,1 Bath,,"('431 Sqft', ' sqft')",Condominium,"132,000 ",Mexico
+l_153443415,2 Beds,2 Baths,,"('731.84 Sqft', ' sqft')",Condominium,"214,683.14 ",Mexico
+l_155305950,4 Beds,3 Baths,0.029 ac Lot Size,"('2,559 Sqft', ' sqft')",Residential,"985,000  16.3",Mexico
+l_159851137,1 Bed,1 Bath,,"('538.2 Sqft', ' sqft')",Residential,"135,294  2.1",Mexico
+l_157861321,2 Beds,2 Baths,0.032 ac Lot Size,"('1,108.28 Sqft', ' sqft')",Condominium,"556,461 ",Mexico
+l_153851403,1 Bed,2 Baths,,"('1,100 Sqft', ' sqft')",Condominium,"899,000 ",Mexico
+l_158299667,4 Beds,4 Baths,,"('2,735.11 Sqft', ' sqft')",Condominium,"1,215,637.094536 ",Mexico
+l_153567999,7 Beds,6 Baths,,"('4,540.72 Sqft', ' sqft')",Residential,"1,290,000 ",Mexico
+l_153969421,1 Bed,1 Bath,,"('592.02 Sqft', ' sqft')",Condominium,"95,000 ",Mexico
+l_142119911,2 Beds,1 Bath,,"('538.2 Sqft', ' sqft')",Residential,"140,000 ",Mexico
+l_153800920,2 Beds,2 Baths,0.069 ac Lot Size,"('1,506.95 Sqft', ' sqft')",Residential,"369,000 ",Mexico
+l_135144503,2 Beds,2 Baths,,"('1,034.2 Sqft', ' sqft')",Residential,"349,000 ",Mexico
+l_157539410,1 Bed,1 Bath,,"('355.96 Sqft', ' sqft')",Condominium,"134,900 ",Mexico
+l_152751157,2 Beds,2 Baths,,"('1,453.13 Sqft', ' sqft')",Residential,"321,250 ",Mexico
+l_160653384,2 Beds,2 Baths,,"('1,497 Sqft', ' sqft')",Condominium,"475,000 ",Mexico
+l_116116979,3 Beds,3 Baths,,"('1,679 Sqft', ' sqft')",Residential,"326,000 ",Mexico
+l_132602093,3 Beds,4 Baths,,"('3,745.84 Sqft', ' sqft')",Multifamily,"759,000 ",Mexico
+l_147129103,2 Beds,2 Baths,,"('1,288.76 Sqft', ' sqft')",Residential,"385,000 ",Mexico
+l_160434330,4 Beds,2 Baths,,"('105 Sqft', ' sqft')",Residential,"195,000  3.1",Mexico
+l_157540611,5 Beds,5 Baths,0.324 ac Lot Size,"('3,158 Sqft', ' sqft')",Residential,"449,000 ",Mexico
+l_159467287,3 Beds,4 Baths,0.074 ac Lot Size,"('2,174 Sqft', ' sqft')",Residential,"422,500 ",Mexico
+l_146311897,,,5.931 ac Lot Size,"('258,333.84 Sqft', ' sqft')",Lots And Land,"12,950,000 ",Mexico
+l_157719490,1 Bed,1 Bath,,"('737 Sqft', ' sqft')",Residential,"299,000  40",Mexico
+l_158299270,3 Beds,3 Baths,,"('1,980.56 Sqft', ' sqft')",Condominium,"961,443.479874 ",Mexico
+l_158228032,3 Beds,1 Bath,,"('3,677.49 Sqft', ' sqft')",Residential,"521,455 ",Mexico
+l_145484934,2 Beds,2 Baths,,"('1,726.53 Sqft', ' sqft')",Residential,"602,531 ",Mexico
+l_160865272,10 Beds,7 Baths,0.831 ac Lot Size,"('6,376.48 Sqft', ' sqft')",Residential,"2,150,000 ",Mexico
+l_143941133,3 Beds,3 Baths,,"('3,685.24 Sqft', ' sqft')",Residential,"510,094 ",Mexico
+l_117905629,2 Beds,2 Baths,,"('1,119.45 Sqft', ' sqft')",Condominium,"299,000 ",Mexico
+l_158773659,1 Bed,1 Bath,,"('729 Sqft', ' sqft')",Condominium,"268,064 ",Mexico
+l_158973132,4 Beds,4 Baths,0.11 ac Lot Size,"('4,500 Sqft', ' sqft')",Residential,"1,950,000 ",Mexico
+l_142678137,1 Bed,1 Bath,,"('429 Sqft', ' sqft')",Residential,"220,000 ",Mexico
+l_155850996,3 Beds,3 Baths,0.04 ac Lot Size,"('1,507 Sqft', ' sqft')",Residential,"386,820.881093 ",Mexico
+l_154700035,2 Beds,2 Baths,0.099 ac Lot Size,"('2,260 Sqft', ' sqft')",Residential,"329,900 ",Mexico
+l_156835581,3 Beds,2 Baths,0.124 ac Lot Size,"('2,497.23 Sqft', ' sqft')",Residential,"519,000 ",Mexico
+l_157617980,1 Bed,1 Bath,,"('506 Sqft', ' sqft')",Residential,"122,941 ",Mexico
+l_152747812,3 Beds,3 Baths,0.138 ac Lot Size,"('3,552.09 Sqft', ' sqft')",Residential,0.000000 ,Mexico
+l_153555338,2 Beds,2 Baths,,"('3,097 Sqft', ' sqft')",Residential,"483,600 ",Mexico
+l_152765785,1 Bed,1 Bath,,"('519 Sqft', ' sqft')",Residential,"275,000 ",Mexico
+l_136219268,3 Beds,2 Baths,,,Residential,"223,525 ",Mexico
+l_160034305,3 Beds,4 Baths,,"('3,013.89 Sqft', ' sqft')",Residential,"749,000 ",Mexico
+l_99423313,3 Beds,2 Baths,,,Condominium,"559,000 ",Mexico
+l_157602908,3 Beds,3 Baths,0.261 ac Lot Size,"('2,625.44 Sqft', ' sqft')",Residential,"1,750,000 ",Mexico
+l_155790766,2 Beds,2 Baths,,"('1,100 Sqft', ' sqft')",Residential,"279,000 ",Mexico
+l_136059385,3 Beds,3 Baths,,"('2,794.2 Sqft', ' sqft')",Residential,"391,800  91.7",Mexico
+l_148193303,2 Beds,2 Baths,,"('1,679.17 Sqft', ' sqft')",Residential,"295,000 ",Mexico
+l_156690394,,,9.048 ac Lot Size,,Lots and Land,"1,990,000 ",Mexico
+l_144789134,,,,"('8,928.88 Sqft', ' sqft')",Residential,"840,000 ",Mexico
+l_153505459,1 Bed,1 Bath,,"('537 Sqft', ' sqft')",Residential,"122,000 ",Mexico
+l_153505435,1 Bed,1 Bath,,"('495 Sqft', ' sqft')",Residential,"140,000 ",Mexico
+l_154415925,5 Beds,6 Baths,0.218 ac Lot Size,"('6,415.29 Sqft', ' sqft')",Residential,0.000000 ,Mexico
+l_157861176,2 Beds,2 Baths,0.031 ac Lot Size,"('1,054.48 Sqft', ' sqft')",Condominium,"680,549 ",Mexico
+l_157304714,3 Beds,3 Baths,,"('2,368.06 Sqft', ' sqft')",Residential,"749,000 ",Mexico
+l_140291948,3 Beds,2 Baths,,"('1,825 Sqft', ' sqft')",Residential,"715,000 ",Mexico
+l_158298865,2 Beds,2 Baths,,"('1,033.34 Sqft', ' sqft')",Condominium,"374,319 ",Mexico
+l_141992475,2 Beds,2 Baths,,"('888.24 Sqft', ' sqft')",Residential,"349,000 ",Mexico
+l_159016471,,,,,Residential,"360,000 ",Mexico
+l_156228151,2 Beds,2 Baths,,"('111 Sqft', ' sqft')",Condominium,"337,700 ",Mexico
+l_160741822,1 Bed,1 Bath,,"('538 Sqft', ' sqft')",Residential,"140,650 ",Mexico
+l_134859483,4 Beds,4 Baths,0.167 ac Lot Size,"('5,483.56 Sqft', ' sqft')",Residential,"999,000 ",Mexico
+l_158013888,3 Beds,3 Baths,,"('2,584 Sqft', ' sqft')",Residential,"842,000 ",Mexico
+l_146312978,5 Beds,5 Baths,0.242 ac Lot Size,"('546.5 Sqft', ' sqft')",Residential,"1,825,000 ",Mexico
+l_142582046,1 Bed,1 Bath,,"('570.49 Sqft', ' sqft')",Residential,"175,000 ",Mexico
+l_152258832,2 Beds,2 Baths,,"('1,195 Sqft', ' sqft')",Condominium,"264,900 ",Mexico
+l_153191773,3 Beds,3 Baths,,"('1,700.7 Sqft', ' sqft')",Residential,"358,600 ",Mexico
+l_153505373,2 Beds,2 Baths,,"('875.86 Sqft', ' sqft')",Condominium,"209,847.439052 ",Mexico
+l_153189982,,,750 ac Lot Size,,Farm and Ranch,"2,650,000  42.3",Mexico
+l_160823787,2 Beds,2 Baths,,"('1,240 Sqft', ' sqft')",Residential,"310,000 ",Mexico
+l_158162600,2 Beds,2 Baths,0.031 ac Lot Size,"('1,043.72 Sqft', ' sqft')",Condominium,"497,266 ",Mexico
+l_143941205,1 Bed,1 Bath,,"('312.15 Sqft', ' sqft')",Condominium,"162,283  2.7",Mexico
+l_157719478,2 Beds,2 Baths,,"('1,502.6 Sqft', ' sqft')",Residential,"399,000 ",Mexico
+l_159896251,,,0.101 ac Lot Size,,Lots and Land,"77,000  19.9",Mexico
+l_157861323,2 Beds,2 Baths,0.036 ac Lot Size,"('1,119.04 Sqft', ' sqft')",Condominium,"549,639 ",Mexico
+l_152768775,2 Beds,2 Baths,,"('1,280 Sqft', ' sqft')",Condominium,"530,000 ",Mexico
+l_154077960,2 Beds,2 Baths,,"('936.46 Sqft', ' sqft')",Residential,"140,633.885744 ",Mexico
+l_153391531,1 Bed,1 Bath,,"('678.13 Sqft', ' sqft')",Condominium,"265,974.960885 ",Mexico
+l_153392270,3 Beds,3 Baths,,"('2,045.14 Sqft', ' sqft')",Condominium,"545,400 ",Mexico
+l_156968299,2 Beds,2 Baths,"2,367.52 ac Lot Size","('1,256.77 Sqft', ' sqft')",Condominium,"440,000 ",Mexico
+l_155194810,2 Beds,2 Baths,,"('1,540.85 Sqft', ' sqft')",Condominium,"319,000 ",Mexico
+l_151657845,2 Beds,2 Baths,,"('1,201 Sqft', ' sqft')",Residential,"199,000 ",Mexico
+l_142118771,1 Bed,1 Bath,,"('731.95 Sqft', ' sqft')",Residential,"135,999 ",Mexico
+l_158973206,2 Beds,2 Baths,,"('936.46 Sqft', ' sqft')",Residential,"189,000 ",Mexico
+l_154030714,2 Beds,2 Baths,,"('925 Sqft', ' sqft')",Residential,"172,000 ",Mexico
+l_158162557,2 Beds,2 Baths,0.032 ac Lot Size,"('1,108.28 Sqft', ' sqft')",Condominium,"475,057 ",Mexico
+l_155031463,4 Beds,4 Baths,,"('3,326.05 Sqft', ' sqft')",Residential,"515,757.534073 ",Mexico
+l_158716159,4 Beds,4 Baths,0.1 ac Lot Size,"('291 Sqft', ' sqft')",Residential,"565,333 ",Mexico
+l_146390841,,,0.639 ac Lot Size,,Lots and Land,"515,000 ",Mexico
+l_143737186,4 Beds,4 Baths,,"('2,691 Sqft', ' sqft')",Residential,"550,000  8.9",Mexico
+l_135990424,2 Beds,2 Baths,,"('2,136.96 Sqft', ' sqft')",Residential,"309,000  53.7",Mexico
+l_158851921,3 Beds,3 Baths,,"('971.55 Sqft', ' sqft')",Residential,"749,000 ",Mexico
+l_154756073,1 Bed,1 Bath,,"('484.38 Sqft', ' sqft')",Condominium,"263,720 ",Mexico
+l_156162850,,,0.371 ac Lot Size,,Lots and Land,"1,000,000 ",Mexico
+l_158774806,1 Bed,1 Bath,,"('603 Sqft', ' sqft')",Condominium,"211,555 ",Mexico
+l_114764979,3 Beds,3 Baths,,"('2,906 Sqft', ' sqft')",Residential,"364,108 ",Mexico
+l_142442492,1 Bed,1 Bath,,"('354.13 Sqft', ' sqft')",Residential,"121,680 ",Mexico
+l_154353868,1 Bed,1 Bath,,"('705.04 Sqft', ' sqft')",Residential,"152,846.244518 ",Mexico
+l_111965379,2 Beds,2 Baths,,"('1,071 Sqft', ' sqft')",Condominium,"308,000 ",Mexico
+l_145479903,1 Bed,1 Bath,,"('430.56 Sqft', ' sqft')",Residential,"75,000 ",Mexico
+l_154308949,1 Bed,2 Baths,,"('747.23 Sqft', ' sqft')",Residential,"227,308.489011 ",Mexico
+l_143028182,1 Bed,1 Bath,,"('538.2 Sqft', ' sqft')",Residential,"113,000 ",Mexico
+l_125089223,2 Beds,1 Bath,,"('1,059.59 Sqft', ' sqft')",Condominium,"424,926.29 ",Mexico
+l_156281091,4 Beds,5 Baths,,"('2,664.82 Sqft', ' sqft')",Residential,"760,000 ",Mexico
+l_156109950,2 Beds,2 Baths,,"('1,337.95 Sqft', ' sqft')",Condominium,"466,312 ",Mexico
+l_158347758,3 Beds,,,"('2,271.19 Sqft', ' sqft')",Residential,"783,500 ",Mexico
+l_143026198,1 Bed,1 Bath,,"('473.61 Sqft', ' sqft')",Residential,"175,000 ",Mexico
+l_158180754,2 Beds,2 Baths,,"('1,353 Sqft', ' sqft')",Condominium,"799,000 ",Mexico
+l_142581363,1 Bed,1 Bath,,"('430.56 Sqft', ' sqft')",Residential,"250,000 ",Mexico
+l_159554937,1 Bed,1 Bath,,"('721.18 Sqft', ' sqft')",Residential,"3,840,750 ",Mexico
+l_159377853,1 Bed,1 Bath,,"('798.14 Sqft', ' sqft')",Residential,"272,000 ",Mexico
+l_157293274,3 Beds,4 Baths,0.108 ac Lot Size,"('2,443.41 Sqft', ' sqft')",Residential,"617,000 ",Mexico
+l_159296284,2 Beds,2 Baths,0.025 ac Lot Size,"('1,367.88 Sqft', ' sqft')",Residential,"279,000 ",Mexico
+l_154308939,1 Bed,1 Bath,,"('435.94 Sqft', ' sqft')",Residential,"80,360.545716 ",Mexico
+l_145781193,3 Beds,1 Bath,,"('1,599.95 Sqft', ' sqft')",Residential,"789,000  101",Mexico
+l_160802663,2 Beds,2 Baths,,"('1,344.3 Sqft', ' sqft')",Condominium,"723,040 ",Mexico
+l_153694623,1 Bed,1 Bath,,"('609.24 Sqft', ' sqft')",Condominium,"211,987.64 ",Mexico
+l_160617413,1 Bed,1 Bath,,"('843.89 Sqft', ' sqft')",Condominium,"143,910.67 ",Mexico
+l_154087685,5 Beds,4 Baths,,"('4,499.31 Sqft', ' sqft')",Residential,"1,550,000 ",Mexico
+l_152764753,1 Bed,2 Baths,,"('979 Sqft', ' sqft')",Condominium,"230,000  174",Mexico
+l_158117619,2 Beds,2 Baths,,"('1,008.47 Sqft', ' sqft')",Residential,"349,000 ",Mexico
+l_153443402,1 Bed,1 Bath,,"('445.84 Sqft', ' sqft')",Condominium,"142,873.94 ",Mexico
+l_157222450,3 Beds,4 Baths,,"('1,980.56 Sqft', ' sqft')",Residential,"347,000 ",Mexico
+l_158162592,2 Beds,2 Baths,0.032 ac Lot Size,"('1,108.28 Sqft', ' sqft')",Condominium,"523,786 ",Mexico
+l_154405159,1 Bed,1 Bath,,"('893.4 Sqft', ' sqft')",Residential,"226,837.599850 ",Mexico
+l_158801055,1 Bed,1 Bath,,"('484 Sqft', ' sqft')",Condominium,"279,000 ",Mexico
+l_158466246,1 Bed,1 Bath,,"('621.51 Sqft', ' sqft')",Residential,"279,000 ",Mexico
+l_154308960,1 Bed,1 Bath,,"('564.03 Sqft', ' sqft')",Residential,"175,659.888148 ",Mexico
+l_147648070,3 Beds,3 Baths,,"('1,541.18 Sqft', ' sqft')",Residential,"19,790.298415 ",Mexico
+l_161124170,1 Bed,1 Bath,,"('860.8 Sqft', ' sqft')",Condominium,"549,000 ",Mexico
+l_159083076,2 Beds,2 Baths,0.13 ac Lot Size,"('1,850 Sqft', ' sqft')",Residential,"230,000 ",Mexico
+l_133819568,2 Beds,2 Baths,,"('861.11 Sqft', ' sqft')",Residential,"308,000 ",Mexico
+l_154299714,4 Beds,4 Baths,,"('2,540.28 Sqft', ' sqft')",Residential,"1,339,545.868877 ",Mexico
+l_116226663,4 Beds,4 Baths,0.008 ac Lot Size,"('3,875.01 Sqft', ' sqft')",Residential,"881,000 ",Mexico
+l_159464656,4 Beds,3 Baths,,"('2,313 Sqft', ' sqft')",Residential,"1,200,000 ",Mexico
+l_142678319,2 Beds,2 Baths,,"('1,462 Sqft', ' sqft')",Residential,"545,000 ",Mexico
+l_152709540,2 Beds,2 Baths,,"('952 Sqft', ' sqft')",Residential,"416,000 ",Mexico
+l_160650054,2 Beds,2 Baths,,,Residential,"159,000 ",Mexico
+l_160761480,3 Beds,5 Baths,,"('4,037 Sqft', ' sqft')",Residential,"1,100,000  18.9",Mexico
+l_142117687,3 Beds,3 Baths,,"('1,420.84 Sqft', ' sqft')",Residential,"211,999 ",Mexico
+l_153969468,1 Bed,1 Bath,,"('290.63 Sqft', ' sqft')",Residential,"89,500 ",Mexico
+l_146639646,3 Beds,3 Baths,,"('1,750 Sqft', ' sqft')",Condominium,"775,000 ",Mexico
+l_157540628,3 Beds,3 Baths,,,Residential,"649,000 ",Mexico
+l_151832272,2 Beds,2 Baths,,"('1,400 Sqft', ' sqft')",Condominium,"249,000 ",Mexico
+l_156906304,2 Beds,2 Baths,,"('925.59 Sqft', ' sqft')",Condominium,"377,828.431294 ",Mexico
+l_143979143,,1 Bath,,"('430.56 Sqft', ' sqft')",Condominium,"140,000 ",Mexico
+l_153289977,3 Beds,2 Baths,0.047 ac Lot Size,"('1,980.56 Sqft', ' sqft')",Residential,"649,000 ",Mexico
+l_154353748,2 Beds,2 Baths,,"('1,442.36 Sqft', ' sqft')",Residential,"209,185.010850 ",Mexico
+l_134656285,1 Bed,1 Bath,,"('1,216.32 Sqft', ' sqft')",Condominium,"214,949 ",Mexico
+l_153877511,1 Bed,1 Bath,,"('484.38 Sqft', ' sqft')",Residential,"185,909.580027 ",Mexico
+l_152698182,3 Beds,2 Baths,0.033 ac Lot Size,"('1,442.36 Sqft', ' sqft')",Condominium,"330,000 ",Mexico
+l_124815665,2 Beds,2 Baths,,"('919.99 Sqft', ' sqft')",Residential,"273,000 ",Mexico
+l_124653254,2 Beds,2 Baths,,"('1,538 Sqft', ' sqft')",Residential,"299,000 ",Mexico
+l_136605963,2 Beds,1 Bath,,"('785.77 Sqft', ' sqft')",Condominium,"351,450  87.4",Mexico
+l_105405602,2 Beds,2 Baths,,"('1,856.92 Sqft', ' sqft')",Condominium,"667,255 ",Mexico
+l_153655473,2 Beds,2 Baths,,"('763.05 Sqft', ' sqft')",Condominium,"223,818.365967 ",Mexico
+l_136706908,1 Bed,1 Bath,,"('646.48 Sqft', ' sqft')",Residential,"150,000 ",Mexico
+l_156162844,,,0.371 ac Lot Size,,Lots and Land,"1,000,000 ",Mexico
+l_152775123,3 Beds,4 Baths,,"('1,743.75 Sqft', ' sqft')",Residential,"349,000 ",Mexico
+l_161124057,,,0.109 ac Lot Size,,Residential,"375,000 ",Mexico
+l_131913996,1 Bed,1 Bath,,"('753.47 Sqft', ' sqft')",Residential,"272,000 ",Mexico
+l_155792217,4 Beds,4 Baths,0.049 ac Lot Size,"('4,036.47 Sqft', ' sqft')",Residential,"699,000 ",Mexico
+l_134277059,3 Beds,3 Baths,,"('2,620 Sqft', ' sqft')",Residential,"750,000 ",Mexico
+l_158302149,3 Beds,2 Baths,0.073 ac Lot Size,"('2,167.92 Sqft', ' sqft')",Residential,"670,000 ",Mexico
+l_154299682,3 Beds,3 Baths,,"('1,108.68 Sqft', ' sqft')",Residential,"149,931.857208 ",Mexico
+l_158295568,4 Beds,4 Baths,,"('2,852.44 Sqft', ' sqft')",Residential,"432,433 ",Mexico
+l_152285323,3 Beds,3 Baths,,"('2,820 Sqft', ' sqft')",Residential,"1,133,000 ",Mexico
+l_152769829,3 Beds,3 Baths,,"('3,306 Sqft', ' sqft')",Residential,"605,000 ",Mexico
+l_152819618,3 Beds,3 Baths,,"('1,636 Sqft', ' sqft')",Condominium,"855,000 ",Mexico
+l_159377836,3 Beds,2 Baths,,"('3,046.19 Sqft', ' sqft')",Condominium,"750,000 ",Mexico
+l_157812552,6 Beds,4 Baths,,"('6,904 Sqft', ' sqft')",Residential,"1,700,000 ",Mexico
+l_157303606,1 Bed,1 Bath,,"('484.91 Sqft', ' sqft')",Condominium,"153,468 ",Mexico
+l_148542136,1 Bed,1 Bath,,"('592.02 Sqft', ' sqft')",Residential,"179,000 ",Mexico
+l_154209681,,1 Bath,,"('337.99 Sqft', ' sqft')",Residential,"115,633 ",Mexico
+l_143024978,2 Beds,2 Baths,,"('1,323.96 Sqft', ' sqft')",Residential,"224,000 ",Mexico
+l_157942421,2 Beds,2 Baths,,"('1,032 Sqft', ' sqft')",Condominium,"432,900 ",Mexico
+l_134099746,3 Beds,3 Baths,0.067 ac Lot Size,"('2,797 Sqft', ' sqft')",Residential,"988,000 ",Mexico
+l_154832791,,,,,Residential,"525,000 ",Mexico
+l_159326511,3 Beds,1 Bath,,,Residential,"279,000 ",Mexico
+l_117859877,3 Beds,3 Baths,,,Residential,"360,000 ",Mexico
+l_142119754,1 Bed,1 Bath,,"('742 Sqft', ' sqft')",Residential,"198,500 ",Mexico
+l_158298858,3 Beds,3 Baths,,"('2,335.77 Sqft', ' sqft')",Condominium,"1,097,073.378687 ",Mexico
+l_140081531,1 Bed,1 Bath,,"('595.24 Sqft', ' sqft')",Residential,"88,000 ",Mexico
+l_129113453,2 Beds,2 Baths,,,Residential,"345,000 ",Mexico
+l_154028297,2 Beds,2 Baths,,"('904.17 Sqft', ' sqft')",Residential,"169,899.720192 ",Mexico
+l_156835563,3 Beds,3 Baths,,"('1,852 Sqft', ' sqft')",Condominium,"729,000  106",Mexico
+l_158297247,3 Beds,3 Baths,0.059 ac Lot Size,"('2,045.14 Sqft', ' sqft')",Residential,"515,000 ",Mexico
+l_154411163,2 Beds,2 Baths,,"('1,162.5 Sqft', ' sqft')",Residential,"209,741.894251 ",Mexico
+l_144472322,1 Bed,1 Bath,,"('535 Sqft', ' sqft')",Residential,"149,900 ",Mexico
+l_160761537,2 Beds,2 Baths,,"('1,108.68 Sqft', ' sqft')",Condominium,"312,000 ",Mexico
+l_161310211,,,0.244 ac Lot Size,"('10,650 Sqft', ' sqft')",Lots and Land,"1,147,000 ",Mexico
+l_144563239,3 Beds,3 Baths,,"('2,185.07 Sqft', ' sqft')",Residential,"758,933 ",Mexico
+l_154411727,1 Bed,1 Bath,,"('893 Sqft', ' sqft')",Residential,"95,000 ",Mexico
+l_160865351,3 Beds,3 Baths,,"('2,345 Sqft', ' sqft')",Residential,"1,438,500 ",Mexico
+l_154354169,4 Beds,4 Baths,,"('8,642.34 Sqft', ' sqft')",Residential,"3,898,040.064045 ",Mexico
+l_158722775,2 Beds,3 Baths,,"('124 Sqft', ' sqft')",Condominium,"355,000 ",Mexico
+l_158850670,4 Beds,3 Baths,0.04 ac Lot Size,"('3,918 Sqft', ' sqft')",Residential,"380,000 ",Mexico
+l_159709958,1 Bed,2 Baths,,"('1,571.53 Sqft', ' sqft')",Condominium,"368,483  291",Mexico
+l_160653365,2 Beds,2 Baths,,"('1,442.36 Sqft', ' sqft')",Residential,"690,000 ",Mexico
+l_160651624,,,,,Lots and Land,"112,000 ",Mexico
+l_142119454,2 Beds,2 Baths,,"('1,388.54 Sqft', ' sqft')",Residential,"310,159  125",Mexico
+l_152775481,3 Beds,5 Baths,,"('2,566 Sqft', ' sqft')",Residential,"389,000 ",Mexico
+l_141339506,4 Beds,4 Baths,,"('2,600 Sqft', ' sqft')",Residential,"449,900 ",Mexico
+l_159905013,,,,,Residential,"350,000 ",Mexico
+l_157537608,3 Beds,3 Baths,0.07 ac Lot Size,"('3,067.71 Sqft', ' sqft')",Condominium,"689,000 ",Mexico
+l_158290009,2 Beds,2 Baths,,,Condominium,"275,000 ",Mexico
+l_152618155,1 Bed,1 Bath,,"('473.61 Sqft', ' sqft')",Residential,"158,000 ",Mexico
+l_155410654,3 Beds,2 Baths,,"('132 Sqft', ' sqft')",Condominium,"399,000 ",Mexico
+l_153876363,3 Beds,2 Baths,,"('1,453.13 Sqft', ' sqft')",Residential,"190,704.113902 ",Mexico
+l_124813155,2 Beds,2 Baths,,"('924 Sqft', ' sqft')",Residential,"263,000 ",Mexico
+l_159464629,1 Bed,1 Bath,,"('475.66 Sqft', ' sqft')",Condominium,"159,519.793390 ",Mexico
+l_142119749,1 Bed,1 Bath,,"('582 Sqft', ' sqft')",Condominium,"155,921.542592 ",Mexico
+l_152767827,2 Beds,2 Baths,,,Condominium,"250,000  30",Mexico
+l_154788837,2 Beds,2 Baths,,"('1,624 Sqft', ' sqft')",Residential,"459,900 ",Mexico
+l_105168366,3 Beds,3 Baths,0.099 ac Lot Size,"('2,009 Sqft', ' sqft')",Residential,"915,000 ",Mexico
+l_151899284,2 Beds,2 Baths,0.226 ac Lot Size,"('1,900 Sqft', ' sqft')",Residential,"219,900 ",Mexico
+l_161196404,2 Beds,2 Baths,,"('1,827 Sqft', ' sqft')",Residential,"460,000 ",Mexico
+l_158286611,4 Beds,4 Baths,,"('5,812 Sqft', ' sqft')",Residential,"2,518,733.579844 ",Mexico
+l_160260868,4 Beds,3 Baths,,"('4,443.88 Sqft', ' sqft')",Residential,"999,000 ",Mexico
+l_153876390,2 Beds,2 Baths,,"('1,076.39 Sqft', ' sqft')",Residential,"362,498 ",Mexico
+l_142119274,1 Bed,1 Bath,,"('484.38 Sqft', ' sqft')",Condominium,"125,000  201",Mexico
+l_132344978,2 Beds,2 Baths,,"('1,516 Sqft', ' sqft')",Residential,"169,000 ",Mexico
+l_140722743,1 Bed,1 Bath,0.494 ac Lot Size,"('600 Sqft', ' sqft')",Residential,"239,000 ",Mexico
+l_154415803,3 Beds,3 Baths,,"('2,400.35 Sqft', ' sqft')",Residential,"810,051.274907 ",Mexico
+l_140764339,1 Bed,1 Bath,,"('473.62 Sqft', ' sqft')",Residential,"128,000 ",Mexico
+l_118440394,2 Beds,2 Baths,,"('1,506 Sqft', ' sqft')",Residential,"585,000 ",Mexico
+l_125133761,2 Beds,2 Baths,,"('1,264.7 Sqft', ' sqft')",Residential,"289,000 ",Mexico
+l_144308037,3 Beds,4 Baths,,"('1,905.21 Sqft', ' sqft')",Condominium,"399,000 ",Mexico
+l_158162582,2 Beds,2 Baths,0.031 ac Lot Size,"('1,043.72 Sqft', ' sqft')",Condominium,"536,140 ",Mexico
+l_149247863,2 Beds,3 Baths,,"('2,178.15 Sqft', ' sqft')",Condominium,"410,780 ",Mexico
+l_154029515,3 Beds,3 Baths,,"('3,369.1 Sqft', ' sqft')",Residential,"1,725,384.388324 ",Mexico
+l_158162579,2 Beds,2 Baths,0.035 ac Lot Size,"('1,108.28 Sqft', ' sqft')",Condominium,"541,367 ",Mexico
+l_156787266,2 Beds,2 Baths,,"('1,248.61 Sqft', ' sqft')",Condominium,"295,000 ",Mexico
+l_159911098,1 Bed,1 Bath,28 ac Lot Size,"('388 Sqft', ' sqft')",Residential,"199,000 ",Mexico
+l_122836482,3 Beds,3 Baths,,"('3,798 Sqft', ' sqft')",Condominium,"1,490,000 ",Mexico
+l_157791215,2 Beds,2 Baths,,"('1,500 Sqft', ' sqft')",Residential,"399,000 ",Mexico
+l_122766827,3 Beds,3 Baths,,"('2,337 Sqft', ' sqft')",Residential,"329,000 ",Mexico
+l_157222750,3 Beds,3 Baths,0.076 ac Lot Size,"('3,229.17 Sqft', ' sqft')",Residential,"407,790.215236 ",Mexico
+l_157294191,,,,"('1,722.23 Sqft', ' sqft')",Residential,"66,823 ",Mexico
+l_157618066,2 Beds,2 Baths,,"('1,072.84 Sqft', ' sqft')",Condominium,"296,900 ",Mexico
+l_149186770,3 Beds,2 Baths,,"('1,208 Sqft', ' sqft')",Residential,"140,927.500854 ",Mexico
+l_144308371,3 Beds,4 Baths,,"('3,638.2 Sqft', ' sqft')",Residential,"390,158  6.5",Mexico
+l_156515468,5 Beds,6 Baths,,"('7,855 Sqft', ' sqft')",Residential,"1,900,000 ",Mexico
+l_160080771,2 Beds,1 Bath,,"('65 Sqft', ' sqft')",Residential,"185,000 ",Mexico
+l_156968567,3 Beds,3 Baths,0.069 ac Lot Size,"('2,533.12 Sqft', ' sqft')",Condominium,"1,199,000 ",Mexico
+l_143908871,3 Beds,3 Baths,0.093 ac Lot Size,"('2,820.14 Sqft', ' sqft')",Residential,"475,000 ",Mexico
+l_158293014,3 Beds,3 Baths,,"('1,636 Sqft', ' sqft')",Residential,"855,000  188",Mexico
+l_152710152,1 Bed,1 Bath,,"('825.95 Sqft', ' sqft')",Condominium,"400,000  74",Mexico
+l_140511025,3 Beds,3 Baths,,"('59,728.94 Sqft', ' sqft')",Residential,"935,000 ",Mexico
+l_161122954,1 Bed,1 Bath,,"('800.51 Sqft', ' sqft')",Residential,"226,000 ",Mexico
+l_136547943,1 Bed,1 Bath,,"('538.52 Sqft', ' sqft')",Residential,"227,222 ",Mexico
+l_135380642,1 Bed,1 Bath,,"('643 Sqft', ' sqft')",Condominium,"383,000 ",Mexico
+l_131000867,3 Beds,3 Baths,,"('3,759.86 Sqft', ' sqft')",Residential,"399,000  61",Mexico
+l_136321476,3 Beds,3 Baths,,"('2,831 Sqft', ' sqft')",Residential,"1,382,492 ",Mexico
+l_157540798,3 Beds,3 Baths,,"('2,794.87 Sqft', ' sqft')",Residential,"400,000 ",Mexico
+l_158225944,2 Beds,2 Baths,0.052 ac Lot Size,"('2,260 Sqft', ' sqft')",Residential,"399,000 ",Mexico
+l_154404984,1 Bed,1 Bath,,"('562 Sqft', ' sqft')",Condominium,"222,000 ",Mexico
+l_157286159,2 Beds,2 Baths,,"('1,001.04 Sqft', ' sqft')",Condominium,"435,000 ",Mexico
+l_153390896,3 Beds,3 Baths,,"('6,727 Sqft', ' sqft')",Residential,"749,000 ",Mexico
+l_155915214,2 Beds,2 Baths,0.016 ac Lot Size,"('1,313.2 Sqft', ' sqft')",Residential,"99,000 ",Mexico
+l_153853262,1 Bed,1 Bath,,"('365.97 Sqft', ' sqft')",Residential,"65,000 ",Mexico
+l_156777076,1 Bed,1 Bath,,"('519 Sqft', ' sqft')",Condominium,"259,000 ",Mexico
+l_153801275,4 Beds,4 Baths,0.029 ac Lot Size,"('2,152.78 Sqft', ' sqft')",Residential,"441,767  7",Mexico
+l_159896262,,,0.082 ac Lot Size,,Lots and Land,"63,068  15.7",Mexico
+l_157657809,3 Beds,2 Baths,,"('1,501.03 Sqft', ' sqft')",Condominium,"399,900 ",Mexico
+l_151832204,2 Beds,2 Baths,,,Condominium,"199,000 ",Mexico
+l_154078837,3 Beds,3 Baths,,"('1,420.84 Sqft', ' sqft')",Residential,"243,000 ",Mexico
+l_154028266,3 Beds,3 Baths,,,Residential,"201,000 ",Mexico
+l_157373359,3 Beds,3 Baths,,"('2,400.35 Sqft', ' sqft')",Condominium,"1,570,355 ",Mexico
+l_154299691,4 Beds,4 Baths,,"('2,658.69 Sqft', ' sqft')",Residential,"1,289,521.210454 ",Mexico
+l_142120166,1 Bed,1 Bath,,"('69 Sqft', ' sqft')",Residential,"195,000 ",Mexico
+l_158299157,4 Beds,4 Baths,,"('1,420.84 Sqft', ' sqft')",Condominium,"245,000 ",Mexico
+l_142119035,1 Bed,1 Bath,,"('731.95 Sqft', ' sqft')",Residential,"239,009 ",Mexico
+l_155790691,4 Beds,3 Baths,,"('10,309.99 Sqft', ' sqft')",Residential,"1,300,000 ",Mexico
+l_160078169,3 Beds,3 Baths,0.103 ac Lot Size,"('2,936.72 Sqft', ' sqft')",Residential,"435,000 ",Mexico
+l_158722466,7 Beds,8 Baths,0.48 ac Lot Size,"('11,937 Sqft', ' sqft')",Residential,"2,900,000 ",Mexico
+l_148110349,2 Beds,2 Baths,0.034 ac Lot Size,"('1,463.89 Sqft', ' sqft')",Condominium,"427,815 ",Mexico
+l_142119488,1 Bed,1 Bath,,"('387.5 Sqft', ' sqft')",Residential,"129,999 ",Mexico
+l_139033662,3 Beds,3 Baths,,"('2,992.37 Sqft', ' sqft')",Residential,"599,000 ",Mexico
+l_155593674,2 Beds,2 Baths,,"('968 Sqft', ' sqft')",Residential,"179,000 ",Mexico
+l_158519744,2 Beds,2 Baths,,"('645.83 Sqft', ' sqft')",Residential,"177,141 ",Mexico
+l_157290672,1 Bed,1 Bath,,"('549 Sqft', ' sqft')",Residential,"251,456.636038 ",Mexico
+l_155536822,2 Beds,2 Baths,,"('968 Sqft', ' sqft')",Residential,"139,000 ",Mexico
+l_143942297,3 Beds,3 Baths,0.11 ac Lot Size,"('1,565 Sqft', ' sqft')",Residential,"379,000 ",Mexico
+l_160034321,4 Beds,4 Baths,,"('3,300 Sqft', ' sqft')",Residential,"587,781.761044 ",Mexico
+l_140763920,2 Beds,2 Baths,,"('775.01 Sqft', ' sqft')",Residential,"158,000 ",Mexico
+l_160867614,2 Beds,2 Baths,,"('1,027.63 Sqft', ' sqft')",Condominium,"499,900 ",Mexico
+l_134194491,3 Beds,2 Baths,0.101 ac Lot Size,"('2,562 Sqft', ' sqft')",Residential,"440,000 ",Mexico
+l_146391382,,,0.425 ac Lot Size,,Lots and Land,"875,000 ",Mexico
+l_159420730,2 Beds,2 Baths,0.032 ac Lot Size,"('1,399.31 Sqft', ' sqft')",Condominium,"527,711 ",Mexico
+l_140244002,2 Beds,2 Baths,,"('1,517.71 Sqft', ' sqft')",Condominium,"749,000 ",Mexico
+l_156111422,1 Bed,2 Baths,,"('925 Sqft', ' sqft')",Condominium,"351,151 ",Mexico
+l_157791143,3 Beds,4 Baths,0.162 ac Lot Size,"('3,724.31 Sqft', ' sqft')",Residential,"353,824.150524 ",Mexico
+l_159633153,1 Bed,1 Bath,0.241 ac Lot Size,"('700 Sqft', ' sqft')",Residential,"365,000 ",Mexico
+l_134968680,2 Beds,2 Baths,,"('1,409 Sqft', ' sqft')",Residential,"399,000 ",Mexico
+l_153507511,2 Beds,2 Baths,,"('1,797.57 Sqft', ' sqft')",Condominium,"720,000 ",Mexico
+l_145414069,2 Beds,2 Baths,,"('1,726.53 Sqft', ' sqft')",Residential,"601,534 ",Mexico
+l_153248066,,,,,Residential,"778,000 ",Mexico
+l_153851549,1 Bed,1 Bath,,"('516.67 Sqft', ' sqft')",Residential,"159,947 ",Mexico
+l_157538079,2 Beds,3 Baths,,"('861.11 Sqft', ' sqft')",Condominium,"433,879 ",Mexico
+l_154530940,5 Beds,5 Baths,0.13 ac Lot Size,"('4,122 Sqft', ' sqft')",Residential,"699,000 ",Mexico
+l_157658882,1 Bed,1 Bath,0.025 ac Lot Size,"('1,022.57 Sqft', ' sqft')",Residential,"122,000 ",Mexico
+l_154077837,2 Beds,2 Baths,,"('763.05 Sqft', ' sqft')",Condominium,"217,811.748255 ",Mexico
+l_156109876,2 Beds,2 Baths,,"('1,337.95 Sqft', ' sqft')",Condominium,"499,612 ",Mexico
+l_159377698,3 Beds,2 Baths,0.074 ac Lot Size,"('1,829.86 Sqft', ' sqft')",Residential,"415,000 ",Mexico
+l_153851556,2 Beds,2 Baths,,"('818.06 Sqft', ' sqft')",Residential,"206,666 ",Mexico
+l_159709962,2 Beds,2 Baths,,"('2,639 Sqft', ' sqft')",Residential,"1,499,000 ",Mexico
+l_158466251,2 Beds,2 Baths,,"('1,173 Sqft', ' sqft')",Residential,"229,000 ",Mexico
+l_159733789,3 Beds,2 Baths,,"('3,938.36 Sqft', ' sqft')",Residential,"65,967.214505 ",Mexico
+l_152767653,4 Beds,4 Baths,0.154 ac Lot Size,"('4,585.43 Sqft', ' sqft')",Residential,"1,300,000 ",Mexico
+l_155851009,,,0.989 ac Lot Size,,Lots and Land,"595,000  104",Mexico
+l_154415132,3 Beds,2 Baths,,"('1,589.94 Sqft', ' sqft')",Residential,"356,822.660275 ",Mexico
+l_146641156,2 Beds,2 Baths,,"('1,528.48 Sqft', ' sqft')",Residential,"749,999 ",Mexico
+l_158382424,3 Beds,2 Baths,0.271 ac Lot Size,,Residential,"249,000 ",Mexico
+l_156065825,4 Beds,5 Baths,,"('400 Sqft', ' sqft')",Residential,"4,500,000 ",Mexico
+l_134191351,1 Bed,1 Bath,,"('371.36 Sqft', ' sqft')",Residential,"123,000 ",Mexico
+l_155529803,,,,,Residential,"850,000 ",Mexico
+l_154087677,,,3.972 ac Lot Size,,Lots and Land,"2,500,000 ",Mexico
+l_158297611,2 Beds,2 Baths,,"('850.35 Sqft', ' sqft')",Residential,"13,190.003115 ",Mexico
+l_157659631,,,0.326 ac Lot Size,,Residential,"575,000 ",Mexico
+l_153969438,2 Beds,2 Baths,,"('731.95 Sqft', ' sqft')",Residential,"212,000 ",Mexico
+l_127391623,3 Beds,2 Baths,,"('1,698.43 Sqft', ' sqft')",Residential,"216,150 ",Mexico
+l_143004110,2 Beds,2 Baths,,"('1,350.87 Sqft', ' sqft')",Residential,"379,000 ",Mexico
+l_160445421,2 Beds,21 Baths,0.076 ac Lot Size,"('2,252 Sqft', ' sqft')",Residential,"379,000 ",Mexico
+l_152748483,3 Beds,3 Baths,,"('2,869.23 Sqft', ' sqft')",Condominium,"539,000  60",Mexico
+l_152958026,4 Beds,4 Baths,,"('7,104.1 Sqft', ' sqft')",Residential,"2,847,153 ",Mexico
+l_160260749,,,,"('3,509.03 Sqft', ' sqft')",Residential,"505,000 ",Mexico
+l_158578551,3 Beds,2 Baths,,,Residential,"110,000 ",Mexico
+l_130626783,3 Beds,3 Baths,,"('2,142 Sqft', ' sqft')",Residential,"1,099,857 ",Mexico
+l_153191782,5 Beds,4 Baths,0.076 ac Lot Size,"('3,586 Sqft', ' sqft')",Residential,"695,000 ",Mexico
+l_158577299,4 Beds,4 Baths,,"('3,834 Sqft', ' sqft')",Residential,"630,000 ",Mexico
+l_156319607,2 Beds,2 Baths,,"('1,101.15 Sqft', ' sqft')",Condominium,"195,213 ",Mexico
+l_154788812,3 Beds,3 Baths,,,Residential,"619,000 ",Mexico
+l_156162849,,,0.371 ac Lot Size,,Lots and Land,"1,000,000 ",Mexico
+l_157081404,2 Beds,2 Baths,,"('971.01 Sqft', ' sqft')",Condominium,"213,737.7 ",Mexico
+l_138291967,2 Beds,2 Baths,,"('2,088.2 Sqft', ' sqft')",Residential,"917,620 ",Mexico
+l_129178472,3 Beds,3 Baths,,"('2,631 Sqft', ' sqft')",Condominium,"670,116 ",Mexico
+l_160617314,1 Bed,1 Bath,,"('537 Sqft', ' sqft')",Residential,"149,000 ",Mexico
+l_158117132,4 Beds,4 Baths,,"('2,744.8 Sqft', ' sqft')",Residential,"725,000 ",Mexico
+l_158287807,,,2.856 ac Lot Size,,Lots And Land,"827,031 ",Mexico
+l_158722807,,,0.07 ac Lot Size,,Lots and Land,"677,000 ",Mexico
+l_160741742,2 Beds,1 Bath,0.03 ac Lot Size,"('861.11 Sqft', ' sqft')",Residential,"143,500 ",Mexico
+l_140827839,2 Beds,2 Baths,,,Residential,"232,096 ",Mexico
+l_144563719,3 Beds,3 Baths,,"('3,678.03 Sqft', ' sqft')",Residential,"1,166,000 ",Mexico
+l_144472499,2 Beds,2 Baths,,"('681 Sqft', ' sqft')",Residential,"185,000 ",Mexico
+l_158300721,3 Beds,3 Baths,,"('3,369.1 Sqft', ' sqft')",Condominium,"1,652,937.157211 ",Mexico
+l_153506478,1 Bed,1 Bath,,"('430.56 Sqft', ' sqft')",Residential,"138,862 ",Mexico
+l_155421001,3 Beds,3 Baths,,"('3,066 Sqft', ' sqft')",Condominium,"550,000  100",Mexico
+l_158466230,2 Beds,2 Baths,,"('1,442 Sqft', ' sqft')",Residential,"217,000 ",Mexico
+l_158721173,3 Beds,3 Baths,,"('1,851 Sqft', ' sqft')",Residential,"359,000 ",Mexico
+l_158227268,3 Beds,3 Baths,,"('1,624 Sqft', ' sqft')",Condominium,"360,000 ",Mexico
+l_159151581,,1 Bath,,"('36 Sqft', ' sqft')",Condominium,"110,000 ",Mexico
+l_154299677,2 Beds,3 Baths,,"('1,851.39 Sqft', ' sqft')",Residential,"450,000 ",Mexico
+l_123341744,2 Beds,2 Baths,,"('1,700.7 Sqft', ' sqft')",Residential,"449,900 ",Mexico
+l_155254151,1 Bed,1 Bath,,"('431 Sqft', ' sqft')",Residential,"149,060 ",Mexico
+l_125454588,2 Beds,2 Baths,,"('1,669.4 Sqft', ' sqft')",Residential,"299,000 ",Mexico
+l_113010342,4 Beds,3 Baths,,,Residential,"429,500 ",Mexico
+l_160650032,2 Beds,2 Baths,,"('1,350 Sqft', ' sqft')",Residential,"269,000 ",Mexico
+l_153761657,3 Beds,3 Baths,,"('3,788.9 Sqft', ' sqft')",Condominium,"1,123,456 ",Mexico
+l_159895696,3 Beds,3 Baths,0.141 ac Lot Size,"('2,163.55 Sqft', ' sqft')",Residential,"575,508.086290 ",Mexico
+l_136321497,4 Beds,4 Baths,,,Residential,"1,170,283 ",Mexico
+l_139144940,3 Beds,2 Baths,,"('1,442 Sqft', ' sqft')",Condominium,"417,509 ",Mexico
+l_154259678,2 Beds,2 Baths,,"('828.82 Sqft', ' sqft')",Residential,"215,036.797979 ",Mexico
+l_145835846,2 Beds,2 Baths,,"('1,068.32 Sqft', ' sqft')",Residential,"220,000 ",Mexico
+l_156270337,3 Beds,3 Baths,,"('1,452.91 Sqft', ' sqft')",Residential,"285,000 ",Mexico
+l_152709399,3 Beds,2 Baths,,,Residential,"175,000  20",Mexico
+l_154308932,2 Beds,2 Baths,,"('861.11 Sqft', ' sqft')",Residential,"255,681.457086 ",Mexico
+l_154028278,5 Beds,4 Baths,,"('4,574.66 Sqft', ' sqft')",Residential,"1,841,206.234815 ",Mexico
+l_145474774,7 Beds,8 Baths,,,Residential,"1,199,000 ",Mexico
+l_160969382,1 Bed,1 Bath,,"('592.02 Sqft', ' sqft')",Condominium,"179,000 ",Mexico
+l_153392982,2 Beds,2 Baths,,"('1,011.81 Sqft', ' sqft')",Condominium,"358,571.032548 ",Mexico
+l_157294119,1 Bed,1 Bath,,"('575 Sqft', ' sqft')",Residential,"199,000 ",Mexico
+l_157608672,3 Beds,3 Baths,,"('2,819.8 Sqft', ' sqft')",Condominium,"559,000 ",Mexico
+l_159633078,2 Beds,2 Baths,,"('2,454.17 Sqft', ' sqft')",Residential,"700,000 ",Mexico
+l_160649945,,,,,Residential,"580,238.732550 ",Mexico
+l_157313920,2 Beds,2 Baths,0.103 ac Lot Size,"('2,471.39 Sqft', ' sqft')",Residential,"369,000 ",Mexico
+l_132826534,2 Beds,2 Baths,,"('1,289 Sqft', ' sqft')",Residential,"210,000 ",Mexico
+l_158289541,2 Beds,2 Baths,,"('1,124.63 Sqft', ' sqft')",Condominium,"399,000  50",Mexico
+l_159708964,4 Beds,4 Baths,0.926 ac Lot Size,"('6,996.54 Sqft', ' sqft')",Residential,"3,500,000 ",Mexico
+l_148129556,2 Beds,2 Baths,,"('1,500 Sqft', ' sqft')",Condominium,"440,000 ",Mexico
+l_136118908,2 Beds,2 Baths,,"('1,679 Sqft', ' sqft')",Residential,"242,967 ",Mexico
+l_153190516,2 Beds,2 Baths,,"('875.86 Sqft', ' sqft')",Condominium,"215,762.572063 ",Mexico
+l_154406449,2 Beds,2 Baths,,"('1,206.63 Sqft', ' sqft')",Residential,"274,101.797995 ",Mexico
+l_160761585,,,,,Lots and Land,"229,000 ",Mexico
+l_151404161,3 Beds,3 Baths,,"('515 Sqft', ' sqft')",Condominium,"1,224,493 ",Mexico
+l_157163766,2 Beds,2 Baths,,"('1,008.47 Sqft', ' sqft')",Residential,"309,000 ",Mexico
+l_159553564,1 Bed,1 Bath,,"('490 Sqft', ' sqft')",Residential,"208,000 ",Mexico
+l_158291143,3 Beds,3 Baths,,"('2,949.31 Sqft', ' sqft')",Residential,"869,000 ",Mexico
+l_136060752,4 Beds,4 Baths,,"('3,990.29 Sqft', ' sqft')",Residential,"578,900  66.9",Mexico
+l_160617295,3 Beds,3 Baths,,"('2,574 Sqft', ' sqft')",Residential,"416,657.370336 ",Mexico
+l_153876365,1 Bed,1 Bath,,"('301.39 Sqft', ' sqft')",Residential,"110,000 ",Mexico
+l_143854172,2 Beds,2 Baths,,"('1,996.71 Sqft', ' sqft')",Condominium,"389,000 ",Mexico
+l_145476847,2 Beds,2 Baths,,"('1,726.53 Sqft', ' sqft')",Residential,"596,861 ",Mexico
+l_158647872,,,,,Residential,"369,000  3.6",Mexico
+l_152709438,3 Beds,3 Baths,,"('2,345.03 Sqft', ' sqft')",Condominium,"650,000 ",Mexico
+l_145098175,1 Bed,1 Bath,,"('462.85 Sqft', ' sqft')",Residential,"126,470 ",Mexico
+l_123204473,2 Beds,2 Baths,,"('1,001 Sqft', ' sqft')",Residential,"396,013 ",Mexico
+l_145566630,3 Beds,3 Baths,,"('1,614.59 Sqft', ' sqft')",Residential,"639,000 ",Mexico
+l_159083069,5 Beds,5 Baths,0.09 ac Lot Size,"('3,647 Sqft', ' sqft')",Residential,"480,000 ",Mexico
+l_140682642,2 Beds,2 Baths,,"('810 Sqft', ' sqft')",Residential,"199,000 ",Mexico
+l_148903391,4 Beds,4 Baths,0.129 ac Lot Size,"('4,477.79 Sqft', ' sqft')",Residential,"655,000 ",Mexico
+l_159660070,2 Beds,2 Baths,0.052 ac Lot Size,"('2,281.95 Sqft', ' sqft')",Residential,"399,000 ",Mexico
+l_140009334,2 Beds,1 Bath,,"('592.02 Sqft', ' sqft')",Residential,"84,000 ",Mexico
+l_142563601,2 Beds,2 Baths,,"('2,104.9 Sqft', ' sqft')",Residential,"559,200 ",Mexico
+l_153801692,3 Beds,3 Baths,0.221 ac Lot Size,"('4,090.29 Sqft', ' sqft')",Residential,"1,799,000 ",Mexico
+l_143027515,4 Beds,4 Baths,,"('3,465.98 Sqft', ' sqft')",Residential,"491,000 ",Mexico
+l_156365521,3 Beds,2 Baths,,"('1,960 Sqft', ' sqft')",Residential,"249,000 ",Mexico
+l_155365400,3 Beds,4 Baths,,"('2,055 Sqft', ' sqft')",Residential,"334,000 ",Mexico
+l_112868214,2 Beds,2 Baths,,,Residential,"361,000 ",Mexico
+l_123586289,3 Beds,2 Baths,,"('2,206.6 Sqft', ' sqft')",Condominium,"561,350 ",Mexico
+l_158466250,2 Beds,2 Baths,,"('1,400 Sqft', ' sqft')",Residential,"220,000  28",Mexico
+l_158850669,2 Beds,2 Baths,0.093 ac Lot Size,"('1,291.67 Sqft', ' sqft')",Residential,"242,000 ",Mexico
+l_159554563,4 Beds,3 Baths,0.08 ac Lot Size,"('2,949.31 Sqft', ' sqft')",Residential,"359,000 ",Mexico
+l_153245659,3 Beds,3 Baths,0.151 ac Lot Size,"('5,414.25 Sqft', ' sqft')",Residential,"2,990,000 ",Mexico
+l_140767968,1 Bed,1 Bath,,"('433.78 Sqft', ' sqft')",Residential,"94,000 ",Mexico
+l_157537539,3 Beds,4 Baths,0.106 ac Lot Size,"('4,628.48 Sqft', ' sqft')",Condominium,"959,000 ",Mexico
+l_142582020,2 Beds,2 Baths,,"('904.17 Sqft', ' sqft')",Residential,"280,000 ",Mexico
+l_159369095,2 Beds,2 Baths,0.031 ac Lot Size,"('1,356.25 Sqft', ' sqft')",Condominium,"497,266 ",Mexico
+l_142119595,2 Beds,2 Baths,,"('1,010.09 Sqft', ' sqft')",Residential,"206,900 ",Mexico
+l_160527488,,,,,Residential,"155,000 ",Mexico
+l_135859329,1 Bed,1 Bath,,"('546.8 Sqft', ' sqft')",Residential,"255,000 ",Mexico
+l_158466036,2 Beds,2 Baths,,"('1,068.68 Sqft', ' sqft')",Condominium,"290,000 ",Mexico
+l_159016374,3 Beds,3 Baths,,"('2,108 Sqft', ' sqft')",Residential,"365,000 ",Mexico
+l_143891050,2 Beds,2 Baths,,"('1,391.5 Sqft', ' sqft')",Residential,"281,000 ",Mexico
+l_157861153,2 Beds,2 Baths,0.033 ac Lot Size,"('1,119.45 Sqft', ' sqft')",Condominium,"795,183 ",Mexico
+l_154756092,1 Bed,1 Bath,,"('500.62 Sqft', ' sqft')",Condominium,"205,853  56.1",Mexico
+l_159219459,4 Beds,3 Baths,,"('3,800 Sqft', ' sqft')",Residential,"595,000 ",Mexico
+l_157294582,4 Beds,7 Baths,0.311 ac Lot Size,"('3,887 Sqft', ' sqft')",Residential,"450,000  75",Mexico
+l_156214164,3 Beds,3 Baths,,"('1,873.22 Sqft', ' sqft')",Condominium,"502,195 ",Mexico
+l_155347426,2 Beds,3 Baths,,"('2,314.24 Sqft', ' sqft')",Condominium,"925,000 ",Mexico
+l_158533501,3 Beds,3 Baths,,"('2,152.78 Sqft', ' sqft')",Residential,"485,000 ",Mexico
+l_152819530,4 Beds,5 Baths,,"('7,104.18 Sqft', ' sqft')",Residential,"2,500,000 ",Mexico
+l_134666803,2 Beds,2 Baths,,"('953.68 Sqft', ' sqft')",Residential,"147,000 ",Mexico
+l_160081982,4 Beds,3 Baths,,"('3,395 Sqft', ' sqft')",Residential,"499,000 ",Mexico
+l_158519102,1 Bed,2 Baths,,"('754.44 Sqft', ' sqft')",Residential,"179,134 ",Mexico
+l_147648054,2 Beds,2 Baths,,"('663.36 Sqft', ' sqft')",Residential,"242,000 ",Mexico
+l_154028500,1 Bed,1 Bath,,"('592.02 Sqft', ' sqft')",Residential,"100,431.338218 ",Mexico
+l_160823302,3 Beds,3 Baths,,"('2,236 Sqft', ' sqft')",Residential,"671,540.888385 ",Mexico
+l_127767999,1 Bed,1 Bath,,"('968.75 Sqft', ' sqft')",Residential,"150,000 ",Mexico
+l_154572904,2 Beds,2 Baths,,,Residential,"410,000 ",Mexico
+l_139259192,2 Beds,2 Baths,,"('1,184 Sqft', ' sqft')",Residential,"229,411 ",Mexico
+l_155790046,2 Beds,1 Bath,,"('670 Sqft', ' sqft')",Residential,"129,000 ",Mexico
+l_160372526,4 Beds,4 Baths,,"('4,891 Sqft', ' sqft')",Residential,"1,995,000 ",Mexico
+l_118929420,2 Beds,2 Baths,,,Residential,"639,200 ",Mexico
+l_124228395,2 Beds,2 Baths,,"('2,492 Sqft', ' sqft')",Residential,"475,200 ",Mexico
+l_153969443,2 Beds,2 Baths,,"('1,194.79 Sqft', ' sqft')",Residential,"356,500 ",Mexico
+l_128775529,1 Bed,1 Bath,,"('781.13 Sqft', ' sqft')",Residential,"135,000 ",Mexico
+l_159465993,3 Beds,3 Baths,0.155 ac Lot Size,"('3,197 Sqft', ' sqft')",Residential,"545,626.971813 ",Mexico
+l_155365406,2 Beds,2 Baths,,"('1,851 Sqft', ' sqft')",Residential,"169,000 ",Mexico
+l_142384943,2 Beds,2 Baths,,"('295 Sqft', ' sqft')",Residential,"179,445 ",Mexico
+l_161237674,2 Beds,1 Bath,,"('516.67 Sqft', ' sqft')",Residential,"112,531.066011 ",Mexico
+l_160649790,3 Beds,3 Baths,,"('1,231 Sqft', ' sqft')",Residential,"349,900 ",Mexico
+l_145488811,3 Beds,1 Bath,,"('2,292.71 Sqft', ' sqft')",Residential,"799,000 ",Mexico
+l_161124161,3 Beds,2 Baths,,"('1,721.28 Sqft', ' sqft')",Condominium,"835,000 ",Mexico
+l_158916270,2 Beds,3 Baths,0.111 ac Lot Size,"('3,390 Sqft', ' sqft')",Residential,"469,000 ",Mexico
+l_135319948,3 Beds,3 Baths,,"('1,950.76 Sqft', ' sqft')",Residential,"435,294  72.1",Mexico
+l_144307764,1 Bed,1 Bath,,"('494 Sqft', ' sqft')",Residential,"147,200 ",Mexico
+l_153921903,3 Beds,3 Baths,0.102 ac Lot Size,"('2,561.8 Sqft', ' sqft')",Residential,"535,000 ",Mexico
+l_152764527,3 Beds,2 Baths,4.5 ac Lot Size,"('968.75 Sqft', ' sqft')",Residential,"180,000 ",Mexico
+l_146687334,7 Beds,6 Baths,,"('6,000 Sqft', ' sqft')",Residential,"7,100,000 ",Mexico
+l_130131552,3 Beds,3 Baths,,"('2,674 Sqft', ' sqft')",Residential,"287,880.52 ",Mexico
+l_143850168,2 Beds,2 Baths,,"('688.89 Sqft', ' sqft')",Condominium,"189,258  3.2",Mexico
+l_156109868,3 Beds,2 Baths,,"('1,556.46 Sqft', ' sqft')",Condominium,"542,812 ",Mexico
+l_153393127,2 Beds,2 Baths,,"('1,776.05 Sqft', ' sqft')",Condominium,"758,554.75 ",Mexico
+l_152662305,3 Beds,3 Baths,0.074 ac Lot Size,"('2,873 Sqft', ' sqft')",Residential,"1,319,098.173613 ",Mexico
+l_142572204,2 Beds,2 Baths,,"('1,550 Sqft', ' sqft')",Condominium,"465,028 ",Mexico
+l_149859761,3 Beds,2 Baths,,"('2,803 Sqft', ' sqft')",Residential,"459,900 ",Mexico
+l_154077954,4 Beds,3 Baths,0.213 ac Lot Size,"('4,208.69 Sqft', ' sqft')",Residential,"899,999 ",Mexico
+l_158291002,1 Bed,1 Bath,,"('43 Sqft', ' sqft')",Condominium,"250,000 ",Mexico
+l_133628561,5 Beds,6 Baths,,"('5,476 Sqft', ' sqft')",Condominium,"2,945,000 ",Mexico
+l_123204891,3 Beds,3 Baths,,"('3,089.2 Sqft', ' sqft')",Residential,"456,000 ",Mexico
+l_142119390,1 Bed,1 Bath,,"('419.79 Sqft', ' sqft')",Residential,"125,000 ",Mexico
+l_158722836,2 Beds,2 Baths,0.161 ac Lot Size,"('1,700 Sqft', ' sqft')",Residential,"239,000 ",Mexico
+l_154028357,1 Bed,1 Bath,,"('505.9 Sqft', ' sqft')",Residential,"245,085 ",Mexico
+l_135995208,2 Beds,2 Baths,,"('2,632.64 Sqft', ' sqft')",Residential,"349,800  85.3",Mexico
+l_158117608,3 Beds,4 Baths,,"('3,821.19 Sqft', ' sqft')",Residential,"439,000 ",Mexico
+l_157661913,,,0.291 ac Lot Size,,Residential,"535,000 ",Mexico
+l_161015844,2 Beds,2 Baths,,"('2,098.2 Sqft', ' sqft')",Residential,"670,000 ",Mexico
+l_160940312,2 Beds,2 Baths,,"('1,194.79 Sqft', ' sqft')",Residential,"368,932.175708 ",Mexico
+l_147615829,3 Beds,3 Baths,,"('2,142.02 Sqft', ' sqft')",Condominium,"509,000 ",Mexico
+l_152776859,7 Beds,10 Baths,0.371 ac Lot Size,"('10,333.35 Sqft', ' sqft')",Residential,"3,000,000 ",Mexico
+l_160081056,3 Beds,3 Baths,0.195 ac Lot Size,"('2,470 Sqft', ' sqft')",Residential,"1,370,000 ",Mexico
+l_154405313,1 Bed,1 Bath,,"('645.83 Sqft', ' sqft')",Condominium,"148,030 ",Mexico
+l_145484938,1 Bed,1 Bath,,"('430.56 Sqft', ' sqft')",Residential,"75,000 ",Mexico
+l_160454332,2 Beds,2 Baths,,"('1,162 Sqft', ' sqft')",Residential,"264,102 ",Mexico
+l_142711499,1 Bed,1 Bath,,"('581.26 Sqft', ' sqft')",Residential,"167,000 ",Mexico
+l_140442710,1 Bed,1 Bath,0.047 ac Lot Size,"('699.65 Sqft', ' sqft')",Residential,"90,000 ",Mexico
+l_145415128,3 Beds,,,"('2,165.38 Sqft', ' sqft')",Residential,"394,000 ",Mexico
+l_147648036,2 Beds,2 Baths,,"('1,092.54 Sqft', ' sqft')",Residential,"289,000 ",Mexico
+l_154913801,2 Beds,2 Baths,,"('1,299.92 Sqft', ' sqft')",Residential,"638,984 ",Mexico
+l_138034263,,,,"('13,392 Sqft', ' sqft')",Lots and Land,"790,000 ",Mexico
+l_141585990,3 Beds,3 Baths,,"('3,067 Sqft', ' sqft')",Residential,"480,000  61.1",Mexico
+l_153393125,2 Beds,2 Baths,,"('818.06 Sqft', ' sqft')",Condominium,"457,624.597991 ",Mexico
+l_145558840,3 Beds,2 Baths,0.084 ac Lot Size,"('1,776 Sqft', ' sqft')",Residential,"356,900 ",Mexico
+l_158468856,2 Beds,2 Baths,,"('1,237 Sqft', ' sqft')",Residential,"395,000 ",Mexico
+l_158033846,2 Beds,2 Baths,,"('2,098.96 Sqft', ' sqft')",Residential,"325,000 ",Mexico
+l_159947774,3 Beds,3 Baths,0.04 ac Lot Size,"('1,856.77 Sqft', ' sqft')",Residential,"379,000 ",Mexico
+l_160435564,2 Beds,2 Baths,,"('1,000 Sqft', ' sqft')",Residential,"449,000 ",Mexico
+l_158012120,3 Beds,3 Baths,0.055 ac Lot Size,"('1,990.6 Sqft', ' sqft')",Residential,"789,000 ",Mexico
+l_157314052,2 Beds,2 Baths,,"('1,350 Sqft', ' sqft')",Residential,"169,000 ",Mexico
+l_154299667,2 Beds,2 Baths,,"('977.36 Sqft', ' sqft')",Residential,"275,808.729894 ",Mexico
+l_153393084,2 Beds,2 Baths,,"('1,808.34 Sqft', ' sqft')",Condominium,"489,000 ",Mexico
+l_153506514,3 Beds,3 Baths,,"('4,328 Sqft', ' sqft')",Residential,"785,000 ",Mexico
+l_157538013,3 Beds,3 Baths,,"('7,771.54 Sqft', ' sqft')",Condominium,"508,000 ",Mexico
+l_153393089,4 Beds,4 Baths,,"('258 Sqft', ' sqft')",Residential,"1,028,309.249698 ",Mexico
+l_142479307,2 Beds,2 Baths,,"('1,110 Sqft', ' sqft')",Condominium,"235,999 ",Mexico
+l_153878724,3 Beds,2 Baths,,"('1,184.03 Sqft', ' sqft')",Residential,"248,815.445308 ",Mexico
+l_153851583,1 Bed,1 Bath,,"('613.54 Sqft', ' sqft')",Residential,"100,000 ",Mexico
+l_157294233,3 Beds,3 Baths,0.07 ac Lot Size,"('3,035.42 Sqft', ' sqft')",Condominium,"1,324,353 ",Mexico
+l_160013319,2 Beds,2 Baths,0.03 ac Lot Size,"('1,478 Sqft', ' sqft')",Residential,"299,900 ",Mexico
+l_153507600,3 Beds,2 Baths,,"('1,778 Sqft', ' sqft')",Residential,"325,000 ",Mexico
+l_158801044,5 Beds,3 Baths,,"('4,000 Sqft', ' sqft')",Residential,"849,000 ",Mexico
+l_158533103,3 Beds,3 Baths,0.065 ac Lot Size,"('3,207.65 Sqft', ' sqft')",Residential,"599,000 ",Mexico
+l_152769868,6 Beds,8 Baths,,"('16,756 Sqft', ' sqft')",Residential,"19,850,000 ",Mexico
+l_142582044,1 Bed,1 Bath,,"('452.08 Sqft', ' sqft')",Residential,"119,000 ",Mexico
+l_154411656,2 Beds,2 Baths,,"('1,291.67 Sqft', ' sqft')",Residential,"269,799.820499 ",Mexico
+l_141295381,4 Beds,3 Baths,,"('3,229.17 Sqft', ' sqft')",Residential,"770,000 ",Mexico
+l_141661245,2 Beds,1 Bath,,"('937 Sqft', ' sqft')",Residential,"200,000 ",Mexico
+l_155917142,5 Beds,3 Baths,0.065 ac Lot Size,"('2,634.57 Sqft', ' sqft')",Residential,"349,000 ",Mexico
+l_154308940,2 Beds,2 Baths,,"('818.06 Sqft', ' sqft')",Residential,"119,911.057980 ",Mexico
+l_154029576,4 Beds,4 Baths,,"('2,228.13 Sqft', ' sqft')",Residential,"521,073.502451 ",Mexico
+l_160260889,2 Beds,2 Baths,,"('1,324 Sqft', ' sqft')",Residential,"339,500 ",Mexico
+l_156033358,2 Beds,2 Baths,0.145 ac Lot Size,"('950 Sqft', ' sqft')",Residential,"129,500 ",Mexico
+l_156319616,2 Beds,2 Baths,,"('1,594.09 Sqft', ' sqft')",Condominium,"695,000 ",Mexico
+l_158287439,3 Beds,3 Baths,,"('1,905.21 Sqft', ' sqft')",Condominium,"546,275 ",Mexico
+l_157148835,5 Beds,3 Baths,2.471 ac Lot Size,"('2,615.63 Sqft', ' sqft')",Residential,"2,950,000 ",Mexico
+l_142119570,1 Bed,1 Bath,,"('581.25 Sqft', ' sqft')",Residential,"130,000 ",Mexico
+l_159965682,2 Beds,2 Baths,,"('1,418 Sqft', ' sqft')",Residential,"774,000 ",Mexico
+l_160617424,2 Beds,2 Baths,,"('1,517 Sqft', ' sqft')",Residential,"479,000 ",Mexico
+l_149612463,2 Beds,2 Baths,,"('811 Sqft', ' sqft')",Condominium,"228,530  27.8",Mexico
+l_158289550,2 Beds,2 Baths,,"('2,098.2 Sqft', ' sqft')",Condominium,"670,000 ",Mexico
+l_139795927,3 Beds,3 Baths,,"('1,958 Sqft', ' sqft')",Residential,"529,000 ",Mexico
+l_155306162,3 Beds,3 Baths,,"('2,712.51 Sqft', ' sqft')",Condominium,"698,000 ",Mexico
+l_146707821,3 Beds,2 Baths,,"('1,517.71 Sqft', ' sqft')",Condominium,"638,085 ",Mexico
+l_144816195,1 Bed,1 Bath,,"('387.5 Sqft', ' sqft')",Condominium,"144,189  2.4",Mexico
+l_149247557,2 Beds,2 Baths,,"('1,693.94 Sqft', ' sqft')",Condominium,"499,000  10.5",Mexico
+l_153876400,2 Beds,2 Baths,,"('1,582.29 Sqft', ' sqft')",Residential,"785,006 ",Mexico
+l_158288708,2 Beds,1 Bath,,"('71.11 Sqft', ' sqft')",Condominium,"375,193  6.1",Mexico
+l_153876361,1 Bed,1 Bath,,"('559.72 Sqft', ' sqft')",Residential,"144,500 ",Mexico
+l_152771109,4 Beds,2 Baths,,"('1,784.44 Sqft', ' sqft')",Residential,"232,941 ",Mexico
+l_153877542,3 Beds,3 Baths,,"('1,776.05 Sqft', ' sqft')",Residential,"336,713.269802 ",Mexico
+l_157073447,3 Beds,2 Baths,,"('1,600 Sqft', ' sqft')",Residential,"249,000 ",Mexico
+l_159853760,2 Beds,2 Baths,0.07 ac Lot Size,"('1,431 Sqft', ' sqft')",Residential,"385,000 ",Mexico
+l_142119308,1 Bed,1 Bath,,"('462.85 Sqft', ' sqft')",Condominium,"95,000 ",Mexico
+l_157292147,3 Beds,2 Baths,,"('1,454 Sqft', ' sqft')",Residential,"350,693.033105 ",Mexico
+l_155595521,3 Beds,3 Baths,0.04 ac Lot Size,"('1,937.5 Sqft', ' sqft')",Residential,"274,950 ",Mexico
+l_156514423,3 Beds,4 Baths,0.09 ac Lot Size,"('3,821.19 Sqft', ' sqft')",Residential,"449,606.452698 ",Mexico
+l_131783014,3 Beds,3 Baths,,"('1,900 Sqft', ' sqft')",Condominium,"708,000 ",Mexico
+l_160653348,3 Beds,3 Baths,,"('1,883 Sqft', ' sqft')",Residential,"222,998 ",Mexico
+l_158228721,,,0.292 ac Lot Size,"('10,763.91 Sqft', ' sqft')",Residential,"107,000 ",Mexico
+l_156835561,3 Beds,2 Baths,0.124 ac Lot Size,"('2,497.23 Sqft', ' sqft')",Residential,"529,000 ",Mexico
+l_158722761,8 Beds,5 Baths,,,Multifamily,"1,450,000 ",Mexico
+l_161126636,4 Beds,3 Baths,0.081 ac Lot Size,"('2,178 Sqft', ' sqft')",Residential,"450,000 ",Mexico
+l_123028262,2 Beds,2 Baths,,"('1,796.5 Sqft', ' sqft')",Residential,"411,164 ",Mexico
+l_152704957,4 Beds,4 Baths,,"('5,274.31 Sqft', ' sqft')",Residential,"1,100,000 ",Mexico
+l_144481944,2 Beds,1 Bath,,"('2,066.67 Sqft', ' sqft')",Residential,"622,326 ",Mexico
+l_145098248,3 Beds,2 Baths,,"('2,625 Sqft', ' sqft')",Residential,"849,900 ",Mexico
+l_158012111,2 Beds,2 Baths,,"('1,012 Sqft', ' sqft')",Residential,"434,000 ",Mexico
+l_130607607,1 Bed,1 Bath,,"('489.76 Sqft', ' sqft')",Residential,"122,000 ",Mexico
+l_137648250,2 Beds,2 Baths,,"('1,502 Sqft', ' sqft')",Condominium,"815,000 ",Mexico
+l_155411754,1 Bed,1 Bath,,"('1,194.79 Sqft', ' sqft')",Condominium,"360,000 ",Mexico
+l_155806250,1 Bed,1 Bath,,"('1,141.19 Sqft', ' sqft')",Condominium,"269,900 ",Mexico
+l_152773860,3 Beds,3 Baths,,"('1,332.5 Sqft', ' sqft')",Residential,"429,000 ",Mexico
+l_142118791,1 Bed,1 Bath,,"('645 Sqft', ' sqft')",Condominium,"155,000 ",Mexico
+l_160761563,1 Bed,1 Bath,,"('419.79 Sqft', ' sqft')",Condominium,"135,000 ",Mexico
+l_145492875,2 Beds,2 Baths,,"('1,558.29 Sqft', ' sqft')",Residential,"236,445 ",Mexico
+l_160432952,2 Beds,2 Baths,,"('1,000 Sqft', ' sqft')",Residential,"280,000 ",Mexico
+l_141944106,3 Beds,3 Baths,,"('1,797.57 Sqft', ' sqft')",Residential,"360,000 ",Mexico
+l_160617426,4 Beds,4 Baths,,,Residential,"439,900 ",Mexico
+l_123028383,2 Beds,2 Baths,,"('916.2 Sqft', ' sqft')",Residential,"299,000 ",Mexico
+l_153393088,3 Beds,3 Baths,,"('1,829.86 Sqft', ' sqft')",Condominium,"749,905.747530 ",Mexico
+l_128775213,1 Bed,1 Bath,,"('306.77 Sqft', ' sqft')",Residential,"99,000 ",Mexico
+l_145419690,2 Beds,2 Baths,,"('1,679.17 Sqft', ' sqft')",Residential,"655,027 ",Mexico
+l_159847215,1 Bed,1 Bath,,"('619.03 Sqft', ' sqft')",Condominium,"297,295 ",Mexico
+l_155593673,2 Beds,2 Baths,,"('968 Sqft', ' sqft')",Residential,"179,000 ",Mexico
+l_155852588,1 Bed,1 Bath,,"('491.37 Sqft', ' sqft')",Condominium,"149,000 ",Mexico
+l_156176412,3 Beds,2 Baths,,"('1,588 Sqft', ' sqft')",Condominium,"532,247.25 ",Mexico
