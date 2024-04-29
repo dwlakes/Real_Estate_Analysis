@@ -1,0 +1,723 @@
+Listing ID,Bedrooms,Bathrooms,Lot Size,House Size,Property Type,Price,Country,Source
+l_156609858,4 Beds,3 Baths,,,Residential,"649,000 ",Puerto Rico,point2homes
+l_157899781,6 Beds,4 Baths,0.102 ac Lot Size,"('2,700 Sqft', ' sqft')",Multifamily,"925,000 ",Puerto Rico,point2homes
+l_149121856,2 Beds,1 Bath,,"('2,755.56 Sqft', ' sqft')",Recreational,"410,000 ",Puerto Rico,point2homes
+l_161015663,3 Beds,2 Baths,,"('1,232 Sqft', ' sqft')",Condominium,"465,000 ",Puerto Rico,point2homes
+l_144400161,5 Beds,5 Baths,,"('4,800 Sqft', ' sqft')",Residential,"5,500,000 ",Puerto Rico,point2homes
+l_121894908,2 Beds,2 Baths,,"('1,769 Sqft', ' sqft')",Condominium,"550,000 ",Puerto Rico,point2homes
+l_154973299,,1 Bath,,"('463 Sqft', ' sqft')",Residential,"498,000 ",Puerto Rico,point2homes
+l_141661283,4 Beds,4 Baths,0.33 ac Lot Size,"('4,424 Sqft', ' sqft')",Residential,"3,995,000 ",Puerto Rico,point2homes
+l_159553574,7 Beds,4 Baths,,"('4,000 Sqft', ' sqft')",Residential,"2,590,000 ",Puerto Rico,point2homes
+l_161702185,4 Beds,4 Baths,0.011 ac Lot Size,"('4,984 Sqft', ' sqft')",Residential,"775,000 ",Puerto Rico,point2homes
+l_161702167,,,0.804 ac Lot Size,,Lots And Land,"165,000 ",Puerto Rico,point2homes
+l_160960424,4 Beds,2 Baths,0.13 ac Lot Size,"('1,600 Sqft', ' sqft')",Residential,"260,000 ",Puerto Rico,point2homes
+l_161709617,4 Beds,5 Baths,0.369 ac Lot Size,"('5,692 Sqft', ' sqft')",Residential,"895,000 ",Puerto Rico,point2homes
+l_149704212,4 Beds,4 Baths,0.36 ac Lot Size,,Residential,"539,000 ",Puerto Rico,point2homes
+l_161702168,,,0.033 ac Lot Size,,Lots And Land,"47,000 ",Puerto Rico,point2homes
+l_161702180,,,0.003 ac Lot Size,"('1,324 Sqft', ' sqft')",Residential,"145,000 ",Puerto Rico,point2homes
+l_161701080,4 Beds,2 Baths,,"('2,400 Sqft', ' sqft')",Residential,"750,000 ",Puerto Rico,point2homes
+l_161702178,4 Beds,2 Baths,0.007 ac Lot Size,"('1,200 Sqft', ' sqft')",Residential,"77,000 ",Puerto Rico,point2homes
+l_161702173,3 Beds,1 Bath,0.006 ac Lot Size,"('1,500 Sqft', ' sqft')",Residential,"80,000 ",Puerto Rico,point2homes
+l_161702182,6 Beds,3 Baths,0.009 ac Lot Size,"('2,000 Sqft', ' sqft')",Residential,"320,000 ",Puerto Rico,point2homes
+l_161702163,3 Beds,1 Bath,0.015 ac Lot Size,"('936 Sqft', ' sqft')",Residential,"44,900  15",Puerto Rico,point2homes
+l_161693501,2 Beds,2 Baths,,"('1,014 Sqft', ' sqft')",Residential,"187,900 ",Puerto Rico,point2homes
+l_161702174,4 Beds,3 Baths,0.008 ac Lot Size,"('1,000 Sqft', ' sqft')",Residential,"164,900 ",Puerto Rico,point2homes
+l_161690697,3 Beds,3 Baths,,"('3,933 Sqft', ' sqft')",Residential,"2,895,000  705",Puerto Rico,point2homes
+l_161769661,3 Beds,2 Baths,,"('1,791 Sqft', ' sqft')",Residential,"192,900 ",Puerto Rico,point2homes
+l_161769659,3 Beds,1 Bath,0.004 ac Lot Size,"('800 Sqft', ' sqft')",MultiFamily,"70,000 ",Puerto Rico,point2homes
+l_161768331,2 Beds,2 Baths,,"('3,918.06 Sqft', ' sqft')",Residential,"189,000  45",Puerto Rico,point2homes
+l_161753645,,,3.159 ac Lot Size,,Residential,"690,000 ",Puerto Rico,point2homes
+l_153505466,4 Beds,6 Baths,0.75 ac Lot Size,"('7,000 Sqft', ' sqft')",Residential,"10,900,000 ",Puerto Rico,point2homes
+l_157669771,,,2.294 ac Lot Size,,Lots And Land,"385,000 ",Puerto Rico,point2homes
+l_135976806,3 Beds,3 Baths,,"('3,942 Sqft', ' sqft')",Residential,"3,950,000 ",Puerto Rico,point2homes
+l_152957412,2 Beds,2 Baths,0.263 ac Lot Size,"('11,463.56 Sqft', ' sqft')",Residential,"499,000 ",Puerto Rico,point2homes
+l_150742733,,,,"('12,432.32 Sqft', ' sqft')",Lots and Land,"260,000 ",Puerto Rico,point2homes
+l_159960992,5 Beds,8 Baths,1 ac Lot Size,"('7,540 Sqft', ' sqft')",Residential,"8,440,000 ",Puerto Rico,point2homes
+l_131058384,,,0.032 ac Lot Size,,Lots And Land,"215,000  35",Puerto Rico,point2homes
+l_154532488,3 Beds,2 Baths,0.036 ac Lot Size,"('1,382 Sqft', ' sqft')",Residential,"825,000 ",Puerto Rico,point2homes
+l_157452719,3 Beds,3 Baths,0.24 ac Lot Size,"('3,170 Sqft', ' sqft')",Residential,"2,900,000 ",Puerto Rico,point2homes
+l_160579366,1 Bed,1 Bath,,,Residential,"245,000 ",Puerto Rico,point2homes
+l_160078220,,,,,Residential,"427,500 ",Puerto Rico,point2homes
+l_141647845,,,0.022 ac Lot Size,,Lots And Land,"139,000 ",Puerto Rico,point2homes
+l_149243260,3 Beds,3 Baths,,"('2,111 Sqft', ' sqft')",Residential,"2,490,000 ",Puerto Rico,point2homes
+l_151412269,5 Beds,2 Baths,0.098 ac Lot Size,"('1,832 Sqft', ' sqft')",Residential,"175,000 ",Puerto Rico,point2homes
+l_157611577,,,0.029 ac Lot Size,,Lots And Land,"121,000 ",Puerto Rico,point2homes
+l_141657058,2 Beds,2 Baths,,,Condominium,"1,200,000 ",Puerto Rico,point2homes
+l_157549302,,,0.316 ac Lot Size,,Lots And Land,"150,000 ",Puerto Rico,point2homes
+l_142456242,2 Beds,2 Baths,,"('1,156 Sqft', ' sqft')",Residential,"785,000  165",Puerto Rico,point2homes
+l_151737758,4 Beds,5 Baths,0.84 ac Lot Size,"('3,800 Sqft', ' sqft')",Residential,"1,750,000 ",Puerto Rico,point2homes
+l_149243592,8 Beds,6 Baths,0.113 ac Lot Size,"('3,138 Sqft', ' sqft')",Residential,"1,350,000  650",Puerto Rico,point2homes
+l_157940340,3 Beds,2 Baths,,"('1,200 Sqft', ' sqft')",Residential,"305,000 ",Puerto Rico,point2homes
+l_146460315,,,,,,,Puerto Rico,point2homes
+l_157940340,3 Beds,2 Baths,,"('1,200 Sqft', ' sqft')",Residential,"305,000 ",Puerto Rico,point2homes
+l_146460315,,,2.6 ac Lot Size,,Residential,"197,400 ",Puerto Rico,point2homes
+l_140043106,,,0.799 ac Lot Size,,Lots and Land,"275,000  35",Puerto Rico,point2homes
+l_160451136,3 Beds,2 Baths,0.01 ac Lot Size,"('1,566 Sqft', ' sqft')",Residential,"150,000 ",Puerto Rico,point2homes
+l_143543771,,,0.051 ac Lot Size,,Lots And Land,"159,000 ",Puerto Rico,point2homes
+l_131792278,4 Beds,2 Baths,,,Residential,"600,000 ",Puerto Rico,point2homes
+l_21055072,,,,,Multifamily,"290,000 ",Puerto Rico,point2homes
+l_158647811,,,12.24 ac Lot Size,,Lots And Land,"9,000,000 ",Puerto Rico,point2homes
+l_154693291,,,0.045 ac Lot Size,,Lots And Land,"59,000 ",Puerto Rico,point2homes
+l_160499861,,,5 ac Lot Size,,Lots and Land,"295,000 ",Puerto Rico,point2homes
+l_147731247,3 Beds,2 Baths,,"('1,500 Sqft', ' sqft')",Condominium,"345,900 ",Puerto Rico,point2homes
+l_33343723,,,,"('31,398.33 Sqft', ' sqft')",Lots And Land,"150,000 ",Puerto Rico,point2homes
+l_160651628,4 Beds,2 Baths,,"('2,688 Sqft', ' sqft')",Residential,"649,000 ",Puerto Rico,point2homes
+l_157731527,4 Beds,3 Baths,,"('1,812 Sqft', ' sqft')",Residential,"517,000 ",Puerto Rico,point2homes
+l_156109220,,,0.236 ac Lot Size,,Lots and Land,"139,000 ",Puerto Rico,point2homes
+l_159911077,4 Beds,2 Baths,0.139 ac Lot Size,"('2,703 Sqft', ' sqft')",Residential,"394,777 ",Puerto Rico,point2homes
+l_146002953,,,51.8 ac Lot Size,,Lots and Land,"4,400,000 ",Puerto Rico,point2homes
+l_160096023,,,0.092 ac Lot Size,,Lots And Land,"249,000 ",Puerto Rico,point2homes
+l_151228991,,,0.097 ac Lot Size,"('4,219.45 Sqft', ' sqft')",Residential,"749,000 ",Puerto Rico,point2homes
+l_153505364,2 Beds,2 Baths,,"('1,407 Sqft', ' sqft')",Condominium,"650,000 ",Puerto Rico,point2homes
+l_146165390,1 Bed,,,"('3,200 Sqft', ' sqft')",Other,"320,000 ",Puerto Rico,point2homes
+l_161408255,2 Beds,1 Bath,,,Residential,"68,100 ",Puerto Rico,point2homes
+l_156616207,5 Beds,5 Baths,0.018 ac Lot Size,"('4,138 Sqft', ' sqft')",Residential,"248,700 ",Puerto Rico,point2homes
+l_160307034,5 Beds,3 Baths,,"('2,800 Sqft', ' sqft')",Residential,"161,000 ",Puerto Rico,point2homes
+l_157721096,3 Beds,2 Baths,,"('895 Sqft', ' sqft')",Residential,"106,900 ",Puerto Rico,point2homes
+l_124830131,,,,,Lots And Land,"2,825,000 ",Puerto Rico,point2homes
+l_159096506,3 Beds,2 Baths,,"('1,300 Sqft', ' sqft')",Residential,"389,000 ",Puerto Rico,point2homes
+l_142478753,6 Beds,4 Baths,,"('5,466 Sqft', ' sqft')",Residential,"2,995,000 ",Puerto Rico,point2homes
+l_152825548,3 Beds,1 Bath,0.297 ac Lot Size,,Residential,"200,000  45",Puerto Rico,point2homes
+l_155791399,,,,"('2,500 Sqft', ' sqft')",Multifamily,"1,500,000 ",Puerto Rico,point2homes
+l_151748229,1 Bed,1 Bath,,"('607 Sqft', ' sqft')",Residential,"170,000 ",Puerto Rico,point2homes
+l_157549328,2 Beds,1 Bath,,,Other,"199,900 ",Puerto Rico,point2homes
+l_152819628,4 Beds,3 Baths,0.665 ac Lot Size,,Multifamily,"385,000 ",Puerto Rico,point2homes
+l_142127036,3 Beds,2 Baths,,,Condominium,"475,000 ",Puerto Rico,point2homes
+l_141991832,,,44 ac Lot Size,,Lots And Land,"525,000 ",Puerto Rico,point2homes
+l_155031901,3 Beds,3 Baths,,,Residential,"211,000 ",Puerto Rico,point2homes
+l_161536980,3 Beds,1 Bath,,,Residential,"94,999 ",Puerto Rico,point2homes
+l_161623314,2 Beds,1 Bath,,"('685 Sqft', ' sqft')",Residential,"280,000 ",Puerto Rico,point2homes
+l_140389837,4 Beds,4 Baths,,,Residential,"1,350,000 ",Puerto Rico,point2homes
+l_134185216,8 Beds,8 Baths,0.56 ac Lot Size,"('10,431 Sqft', ' sqft')",Residential,"12,500,000 ",Puerto Rico,point2homes
+l_160148866,3 Beds,1 Bath,,"('800 Sqft', ' sqft')",Residential,"88,000 ",Puerto Rico,point2homes
+l_145063382,3 Beds,3 Baths,0.029 ac Lot Size,"('932 Sqft', ' sqft')",Residential,"90,000  9.7",Puerto Rico,point2homes
+l_147496127,,,,,Residential,"349,000 ",Puerto Rico,point2homes
+l_155346450,4 Beds,4 Baths,,,Residential,"1,950,000 ",Puerto Rico,point2homes
+l_157669769,7 Beds,5 Baths,0.037 ac Lot Size,,Residential,"350,000 ",Puerto Rico,point2homes
+l_146889073,3 Beds,1 Bath,0.008 ac Lot Size,"('959 Sqft', ' sqft')",Residential,"119,000 ",Puerto Rico,point2homes
+l_155975748,5 Beds,2 Baths,0.346 ac Lot Size,"('3,000 Sqft', ' sqft')",Residential,"599,000 ",Puerto Rico,point2homes
+l_156173906,,,0.027 ac Lot Size,,Lots And Land,"78,895 ",Puerto Rico,point2homes
+l_159165721,,,0.541 ac Lot Size,,Lots And Land,"3,500,000 ",Puerto Rico,point2homes
+l_152279579,,,0.496 ac Lot Size,,Lots and Land,"145,000  20",Puerto Rico,point2homes
+l_149120864,4 Beds,2 Baths,,,Condominium,"420,000 ",Puerto Rico,point2homes
+l_160013355,3 Beds,3 Baths,,"('2,688 Sqft', ' sqft')",Residential,"15,200,000 ",Puerto Rico,point2homes
+l_139426475,,,0.018 ac Lot Size,,Lots And Land,"99,000 ",Puerto Rico,point2homes
+l_152819542,,,,,Residential,"249,000 ",Puerto Rico,point2homes
+l_145910341,2 Beds,2 Baths,,"('1,018 Sqft', ' sqft')",Residential,"410,000 ",Puerto Rico,point2homes
+l_99650371,9 Beds,7 Baths,,"('3,556 Sqft', ' sqft')",MultiFamily,"375,000 ",Puerto Rico,point2homes
+l_155411691,3 Beds,3 Baths,,"('2,600 Sqft', ' sqft')",Residential,"2,550,000 ",Puerto Rico,point2homes
+l_157658235,4 Beds,2 Baths,,"('1,841 Sqft', ' sqft')",Condominium,"517,000 ",Puerto Rico,point2homes
+l_156173920,,,0.031 ac Lot Size,,Lots And Land,"84,000 ",Puerto Rico,point2homes
+l_158968751,,,,,Lots and Land,"94,500 ",Puerto Rico,point2homes
+l_143400155,,,0.253 ac Lot Size,,Lots And Land,"180,000 ",Puerto Rico,point2homes
+l_141521409,4 Beds,2 Baths,0.226 ac Lot Size,"('1,455 Sqft', ' sqft')",Residential,"300,000 ",Puerto Rico,point2homes
+l_156072158,4 Beds,3 Baths,0.131 ac Lot Size,"('2,546 Sqft', ' sqft')",Residential,"450,000 ",Puerto Rico,point2homes
+l_135069999,3 Beds,3 Baths,,"('2,460 Sqft', ' sqft')",Condominium,"250,000 ",Puerto Rico,point2homes
+l_151657826,2 Beds,2 Baths,0.112 ac Lot Size,"('1,280 Sqft', ' sqft')",Residential,"57,500 ",Puerto Rico,point2homes
+l_142125199,3 Beds,3 Baths,,"('2,300 Sqft', ' sqft')",Condominium,"530,000 ",Puerto Rico,point2homes
+l_155790019,4 Beds,3 Baths,,,Residential,"375,000 ",Puerto Rico,point2homes
+l_160755873,4 Beds,4 Baths,0.022 ac Lot Size,"('2,096 Sqft', ' sqft')",Residential,"499,000  80",Puerto Rico,point2homes
+l_147083800,3 Beds,2 Baths,,"('1,165 Sqft', ' sqft')",Condominium,"200,000 ",Puerto Rico,point2homes
+l_157899779,,,0.348 ac Lot Size,,Lots and Land,"399,000  50",Puerto Rico,point2homes
+l_157578061,,,7.7 ac Lot Size,,Lots And Land,"654,000 ",Puerto Rico,point2homes
+l_150815899,2 Beds,2 Baths,,"('800 Sqft', ' sqft')",Residential,"84,700 ",Puerto Rico,point2homes
+l_144816754,,,5.74 ac Lot Size,"('250,030.77 Sqft', ' sqft')",Residential,"425,000 ",Puerto Rico,point2homes
+l_161084911,2 Beds,3 Baths,,"('1,740 Sqft', ' sqft')",Residential,"670,000 ",Puerto Rico,point2homes
+l_147128877,,,56 ac Lot Size,,Farm and Ranch,"993,000 ",Puerto Rico,point2homes
+l_158166763,,,,,Residential,"190,000 ",Puerto Rico,point2homes
+l_137925011,4 Beds,3 Baths,0.171 ac Lot Size,"('2,184 Sqft', ' sqft')",Residential,"1,300,000  200",Puerto Rico,point2homes
+l_112693916,5 Beds,6 Baths,,,MultiFamily,"140,000 ",Puerto Rico,point2homes
+l_148368347,3 Beds,2 Baths,,"('1,560 Sqft', ' sqft')",Residential,"118,000 ",Puerto Rico,point2homes
+l_159853901,4 Beds,4 Baths,,"('2,650 Sqft', ' sqft')",Residential,"2,300,000 ",Puerto Rico,point2homes
+l_141823312,,,3.9 ac Lot Size,,Lots and Land,"70,000 ",Puerto Rico,point2homes
+l_160941479,,,0.113 ac Lot Size,"('12,535 Sqft', ' sqft')",Residential,"7,000,000 ",Puerto Rico,point2homes
+l_149608174,4 Beds,5 Baths,,"('7,187 Sqft', ' sqft')",Condominium,"7,500,000  1.4",Puerto Rico,point2homes
+l_142382205,3 Beds,3 Baths,,,MultiFamily,"695,000 ",Puerto Rico,point2homes
+l_153133972,5 Beds,4 Baths,0.034 ac Lot Size,"('3,200 Sqft', ' sqft')",Residential,"1,495,000 ",Puerto Rico,point2homes
+l_154971064,3 Beds,2 Baths,0.707 ac Lot Size,"('1,000 Sqft', ' sqft')",Residential,"1,499,999 ",Puerto Rico,point2homes
+l_149375932,3 Beds,3 Baths,,"('2,000 Sqft', ' sqft')",Condominium,"875,000 ",Puerto Rico,point2homes
+l_150083554,3 Beds,2 Baths,,,Residential,"1,450,000 ",Puerto Rico,point2homes
+l_121750941,,,,"('24,455.6 Sqft', ' sqft')",Lots And Land,"240,000 ",Puerto Rico,point2homes
+l_146994272,28 Beds,14 Baths,,,Condominium,"1,600,000  250",Puerto Rico,point2homes
+l_159963604,,,0.023 ac Lot Size,,Lots And Land,"110,000 ",Puerto Rico,point2homes
+l_145098166,3 Beds,4 Baths,,,Residential,"325,000 ",Puerto Rico,point2homes
+l_150637971,3 Beds,2 Baths,,"('1,326 Sqft', ' sqft')",Condominium,"449,900 ",Puerto Rico,point2homes
+l_160865211,,,7.252 ac Lot Size,,Lots and Land,"3,900,000 ",Puerto Rico,point2homes
+l_160096034,,,0.097 ac Lot Size,,Lots And Land,"799,000 ",Puerto Rico,point2homes
+l_149641674,,,5.245 ac Lot Size,,Lots and Land,"2,250,000  350",Puerto Rico,point2homes
+l_157549385,3 Beds,1 Bath,0.026 ac Lot Size,"('647 Sqft', ' sqft')",Residential,"65,000 ",Puerto Rico,point2homes
+l_120673153,,,0.38 ac Lot Size,,Lots and Land,"76,500 ",Puerto Rico,point2homes
+l_145631154,13 Beds,9 Baths,,"('53,808.79 Sqft', ' sqft')",Residential,"425,000 ",Puerto Rico,point2homes
+l_153289435,3 Beds,2 Baths,,"('1,886 Sqft', ' sqft')",Condominium,"1,200,000 ",Puerto Rico,point2homes
+l_141154635,,,0.686 ac Lot Size,,Lots And Land,35 ,Puerto Rico,point2homes
+l_157578071,4 Beds,1 Bath,0.054 ac Lot Size,,Residential,"48,000 ",Puerto Rico,point2homes
+l_158466122,5 Beds,5 Baths,0.108 ac Lot Size,"('2,644 Sqft', ' sqft')",Residential,"1,250,000 ",Puerto Rico,point2homes
+l_153676392,4 Beds,3 Baths,,"('2,169 Sqft', ' sqft')",Residential,"1,695,000 ",Puerto Rico,point2homes
+l_143056118,2 Beds,2 Baths,,"('1,365 Sqft', ' sqft')",Condominium,"950,000 ",Puerto Rico,point2homes
+l_137500757,16 Beds,14 Baths,,"('6,500 Sqft', ' sqft')",Residential,"2,000,000 ",Puerto Rico,point2homes
+l_134042240,4 Beds,5 Baths,0.031 ac Lot Size,"('4,249 Sqft', ' sqft')",Residential,"895,000 ",Puerto Rico,point2homes
+l_157669773,,,0.683 ac Lot Size,,Lots And Land,"765,000 ",Puerto Rico,point2homes
+l_155695519,3 Beds,2 Baths,,"('1,020 Sqft', ' sqft')",Residential,"135,000 ",Puerto Rico,point2homes
+l_147752112,,,0.068 ac Lot Size,,Lots And Land,"40,000  5",Puerto Rico,point2homes
+l_120901913,,,,"('1,263 Sqft', ' sqft')",Residential,"355,000 ",Puerto Rico,point2homes
+l_90212746,,,30.21 ac Lot Size,,Lots And Land,"299,000 ",Puerto Rico,point2homes
+l_148764437,,,,"('2,789,566,961.81 Sqft', ' sqft')",Lots and Land,"14,500,000 ",Puerto Rico,point2homes
+l_150024405,4 Beds,4 Baths,,"('2,400 Sqft', ' sqft')",Residential,"895,000 ",Puerto Rico,point2homes
+l_142313800,4 Beds,6 Baths,0.33 ac Lot Size,"('3,780 Sqft', ' sqft')",Residential,"3,800,000 ",Puerto Rico,point2homes
+l_155604661,8 Beds,12 Baths,0.67 ac Lot Size,"('8,984 Sqft', ' sqft')",Residential,"6,795,000 ",Puerto Rico,point2homes
+l_158466272,2 Beds,2 Baths,0.198 ac Lot Size,"('1,800 Sqft', ' sqft')",Residential,"275,000 ",Puerto Rico,point2homes
+l_156267183,2 Beds,2 Baths,,"('1,500 Sqft', ' sqft')",Residential,"325,000 ",Puerto Rico,point2homes
+l_158027873,4 Beds,3 Baths,,"('2,613 Sqft', ' sqft')",Residential,"585,000 ",Puerto Rico,point2homes
+l_146090510,4 Beds,2 Baths,,,Residential,"425,000 ",Puerto Rico,point2homes
+l_147796508,,,6.05 ac Lot Size,"('255,879 Sqft', ' sqft')",Lots And Land,"1,475,000 ",Puerto Rico,point2homes
+l_102171943,,,"10,167 ac Lot Size",,Lots and Land,"350,000 ",Puerto Rico,point2homes
+l_158873751,,,0.072 ac Lot Size,,Lots And Land,"340,000 ",Puerto Rico,point2homes
+l_138730277,,,,,Lots and Land,"420,000 ",Puerto Rico,point2homes
+l_155789912,,,0.356 ac Lot Size,,Residential,"2,875,000 ",Puerto Rico,point2homes
+l_154913828,,,,,Residential,"330,000 ",Puerto Rico,point2homes
+l_151121981,4 Beds,3 Baths,0.109 ac Lot Size,,Residential,"585,000 ",Puerto Rico,point2homes
+l_155083117,2 Beds,3 Baths,,"('1,795 Sqft', ' sqft')",Residential,"895,000 ",Puerto Rico,point2homes
+l_145130921,,,,"('380,757.81 Sqft', ' sqft')",Residential,"179,900 ",Puerto Rico,point2homes
+l_115372415,7 Beds,6 Baths,0.169 ac Lot Size,,Multifamily,"199,000  21",Puerto Rico,point2homes
+l_158519162,,,,,Residential,"119,900 ",Puerto Rico,point2homes
+l_148764439,8 Beds,2 Baths,0.065 ac Lot Size,"('2,427 Sqft', ' sqft')",MultiFamily,"159,900 ",Puerto Rico,point2homes
+l_155790721,,,0.914 ac Lot Size,,Lots and Land,"59,000 ",Puerto Rico,point2homes
+l_158092541,5 Beds,4 Baths,1.2 ac Lot Size,"('4,736 Sqft', ' sqft')",Residential,"1,750,000 ",Puerto Rico,point2homes
+l_156848125,4 Beds,3 Baths,,"('3,111 Sqft', ' sqft')",Residential,"710,000 ",Puerto Rico,point2homes
+l_156277516,,,1.299 ac Lot Size,,Lots And Land,"355,000 ",Puerto Rico,point2homes
+l_157549337,1 Bed,2 Baths,0.073 ac Lot Size,"('600 Sqft', ' sqft')",Residential,"550,000 ",Puerto Rico,point2homes
+l_157578047,,,,,Lots and Land,"45,000 ",Puerto Rico,point2homes
+l_149971731,3 Beds,2 Baths,,"('1,400 Sqft', ' sqft')",Residential,"825,000 ",Puerto Rico,point2homes
+l_158519107,,,0.247 ac Lot Size,,Lots and Land,"55,000 ",Puerto Rico,point2homes
+l_150466169,2 Beds,2 Baths,3.344 ac Lot Size,"('1,811 Sqft', ' sqft')",Residential,"849,000 ",Puerto Rico,point2homes
+l_156176397,,,,"('26,145.54 Sqft', ' sqft')",Lots and Land,"425,000 ",Puerto Rico,point2homes
+l_136427003,,,,"('1,363 Sqft', ' sqft')",Other,"260,000 ",Puerto Rico,point2homes
+l_132484910,4 Beds,4 Baths,,"('4,679 Sqft', ' sqft')",Condominium,"3,800,000 ",Puerto Rico,point2homes
+l_150822368,3 Beds,3 Baths,0.039 ac Lot Size,"('2,600 Sqft', ' sqft')",Residential,"1,950,000  450",Puerto Rico,point2homes
+l_153505363,2 Beds,1 Bath,,"('850 Sqft', ' sqft')",Condominium,"172,500 ",Puerto Rico,point2homes
+l_139315277,3 Beds,3 Baths,0.333 ac Lot Size,"('2,114.3 Sqft', ' sqft')",Residential,"2,500,000 ",Puerto Rico,point2homes
+l_157081276,3 Beds,1 Bath,,,Residential,"44,900  15",Puerto Rico,point2homes
+l_152759031,4 Beds,4 Baths,1.088 ac Lot Size,"('3,000 Sqft', ' sqft')",Residential,"2,327,000 ",Puerto Rico,point2homes
+l_159896194,,,,,Residential,"285,000 ",Puerto Rico,point2homes
+l_135630234,,,2.6 ac Lot Size,,Lots and Land,"150,000 ",Puerto Rico,point2homes
+l_146534174,4 Beds,4 Baths,1 ac Lot Size,"('4,000 Sqft', ' sqft')",Residential,"1,500,000 ",Puerto Rico,point2homes
+l_157669766,,,0.732 ac Lot Size,,Lots And Land,"275,000 ",Puerto Rico,point2homes
+l_154913845,,,,,Residential,"84,500 ",Puerto Rico,point2homes
+l_160816714,,,0.058 ac Lot Size,,Lots And Land,"178,000 ",Puerto Rico,point2homes
+l_141101903,,,0.481 ac Lot Size,"('20,935.8 Sqft', ' sqft')",Lots And Land,"245,000 ",Puerto Rico,point2homes
+l_157578037,,,,,Multifamily,"260,000 ",Puerto Rico,point2homes
+l_159953033,3 Beds,2 Baths,,,Residential,"169,000 ",Puerto Rico,point2homes
+l_157602250,4 Beds,2 Baths,,,Residential,"165,000 ",Puerto Rico,point2homes
+l_155304650,3 Beds,2 Baths,,"('1,206 Sqft', ' sqft')",Residential,"175,000 ",Puerto Rico,point2homes
+l_147318137,6 Beds,5 Baths,0.141 ac Lot Size,"('2,900 Sqft', ' sqft')",Residential,"1,100,000  200",Puerto Rico,point2homes
+l_160501362,2 Beds,2 Baths,0.073 ac Lot Size,"('1,200 Sqft', ' sqft')",Residential,"425,000 ",Puerto Rico,point2homes
+l_150835398,,,0.027 ac Lot Size,,Lots And Land,"260,000 ",Puerto Rico,point2homes
+l_154614669,4 Beds,5 Baths,1 ac Lot Size,"('7,300 Sqft', ' sqft')",Residential,"2,100,000 ",Puerto Rico,point2homes
+l_135473205,3 Beds,1 Bath,,,Residential,"74,999 ",Puerto Rico,point2homes
+l_153968128,3 Beds,2 Baths,,"('4,305.56 Sqft', ' sqft')",Residential,"135,000 ",Puerto Rico,point2homes
+l_152838439,,,0.023 ac Lot Size,,Lots And Land,"69,000 ",Puerto Rico,point2homes
+l_157669774,2 Beds,3 Baths,,"('1,538 Sqft', ' sqft')",Residential,"315,000 ",Puerto Rico,point2homes
+l_150579179,4 Beds,3 Baths,0.125 ac Lot Size,"('2,300 Sqft', ' sqft')",Residential,"715,000 ",Puerto Rico,point2homes
+l_139795931,5 Beds,4 Baths,,"('2,995 Sqft', ' sqft')",Residential,"1,900,000 ",Puerto Rico,point2homes
+l_158916481,3 Beds,2 Baths,,"('1,750 Sqft', ' sqft')",Condominium,"369,000 ",Puerto Rico,point2homes
+l_151408428,2 Beds,1 Bath,,"('992 Sqft', ' sqft')",Condominium,"279,000  31",Puerto Rico,point2homes
+l_157669779,2 Beds,2 Baths,,"('1,200 Sqft', ' sqft')",Residential,"250,000 ",Puerto Rico,point2homes
+l_157549431,5 Beds,4 Baths,0.21 ac Lot Size,"('2,745 Sqft', ' sqft')",Residential,"499,000 ",Puerto Rico,point2homes
+l_157539413,3 Beds,2 Baths,,"('3,795.36 Sqft', ' sqft')",Residential,"2,495,000  380",Puerto Rico,point2homes
+l_159895269,4 Beds,3 Baths,1 ac Lot Size,,Residential,"485,000 ",Puerto Rico,point2homes
+l_154971068,3 Beds,1 Bath,0.021 ac Lot Size,"('1,700 Sqft', ' sqft')",Residential,"180,000 ",Puerto Rico,point2homes
+l_156772828,1 Bed,1 Bath,,"('732 Sqft', ' sqft')",Condominium,"420,000 ",Puerto Rico,point2homes
+l_157669792,,,0.005 ac Lot Size,,Lots And Land,"124,000 ",Puerto Rico,point2homes
+l_161572798,10 Beds,7 Baths,,"('12,378.5 Sqft', ' sqft')",Multifamily,"360,000 ",Puerto Rico,point2homes
+l_144978272,,,0.519 ac Lot Size,,Lots And Land,"139,000 ",Puerto Rico,point2homes
+l_160653409,3 Beds,2 Baths,,"('1,556 Sqft', ' sqft')",Residential,"169,000 ",Puerto Rico,point2homes
+l_157578054,2 Beds,2 Baths,,,Multifamily,"170,000 ",Puerto Rico,point2homes
+l_142306796,3 Beds,4 Baths,0.33 ac Lot Size,"('2,569 Sqft', ' sqft')",Residential,"1,950,000 ",Puerto Rico,point2homes
+l_157221535,4 Beds,4 Baths,,"('2,608 Sqft', ' sqft')",Residential,"515,000 ",Puerto Rico,point2homes
+l_98083468,,,,,Lots And Land,"45,000 ",Puerto Rico,point2homes
+l_151748223,6 Beds,3 Baths,0.022 ac Lot Size,"('1,900 Sqft', ' sqft')",Residential,"169,900 ",Puerto Rico,point2homes
+l_146750772,3 Beds,2 Baths,,"('1,192 Sqft', ' sqft')",Condominium,"185,000 ",Puerto Rico,point2homes
+l_145781270,6 Beds,4 Baths,,"('4,000 Sqft', ' sqft')",MultiFamily,"750,000 ",Puerto Rico,point2homes
+l_142680619,4 Beds,3 Baths,0.134 ac Lot Size,"('2,100 Sqft', ' sqft')",Residential,"585,000 ",Puerto Rico,point2homes
+l_159963602,4 Beds,3 Baths,0.014 ac Lot Size,"('1,653 Sqft', ' sqft')",Residential,"137,000 ",Puerto Rico,point2homes
+l_140483054,2 Beds,2 Baths,,"('1,360 Sqft', ' sqft')",Condominium,"880,000 ",Puerto Rico,point2homes
+l_151450950,4 Beds,3 Baths,0.04 ac Lot Size,"('1,529 Sqft', ' sqft')",Multifamily,"209,000 ",Puerto Rico,point2homes
+l_158027854,,,0.251 ac Lot Size,,Lots And Land,"150,000 ",Puerto Rico,point2homes
+l_155975750,17 Beds,7 Baths,0.148 ac Lot Size,"('12,000 Sqft', ' sqft')",Multifamily,"1,499,500 ",Puerto Rico,point2homes
+l_161323610,3 Beds,3 Baths,,"('2,100 Sqft', ' sqft')",Residential,"395,000 ",Puerto Rico,point2homes
+l_153969436,,,0.133 ac Lot Size,,Residential,"279,000 ",Puerto Rico,point2homes
+l_157578039,6 Beds,2 Baths,0.371 ac Lot Size,,MultiFamily,"100,000 ",Puerto Rico,point2homes
+l_160734094,3 Beds,3 Baths,,"('1,753 Sqft', ' sqft')",Residential,"792,000 ",Puerto Rico,point2homes
+l_150498202,,,0.019 ac Lot Size,,Lots And Land,"125,000 ",Puerto Rico,point2homes
+l_158092495,4 Beds,5 Baths,1.4 ac Lot Size,"('4,535 Sqft', ' sqft')",Residential,"1,995,000 ",Puerto Rico,point2homes
+l_118869102,,,0.502 ac Lot Size,,Lots and Land,"340,000 ",Puerto Rico,point2homes
+l_152060232,,,,,Lots and Land,"601,000  75.1",Puerto Rico,point2homes
+l_131844912,,,,"('10,785.44 Sqft', ' sqft')",Residential,"110,000 ",Puerto Rico,point2homes
+l_153823873,5 Beds,4 Baths,0.432 ac Lot Size,"('2,240 Sqft', ' sqft')",Residential,"875,000 ",Puerto Rico,point2homes
+l_160078268,,,0.764 ac Lot Size,,Residential,"930,000 ",Puerto Rico,point2homes
+l_159727663,1 Bed,2 Baths,,"('934.91 Sqft', ' sqft')",Condominium,"325,000 ",Puerto Rico,point2homes
+l_161486176,,,0.136 ac Lot Size,,Lots And Land,"238,000 ",Puerto Rico,point2homes
+l_150498192,,,0.023 ac Lot Size,,Lots And Land,"196,000 ",Puerto Rico,point2homes
+l_124973487,,,4.009 ac Lot Size,,Lots And Land,"374,900  45.1",Puerto Rico,point2homes
+l_147232139,,,,,Lots And Land,"85,000 ",Puerto Rico,point2homes
+l_157549460,4 Beds,5 Baths,,"('6,128 Sqft', ' sqft')",Residential,"5,875,000 ",Puerto Rico,point2homes
+l_154640286,5 Beds,5 Baths,0.27 ac Lot Size,"('3,150 Sqft', ' sqft')",Residential,"3,450,000  500",Puerto Rico,point2homes
+l_161327515,3 Beds,3 Baths,0.029 ac Lot Size,"('3,728 Sqft', ' sqft')",Residential,"1,500,000 ",Puerto Rico,point2homes
+l_132784135,3 Beds,2 Baths,,"('2,100 Sqft', ' sqft')",Condominium,"950,000 ",Puerto Rico,point2homes
+l_148020622,,,0.443 ac Lot Size,,Residential,"150,000 ",Puerto Rico,point2homes
+l_139596561,2 Beds,1 Bath,0.287 ac Lot Size,"('610 Sqft', ' sqft')",Lots and Land,"49,000 ",Puerto Rico,point2homes
+l_156215354,,,,,Residential,"333,500  61.5",Puerto Rico,point2homes
+l_141243018,4 Beds,2 Baths,0.124 ac Lot Size,"('2,774 Sqft', ' sqft')",Residential,"595,000 ",Puerto Rico,point2homes
+l_113808017,,,4 ac Lot Size,,Residential,"150,000 ",Puerto Rico,point2homes
+l_131792299,4 Beds,3 Baths,,,Residential,"575,000 ",Puerto Rico,point2homes
+l_155358694,3 Beds,1 Bath,,,Residential,"84,800 ",Puerto Rico,point2homes
+l_154208834,,,157 ac Lot Size,,Lots and Land,"375,000  360",Puerto Rico,point2homes
+l_160433057,3 Beds,2 Baths,,"('8,815.64 Sqft', ' sqft')",Residential,"395,000 ",Puerto Rico,point2homes
+l_152138186,,,21.151 ac Lot Size,,Lots And Land,"921,339 ",Puerto Rico,point2homes
+l_151659302,4 Beds,2 Baths,,"('3,000 Sqft', ' sqft')",Residential,"599,000 ",Puerto Rico,point2homes
+l_155074920,2 Beds,2 Baths,,"('1,176 Sqft', ' sqft')",Residential,"650,000 ",Puerto Rico,point2homes
+l_150985857,,,0.037 ac Lot Size,,Lots And Land,"195,000 ",Puerto Rico,point2homes
+l_133227921,4 Beds,2 Baths,,,Residential,"470,000 ",Puerto Rico,point2homes
+l_141988496,2 Beds,1 Bath,,"('865 Sqft', ' sqft')",Residential,"165,000 ",Puerto Rico,point2homes
+l_139551719,,,3.05 ac Lot Size,"('132,934.29 Sqft', ' sqft')",Lots and Land,"190,000 ",Puerto Rico,point2homes
+l_145488842,4 Beds,3 Baths,0.161 ac Lot Size,"('2,888 Sqft', ' sqft')",Residential,"3,500,000 ",Puerto Rico,point2homes
+l_153027279,,,0.203 ac Lot Size,,Lots and Land,"110,000  15",Puerto Rico,point2homes
+l_160096036,3 Beds,2 Baths,0.02 ac Lot Size,"('1,200 Sqft', ' sqft')",Residential,"300,000 ",Puerto Rico,point2homes
+l_147541214,4 Beds,3 Baths,0.515 ac Lot Size,,Residential,"515,000  60",Puerto Rico,point2homes
+l_153987985,,,,,Residential,"667,000 ",Puerto Rico,point2homes
+l_159100812,2 Beds,3 Baths,0.005 ac Lot Size,"('2,048 Sqft', ' sqft')",Residential,"960,000 ",Puerto Rico,point2homes
+l_153555208,2 Beds,2 Baths,,"('1,300 Sqft', ' sqft')",Condominium,"365,000 ",Puerto Rico,point2homes
+l_159079764,,,5.82 ac Lot Size,"('253,838.19 Sqft', ' sqft')",Lots and Land,"3,500,000 ",Puerto Rico,point2homes
+l_149073705,5 Beds,3 Baths,,,Residential,"1,800,000 ",Puerto Rico,point2homes
+l_153939008,4 Beds,2 Baths,0.009 ac Lot Size,"('1,598 Sqft', ' sqft')",Residential,"330,000 ",Puerto Rico,point2homes
+l_108394044,3 Beds,2 Baths,0.78 ac Lot Size,"('3,154.67 Sqft', ' sqft')",Residential,"1,750,000 ",Puerto Rico,point2homes
+l_146298064,,,,"('307,567.31 Sqft', ' sqft')",Residential,"1,575,000 ",Puerto Rico,point2homes
+l_147235611,3 Beds,3 Baths,,"('2,105 Sqft', ' sqft')",Residential,"1,280,000 ",Puerto Rico,point2homes
+l_157549456,,,,,Lots And Land,"45,000 ",Puerto Rico,point2homes
+l_154299660,,,,,Residential,"130,000 ",Puerto Rico,point2homes
+l_157549354,4 Beds,5 Baths,0.259 ac Lot Size,"('5,000 Sqft', ' sqft')",Residential,"5,400,000  1.1",Puerto Rico,point2homes
+l_140390219,3 Beds,2 Baths,,"('2,289 Sqft', ' sqft')",Residential,"650,000 ",Puerto Rico,point2homes
+l_128548525,,,0.025 ac Lot Size,,Lots And Land,"48,070 ",Puerto Rico,point2homes
+l_143976769,,,0.951 ac Lot Size,,Residential,"575,000 ",Puerto Rico,point2homes
+l_157549350,,,,,Residential,"85,000 ",Puerto Rico,point2homes
+l_158027856,,,0.377 ac Lot Size,,Lots And Land,"179,500 ",Puerto Rico,point2homes
+l_139673297,3 Beds,3 Baths,,"('1,881.3 Sqft', ' sqft')",Residential,"649,000  120",Puerto Rico,point2homes
+l_160802677,2 Beds,1 Bath,,"('627 Sqft', ' sqft')",Condominium,"114,500 ",Puerto Rico,point2homes
+l_150346194,5 Beds,4 Baths,0.186 ac Lot Size,,Residential,"775,000 ",Puerto Rico,point2homes
+l_157669794,,,0.034 ac Lot Size,,Lots And Land,"159,000 ",Puerto Rico,point2homes
+l_154405118,,,0.127 ac Lot Size,,Lots and Land,"629,000 ",Puerto Rico,point2homes
+l_160965569,3 Beds,3 Baths,0.018 ac Lot Size,"('1,244 Sqft', ' sqft')",Residential,"750,000 ",Puerto Rico,point2homes
+l_143433647,,,0.544 ac Lot Size,,Lots and Land,"159,000 ",Puerto Rico,point2homes
+l_153365538,,,,"('96,821.37 Sqft', ' sqft')",Lots and Land,"659,000 ",Puerto Rico,point2homes
+l_149243283,6 Beds,4 Baths,0.9 ac Lot Size,"('3,000 Sqft', ' sqft')",Residential,"2,195,000 ",Puerto Rico,point2homes
+l_161488847,3 Beds,2 Baths,,"('4,070 Sqft', ' sqft')",Residential,"700,000 ",Puerto Rico,point2homes
+l_152705412,4 Beds,3 Baths,11.714 ac Lot Size,"('3,000 Sqft', ' sqft')",Multifamily,"2,327,000 ",Puerto Rico,point2homes
+l_152912970,,,0.416 ac Lot Size,,Lots And Land,"985,000  115",Puerto Rico,point2homes
+l_160250207,,,15 ac Lot Size,,Lots and Land,"365,000  133",Puerto Rico,point2homes
+l_145130919,,,6 ac Lot Size,,Farm And Agriculture,"280,000 ",Puerto Rico,point2homes
+l_160096042,,,0.029 ac Lot Size,,Lots And Land,"72,500 ",Puerto Rico,point2homes
+l_143543776,3 Beds,3 Baths,,"('2,000 Sqft', ' sqft')",Residential,"438,000 ",Puerto Rico,point2homes
+l_154917590,9 Beds,9 Baths,0.976 ac Lot Size,"('11,832 Sqft', ' sqft')",Residential,"15,000,000 ",Puerto Rico,point2homes
+l_159367945,,,,,Other,"374,900 ",Puerto Rico,point2homes
+l_142630173,2 Beds,2 Baths,,"('1,395 Sqft', ' sqft')",Condominium,"795,000 ",Puerto Rico,point2homes
+l_156065792,3 Beds,1 Bath,2.762 ac Lot Size,"('1,203 Sqft', ' sqft')",Residential,"375,000 ",Puerto Rico,point2homes
+l_151054449,5 Beds,5 Baths,,,Residential,"795,000 ",Puerto Rico,point2homes
+l_128856120,,,3.67 ac Lot Size,,Lots And Land,"695,000 ",Puerto Rico,point2homes
+l_151291841,,,0.389 ac Lot Size,,Residential,"69,000 ",Puerto Rico,point2homes
+l_158589264,,,0.047 ac Lot Size,,Lots And Land,"340,000 ",Puerto Rico,point2homes
+l_142306289,9 Beds,10 Baths,1.1 ac Lot Size,"('12,190 Sqft', ' sqft')",Residential,"8,425,000 ",Puerto Rico,point2homes
+l_136410552,6 Beds,3 Baths,0.103 ac Lot Size,"('2,908 Sqft', ' sqft')",Residential,"900,000 ",Puerto Rico,point2homes
+l_150749087,2 Beds,2 Baths,,,Residential,"375,000 ",Puerto Rico,point2homes
+l_157457560,,,0.03 ac Lot Size,,Lots And Land,"245,000 ",Puerto Rico,point2homes
+l_141523400,,,0.251 ac Lot Size,,Lots and Land,"490,000 ",Puerto Rico,point2homes
+l_161077886,2 Beds,2 Baths,,"('1,337 Sqft', ' sqft')",Condominium,"950,000 ",Puerto Rico,point2homes
+l_147035165,3 Beds,3 Baths,,,Residential,"275,000 ",Puerto Rico,point2homes
+l_143400571,,,,,Residential,"279,900 ",Puerto Rico,point2homes
+l_159895209,,,1.03 ac Lot Size,"('45,267 Sqft', ' sqft')",Lots and Land,"45,000 ",Puerto Rico,point2homes
+l_158473670,3 Beds,4 Baths,0.14 ac Lot Size,"('2,663 Sqft', ' sqft')",Residential,"2,650,000 ",Puerto Rico,point2homes
+l_153353416,3 Beds,2 Baths,,"('1,326 Sqft', ' sqft')",Condominium,"470,000 ",Puerto Rico,point2homes
+l_153505550,4 Beds,3 Baths,,"('2,169 Sqft', ' sqft')",Residential,"1,795,000 ",Puerto Rico,point2homes
+l_151381628,,,,"('2,535 Sqft', ' sqft')",MultiFamily,"270,000 ",Puerto Rico,point2homes
+l_157549395,3 Beds,2 Baths,,"('1,503 Sqft', ' sqft')",Condominium,"84,900  15",Puerto Rico,point2homes
+l_157549299,3 Beds,4 Baths,,"('3,461 Sqft', ' sqft')",Condominium,"3,950,000 ",Puerto Rico,point2homes
+l_152779045,2 Beds,2 Baths,,"('1,300 Sqft', ' sqft')",Condominium,"495,000 ",Puerto Rico,point2homes
+l_60853736,,,1 ac Lot Size,,Lots And Land,"160,000 ",Puerto Rico,point2homes
+l_142983109,5 Beds,3 Baths,,"('1,496 Sqft', ' sqft')",Residential,"149,000 ",Puerto Rico,point2homes
+l_159016380,,,0.173 ac Lot Size,"('7,534.74 Sqft', ' sqft')",Lots and Land,"65,000 ",Puerto Rico,point2homes
+l_150884936,4 Beds,5 Baths,,"('4,400 Sqft', ' sqft')",Residential,"1,900,000 ",Puerto Rico,point2homes
+l_160802384,24 Beds,11 Baths,,,Multifamily,"699,700 ",Puerto Rico,point2homes
+l_149857263,,,,,Residential,"225,000 ",Puerto Rico,point2homes
+l_156173889,2 Beds,1 Bath,,,Residential,"260,000 ",Puerto Rico,point2homes
+l_159034128,,,0.017 ac Lot Size,,Lots And Land,"49,900 ",Puerto Rico,point2homes
+l_150082155,4 Beds,5 Baths,,"('5,000 Sqft', ' sqft')",Residential,"5,400,000  575",Puerto Rico,point2homes
+l_153553714,14 Beds,10 Baths,0.031 ac Lot Size,"('8,100 Sqft', ' sqft')",Residential,"6,200,000 ",Puerto Rico,point2homes
+l_151518659,,1 Bath,,"('491 Sqft', ' sqft')",Residential,"220,000 ",Puerto Rico,point2homes
+l_153816605,6 Beds,9 Baths,1.61 ac Lot Size,"('10,000 Sqft', ' sqft')",Residential,"5,600,000 ",Puerto Rico,point2homes
+l_150638077,4 Beds,4 Baths,,"('3,792 Sqft', ' sqft')",Condominium,"1,900,000  575",Puerto Rico,point2homes
+l_146901855,,,120 ac Lot Size,,Farm And Agriculture,"1,700,000 ",Puerto Rico,point2homes
+l_146707843,3 Beds,2 Baths,,"('1,911 Sqft', ' sqft')",Condominium,"449,000 ",Puerto Rico,point2homes
+l_149309584,4 Beds,2 Baths,,"('3,609 Sqft', ' sqft')",Condominium,"650,000 ",Puerto Rico,point2homes
+l_152132735,4 Beds,6 Baths,0.04 ac Lot Size,"('4,400 Sqft', ' sqft')",Residential,"1,900,000 ",Puerto Rico,point2homes
+l_145757558,2 Beds,1 Bath,,"('1,100 Sqft', ' sqft')",Residential,"465,000 ",Puerto Rico,point2homes
+l_139598107,,,0.234 ac Lot Size,,Lots and Land,"275,000 ",Puerto Rico,point2homes
+l_141293658,4 Beds,3 Baths,,"('3,768 Sqft', ' sqft')",Condominium,"3,500,000 ",Puerto Rico,point2homes
+l_141347905,10 Beds,6 Baths,,"('10,000 Sqft', ' sqft')",Residential,"14,000,000 ",Puerto Rico,point2homes
+l_144653162,,,,,Lots And Land,"399,999  99.9",Puerto Rico,point2homes
+l_146707478,,,18.32 ac Lot Size,,Residential,"679,000 ",Puerto Rico,point2homes
+l_128219873,4 Beds,2 Baths,1 ac Lot Size,,Residential,"525,000 ",Puerto Rico,point2homes
+l_160078226,,,0.312 ac Lot Size,,Lots and Land,"85,000 ",Puerto Rico,point2homes
+l_157549457,,,0.488 ac Lot Size,,Lots And Land,"59,000 ",Puerto Rico,point2homes
+l_150646908,3 Beds,2 Baths,,"('3,930 Sqft', ' sqft')",Residential,"475,000 ",Puerto Rico,point2homes
+l_149244783,3 Beds,4 Baths,2 ac Lot Size,"('5,200 Sqft', ' sqft')",Residential,"950,000 ",Puerto Rico,point2homes
+l_155411724,3 Beds,2 Baths,,"('1,472 Sqft', ' sqft')",Residential,"728,000 ",Puerto Rico,point2homes
+l_159782432,5 Beds,4 Baths,,"('3,967 Sqft', ' sqft')",Residential,"625,000 ",Puerto Rico,point2homes
+l_147910582,,,,,Residential,40 ,Puerto Rico,point2homes
+l_151381003,,,0.11 ac Lot Size,,Lots And Land,"395,000 ",Puerto Rico,point2homes
+l_154788791,3 Beds,1 Bath,,"('1,800 Sqft', ' sqft')",Residential,"77,000 ",Puerto Rico,point2homes
+l_150165745,,,15 ac Lot Size,,Lots And Land,"75,000  15",Puerto Rico,point2homes
+l_156213964,,,9.2 ac Lot Size,,Farm and Ranch,"180,000  20",Puerto Rico,point2homes
+l_161323702,5 Beds,10 Baths,1 ac Lot Size,"('7,816 Sqft', ' sqft')",Residential,"4,500,000 ",Puerto Rico,point2homes
+l_154657697,2 Beds,2 Baths,,,Residential,"89,900 ",Puerto Rico,point2homes
+l_146699070,,,0.335 ac Lot Size,,Lots And Land,"90,000 ",Puerto Rico,point2homes
+l_139103283,4 Beds,2 Baths,,,Multifamily,"220,000 ",Puerto Rico,point2homes
+l_157549383,20 Beds,13 Baths,0.302 ac Lot Size,"('5,000 Sqft', ' sqft')",Multifamily,"1,000,000 ",Puerto Rico,point2homes
+l_160755883,10 Beds,10 Baths,,"('1 Sqft', ' sqft')",Residential,"2,000,000 ",Puerto Rico,point2homes
+l_141242990,,,77 ac Lot Size,,Residential,"449,000 ",Puerto Rico,point2homes
+l_137096881,4 Beds,4 Baths,0.332 ac Lot Size,"('3,635 Sqft', ' sqft')",Residential,"4,450,000 ",Puerto Rico,point2homes
+l_141214049,3 Beds,1 Bath,,"('87,658.81 Sqft', ' sqft')",Residential,"775,000 ",Puerto Rico,point2homes
+l_160995173,3 Beds,2 Baths,,"('1,803 Sqft', ' sqft')",Condominium,"479,000 ",Puerto Rico,point2homes
+l_150407524,,,,"('10,763.91 Sqft', ' sqft')",Lots And Land,"195,999 ",Puerto Rico,point2homes
+l_157549402,,,,,Lots and Land,"64,700  10.1",Puerto Rico,point2homes
+l_141675435,5 Beds,3 Baths,0.247 ac Lot Size,"('6,300 Sqft', ' sqft')",Residential,"1,649,000  241",Puerto Rico,point2homes
+l_147492794,2 Beds,2 Baths,0.203 ac Lot Size,,Residential,"249,000  150",Puerto Rico,point2homes
+l_153127356,7 Beds,4 Baths,,,Residential,"89,900  10",Puerto Rico,point2homes
+l_141242995,4 Beds,3 Baths,,"('2,998 Sqft', ' sqft')",Condominium,"1,375,000 ",Puerto Rico,point2homes
+l_144404450,5 Beds,3 Baths,0.111 ac Lot Size,"('3,050 Sqft', ' sqft')",Residential,"2,750,000 ",Puerto Rico,point2homes
+l_153816214,3 Beds,3 Baths,,"('1,960 Sqft', ' sqft')",Residential,"1,295,000 ",Puerto Rico,point2homes
+l_157549378,5 Beds,3 Baths,2.02 ac Lot Size,,Residential,"797,000 ",Puerto Rico,point2homes
+l_131793166,,,,,Residential,"250,000 ",Puerto Rico,point2homes
+l_151586979,,,,"('16,000 Sqft', ' sqft')",Condominium,"1,925,000  275",Puerto Rico,point2homes
+l_158518497,,,0.326 ac Lot Size,,Lots and Land,"245,000 ",Puerto Rico,point2homes
+l_138196601,4 Beds,3 Baths,0.118 ac Lot Size,"('3,300 Sqft', ' sqft')",Residential,"1,295,000 ",Puerto Rico,point2homes
+l_159036907,,,,,Residential,"225,000 ",Puerto Rico,point2homes
+l_151064212,,,0.109 ac Lot Size,,Lots And Land,"395,000 ",Puerto Rico,point2homes
+l_150578303,4 Beds,2 Baths,,"('3,681.26 Sqft', ' sqft')",Residential,"125,900 ",Puerto Rico,point2homes
+l_141656662,2 Beds,3 Baths,,"('1,765 Sqft', ' sqft')",Residential,"675,000 ",Puerto Rico,point2homes
+l_154532526,3 Beds,4 Baths,,"('6,425.96 Sqft', ' sqft')",Residential,"19,000,000 ",Puerto Rico,point2homes
+l_122175336,4 Beds,4 Baths,,,Residential,"1,500,000 ",Puerto Rico,point2homes
+l_148216379,3 Beds,3 Baths,,"('2,500 Sqft', ' sqft')",Residential,"350,000 ",Puerto Rico,point2homes
+l_142586871,,,32 ac Lot Size,"('1,438,069.62 Sqft', ' sqft')",Lots And Land,"899,000 ",Puerto Rico,point2homes
+l_158101094,,,0.023 ac Lot Size,,Lots And Land,"85,500 ",Puerto Rico,point2homes
+l_158801639,,,,,Lots and Land,"374,900 ",Puerto Rico,point2homes
+l_153467390,,,0.206 ac Lot Size,,Lots And Land,"659,000 ",Puerto Rico,point2homes
+l_157221507,,,,"('129,962.48 Sqft', ' sqft')",Lots and Land,"85,000 ",Puerto Rico,point2homes
+l_157717910,3 Beds,3 Baths,,"('3,359 Sqft', ' sqft')",Condominium,"2,800,000 ",Puerto Rico,point2homes
+l_160866524,9 Beds,6 Baths,,,Multifamily,"350,000 ",Puerto Rico,point2homes
+l_157074701,,,0.89 ac Lot Size,,Lots and Land,"299,000 ",Puerto Rico,point2homes
+l_149709646,3 Beds,1 Bath,0.004 ac Lot Size,"('684 Sqft', ' sqft')",Residential,"69,900  20",Puerto Rico,point2homes
+l_145044894,2 Beds,2 Baths,,"('1,023 Sqft', ' sqft')",Residential,"239,500 ",Puerto Rico,point2homes
+l_129457133,4 Beds,4 Baths,0.76 ac Lot Size,"('3,823.41 Sqft', ' sqft')",Residential,"6,100,000 ",Puerto Rico,point2homes
+l_160253424,2 Beds,2 Baths,,"('1,149 Sqft', ' sqft')",Residential,"749,990 ",Puerto Rico,point2homes
+l_160499838,4 Beds,3 Baths,,"('3,770.15 Sqft', ' sqft')",Residential,"4,300,000 ",Puerto Rico,point2homes
+l_154912517,2 Beds,1 Bath,,,Residential,"105,000 ",Puerto Rico,point2homes
+l_154656605,,1 Bath,,"('1,976 Sqft', ' sqft')",Residential,"700,000 ",Puerto Rico,point2homes
+l_157549295,3 Beds,2 Baths,,"('1,350 Sqft', ' sqft')",Condominium,"299,000 ",Puerto Rico,point2homes
+l_150800110,3 Beds,4 Baths,,"('1,677 Sqft', ' sqft')",Residential,"285,000 ",Puerto Rico,point2homes
+l_155755571,,,0.874 ac Lot Size,,Lots And Land,"90,000 ",Puerto Rico,point2homes
+l_128548527,,,0.023 ac Lot Size,,Lots And Land,"45,653 ",Puerto Rico,point2homes
+l_154355263,4 Beds,3 Baths,0.007 ac Lot Size,"('1,463 Sqft', ' sqft')",Residential,"499,000 ",Puerto Rico,point2homes
+l_157549459,4 Beds,5 Baths,,"('6,128 Sqft', ' sqft')",Residential,"6,000,000 ",Puerto Rico,point2homes
+l_142124358,2 Beds,2 Baths,,"('1,271 Sqft', ' sqft')",Condominium,"365,000 ",Puerto Rico,point2homes
+l_145493911,2 Beds,2 Baths,,"('1,023 Sqft', ' sqft')",Condominium,"199,900 ",Puerto Rico,point2homes
+l_156109756,,,0.335 ac Lot Size,,Lots and Land,"84,000 ",Puerto Rico,point2homes
+l_155072953,3 Beds,2 Baths,,,Residential,"259,750 ",Puerto Rico,point2homes
+l_151176671,4 Beds,4 Baths,,"('3,546 Sqft', ' sqft')",Residential,"4,395,000 ",Puerto Rico,point2homes
+l_157549433,,,,,Lots and Land,"249,000 ",Puerto Rico,point2homes
+l_154958113,,,,,Residential,"27,000 ",Puerto Rico,point2homes
+l_156474914,7 Beds,8 Baths,0.23 ac Lot Size,"('10,300 Sqft', ' sqft')",Residential,"7,995,000  1",Puerto Rico,point2homes
+l_136410485,,,,"('43,701.48 Sqft', ' sqft')",Lots and Land,"115,000 ",Puerto Rico,point2homes
+l_139891787,5 Beds,3 Baths,,,Residential,"950,000 ",Puerto Rico,point2homes
+l_160651627,,,0.347 ac Lot Size,,Residential,"200,000 ",Puerto Rico,point2homes
+l_149962737,4 Beds,3 Baths,5.5 ac Lot Size,"('2,475 Sqft', ' sqft')",Residential,"875,000 ",Puerto Rico,point2homes
+l_132213044,6 Beds,4 Baths,0.126 ac Lot Size,"('3,625 Sqft', ' sqft')",Residential,"544,000 ",Puerto Rico,point2homes
+l_153249871,,,0.317 ac Lot Size,,Lots and Land,"169,000 ",Puerto Rico,point2homes
+l_149572038,6 Beds,4 Baths,0.894 ac Lot Size,"('5,000 Sqft', ' sqft')",Residential,"749,000 ",Puerto Rico,point2homes
+l_146699052,,,3 ac Lot Size,,Lots And Land,"1,200,000 ",Puerto Rico,point2homes
+l_149473179,3 Beds,2 Baths,0.136 ac Lot Size,"('832 Sqft', ' sqft')",Residential,"499,000 ",Puerto Rico,point2homes
+l_150019914,2 Beds,2 Baths,,,Residential,"84,900 ",Puerto Rico,point2homes
+l_146837714,5 Beds,3 Baths,,,Multifamily,"220,000 ",Puerto Rico,point2homes
+l_148694919,,,,"('600 Sqft', ' sqft')",Residential,"229,000 ",Puerto Rico,point2homes
+l_140290689,4 Beds,3 Baths,,,Residential,"682,000 ",Puerto Rico,point2homes
+l_156899431,4 Beds,5 Baths,0.88 ac Lot Size,"('13,000 Sqft', ' sqft')",Residential,"22,000,000 ",Puerto Rico,point2homes
+l_154173794,3 Beds,2 Baths,,"('1,900 Sqft', ' sqft')",Residential,"360,000 ",Puerto Rico,point2homes
+l_156110602,2 Beds,1 Bath,,"('709 Sqft', ' sqft')",Condominium,"255,000 ",Puerto Rico,point2homes
+l_149608184,8 Beds,5 Baths,0.06 ac Lot Size,"('3,661 Sqft', ' sqft')",Residential,"1,600,000 ",Puerto Rico,point2homes
+l_152957178,,,0.298 ac Lot Size,,Lots and Land,"35,000  13.5",Puerto Rico,point2homes
+l_157957479,3 Beds,4 Baths,,"('2,080 Sqft', ' sqft')",Residential,"795,000 ",Puerto Rico,point2homes
+l_137333672,4 Beds,3 Baths,,"('4,660 Sqft', ' sqft')",Residential,"1,650,000  200",Puerto Rico,point2homes
+l_136410535,,,16 ac Lot Size,"('696,973.96 Sqft', ' sqft')",Lots and Land,"1,300,000 ",Puerto Rico,point2homes
+l_157970698,2 Beds,1 Bath,0.216 ac Lot Size,,Residential,"320,000 ",Puerto Rico,point2homes
+l_156514386,4 Beds,4 Baths,0.2 ac Lot Size,"('3,500 Sqft', ' sqft')",Residential,"875,000 ",Puerto Rico,point2homes
+l_157669772,,,0.078 ac Lot Size,,Lots And Land,"178,500 ",Puerto Rico,point2homes
+l_160617557,3 Beds,1 Bath,,,Residential,"70,000 ",Puerto Rico,point2homes
+l_139997939,,,,,Residential,"800,000 ",Puerto Rico,point2homes
+l_160306082,3 Beds,2 Baths,,"('1,560 Sqft', ' sqft')",Residential,"107,000 ",Puerto Rico,point2homes
+l_160328692,3 Beds,3 Baths,,,Residential,"579,000 ",Puerto Rico,point2homes
+l_130905506,4 Beds,3 Baths,0.272 ac Lot Size,"('3,647 Sqft', ' sqft')",Residential,"1,999,000 ",Puerto Rico,point2homes
+l_148371593,3 Beds,3 Baths,0.525 ac Lot Size,,Residential,"2,200,000 ",Puerto Rico,point2homes
+l_155689987,,,,,Lots and Land,"90,000 ",Puerto Rico,point2homes
+l_149526926,4 Beds,2 Baths,0.082 ac Lot Size,"('2,500 Sqft', ' sqft')",Residential,"675,000 ",Puerto Rico,point2homes
+l_147496492,,,,"('8,789.06 Sqft', ' sqft')",Lots And Land,"65,000 ",Puerto Rico,point2homes
+l_160865286,3 Beds,3 Baths,0.19 ac Lot Size,"('1,244 Sqft', ' sqft')",Residential,"750,000 ",Puerto Rico,point2homes
+l_142192790,7 Beds,3 Baths,1.938 ac Lot Size,"('3,675 Sqft', ' sqft')",Residential,"1,395,000 ",Puerto Rico,point2homes
+l_145046821,3 Beds,2 Baths,11 ac Lot Size,,Lots And Land,"260,000 ",Puerto Rico,point2homes
+l_153505549,14 Beds,10 Baths,,,Residential,"6,200,000 ",Puerto Rico,point2homes
+l_152060234,,,,,Lots and Land,"217,900  27.2",Puerto Rico,point2homes
+l_157549240,5 Beds,4 Baths,0.07 ac Lot Size,"('3,209 Sqft', ' sqft')",Multifamily,"2,500,000  300",Puerto Rico,point2homes
+l_147750743,4 Beds,3 Baths,,"('2,705 Sqft', ' sqft')",Residential,"1,295,000 ",Puerto Rico,point2homes
+l_155487189,,,,,Residential,"225,000 ",Puerto Rico,point2homes
+l_133860095,4 Beds,4 Baths,0.229 ac Lot Size,"('3,400 Sqft', ' sqft')",Residential,"1,199,000 ",Puerto Rico,point2homes
+l_157669775,,,0.109 ac Lot Size,,Lots And Land,"150,000 ",Puerto Rico,point2homes
+l_160078222,,,15 ac Lot Size,,Lots and Land,"519,500 ",Puerto Rico,point2homes
+l_140484123,5 Beds,3 Baths,,,Residential,"148,500 ",Puerto Rico,point2homes
+l_160724977,5 Beds,4 Baths,0.05 ac Lot Size,"('3,000 Sqft', ' sqft')",Residential,"1,895,000 ",Puerto Rico,point2homes
+l_157549362,4 Beds,3 Baths,0.35 ac Lot Size,"('2,654 Sqft', ' sqft')",Residential,"1,800,000 ",Puerto Rico,point2homes
+l_147241016,,,11 ac Lot Size,"('465,323.84 Sqft', ' sqft')",Other,"2,500,000 ",Puerto Rico,point2homes
+l_140435241,,,,,Residential,"820,000 ",Puerto Rico,point2homes
+l_130905547,5 Beds,3 Baths,,,Residential,"1,200,000 ",Puerto Rico,point2homes
+l_155300516,2 Beds,2 Baths,,"('1,093.5 Sqft', ' sqft')",Residential,"330,000 ",Puerto Rico,point2homes
+l_150292278,,,0.988 ac Lot Size,,Lots and Land,"715,000  235",Puerto Rico,point2homes
+l_154327297,3 Beds,2 Baths,,"('2,500 Sqft', ' sqft')",Condominium,"900,000 ",Puerto Rico,point2homes
+l_150578315,3 Beds,2 Baths,,,Condominium,"178,000 ",Puerto Rico,point2homes
+l_152698100,,,15 ac Lot Size,,Farm and Ranch,"150,000 ",Puerto Rico,point2homes
+l_137653428,5 Beds,4 Baths,,"('3,930 Sqft', ' sqft')",Residential,"3,750,000 ",Puerto Rico,point2homes
+l_146836376,5 Beds,3 Baths,0.113 ac Lot Size,"('2,400 Sqft', ' sqft')",Multifamily,"1,150,000 ",Puerto Rico,point2homes
+l_146000501,,,,,Lots And Land,"70,000 ",Puerto Rico,point2homes
+l_157578042,,,5 ac Lot Size,,Lots And Land,"382,500 ",Puerto Rico,point2homes
+l_127917013,,,0.072 ac Lot Size,,Lots And Land,"79,900 ",Puerto Rico,point2homes
+l_149182079,,,,,Residential,"230,000 ",Puerto Rico,point2homes
+l_139448946,5 Beds,5 Baths,1.963 ac Lot Size,"('3,221 Sqft', ' sqft')",Residential,"5,500,000 ",Puerto Rico,point2homes
+l_154350412,4 Beds,3 Baths,,"('1,700 Sqft', ' sqft')",Residential,"89,600  11.2",Puerto Rico,point2homes
+l_159549117,,,,"('8,837.17 Sqft', ' sqft')",Lots and Land,"250,000 ",Puerto Rico,point2homes
+l_152707075,3 Beds,2 Baths,,"('3,018 Sqft', ' sqft')",Condominium,"549,000 ",Puerto Rico,point2homes
+l_157549232,3 Beds,2 Baths,,"('1,392 Sqft', ' sqft')",Condominium,"360,000 ",Puerto Rico,point2homes
+l_142990841,3 Beds,1 Bath,,,Residential,"108,000 ",Puerto Rico,point2homes
+l_157957456,10 Beds,10 Baths,,"('5,000 Sqft', ' sqft')",Residential,"1,695,000 ",Puerto Rico,point2homes
+l_151055986,4 Beds,3 Baths,0.386 ac Lot Size,,Residential,"280,000 ",Puerto Rico,point2homes
+l_144305798,3 Beds,2 Baths,,"('1,250 Sqft', ' sqft')",Residential,"300,000 ",Puerto Rico,point2homes
+l_132222947,3 Beds,2 Baths,,,Residential,"540,000 ",Puerto Rico,point2homes
+l_158791534,,,1 ac Lot Size,,Lots And Land,"9,000,000 ",Puerto Rico,point2homes
+l_128906093,9 Beds,7 Baths,1 ac Lot Size,"('7,816 Sqft', ' sqft')",Residential,"7,500,000 ",Puerto Rico,point2homes
+l_146511052,,,,"('3,380 Sqft', ' sqft')",Other,"150,000 ",Puerto Rico,point2homes
+l_156521430,3 Beds,1 Bath,0.006 ac Lot Size,"('1,000 Sqft', ' sqft')",Residential,"399,000  46",Puerto Rico,point2homes
+l_128697283,,,1.916 ac Lot Size,,Lots And Land,"299,900 ",Puerto Rico,point2homes
+l_154912563,3 Beds,2 Baths,,"('1,000 Sqft', ' sqft')",Residential,"1,499,999 ",Puerto Rico,point2homes
+l_135701293,16 Beds,15 Baths,661.21 ac Lot Size,"('12,803 Sqft', ' sqft')",Residential,"16,000,000 ",Puerto Rico,point2homes
+l_149586736,2 Beds,2 Baths,0.063 ac Lot Size,"('919 Sqft', ' sqft')",Residential,"43,000  6.9",Puerto Rico,point2homes
+l_142566442,1 Bed,1 Bath,,"('898 Sqft', ' sqft')",Residential,"350,000 ",Puerto Rico,point2homes
+l_160213856,4 Beds,4 Baths,,"('2,845 Sqft', ' sqft')",Residential,"995,000 ",Puerto Rico,point2homes
+l_150406356,3 Beds,2 Baths,,,Residential,"430,000  50",Puerto Rico,point2homes
+l_159554613,,,,"('9,569.12 Sqft', ' sqft')",Lots and Land,"280,000 ",Puerto Rico,point2homes
+l_143410097,3 Beds,3 Baths,,"('2,000 Sqft', ' sqft')",Residential,"438,000 ",Puerto Rico,point2homes
+l_160723037,2 Beds,1 Bath,,"('1,165 Sqft', ' sqft')",Residential,"515,000 ",Puerto Rico,point2homes
+l_155306320,2 Beds,1 Bath,,"('910 Sqft', ' sqft')",Residential,"475,000 ",Puerto Rico,point2homes
+l_136805605,,,0.145 ac Lot Size,"('6,295.38 Sqft', ' sqft')",Lots and Land,"44,000 ",Puerto Rico,point2homes
+l_157578045,,,2.48 ac Lot Size,,Lots And Land,"170,000 ",Puerto Rico,point2homes
+l_158647793,3 Beds,4 Baths,0.09 ac Lot Size,"('2,800 Sqft', ' sqft')",Residential,"925,000 ",Puerto Rico,point2homes
+l_146687766,10 Beds,4 Baths,0.108 ac Lot Size,"('2,830 Sqft', ' sqft')",Multifamily,"595,000 ",Puerto Rico,point2homes
+l_146931811,,,145 ac Lot Size,"('1,560.77 Sqft', ' sqft')",Lots and Land,"16,500,000 ",Puerto Rico,point2homes
+l_140156636,3 Beds,2 Baths,,"('2,000 Sqft', ' sqft')",Residential,"695,000 ",Puerto Rico,point2homes
+l_150930147,12 Beds,8 Baths,0.175 ac Lot Size,"('6,255 Sqft', ' sqft')",MultiFamily,"1,200,000 ",Puerto Rico,point2homes
+l_158779964,3 Beds,3 Baths,,"('3,025 Sqft', ' sqft')",Residential,"4,100,000 ",Puerto Rico,point2homes
+l_144305791,,,0.191 ac Lot Size,"('8,320.5 Sqft', ' sqft')",Residential,"69,000 ",Puerto Rico,point2homes
+l_148265621,4 Beds,3 Baths,,"('4,163 Sqft', ' sqft')",Residential,"1,950,000 ",Puerto Rico,point2homes
+l_139037296,,,0.5 ac Lot Size,,Lots and Land,"74,500 ",Puerto Rico,point2homes
+l_154651796,2 Beds,2 Baths,0.05 ac Lot Size,"('1,012 Sqft', ' sqft')",Residential,"89,900 ",Puerto Rico,point2homes
+l_156110825,3 Beds,1 Bath,0.154 ac Lot Size,,Residential,"139,000 ",Puerto Rico,point2homes
+l_136410496,,,0.704 ac Lot Size,"('30,677.14 Sqft', ' sqft')",Lots And Land,"100,000 ",Puerto Rico,point2homes
+l_157717970,3 Beds,3 Baths,,"('2,767 Sqft', ' sqft')",Condominium,"3,000,000 ",Puerto Rico,point2homes
+l_161701497,,,10.28 ac Lot Size,,Lots and Land,"175,000 ",Puerto Rico,point2homes
+l_141656373,,,0.04 ac Lot Size,,Lots And Land,"400,000 ",Puerto Rico,point2homes
+l_143542091,,,46.356 ac Lot Size,,Residential,"279,900 ",Puerto Rico,point2homes
+l_142582019,,,0.203 ac Lot Size,,Lots And Land,"28,000 ",Puerto Rico,point2homes
+l_147128893,,,,"('126,919.2 Sqft', ' sqft')",Residential,"65,000 ",Puerto Rico,point2homes
+l_156033367,5 Beds,4 Baths,,,Residential,"3,150,000 ",Puerto Rico,point2homes
+l_157899778,,,"1,406.546 ac Lot Size",,Lots and Land,"399,000  50",Puerto Rico,point2homes
+l_158082411,3 Beds,2 Baths,0.503 ac Lot Size,"('3,100 Sqft', ' sqft')",Residential,"875,000 ",Puerto Rico,point2homes
+l_160217760,3 Beds,2 Baths,,"('1,762.72 Sqft', ' sqft')",Condominium,"579,000 ",Puerto Rico,point2homes
+l_161383397,7 Beds,2 Baths,,"('1,237.85 Sqft', ' sqft')",Multifamily,"79,900 ",Puerto Rico,point2homes
+l_161408208,1 Bed,1 Bath,,"('900.63 Sqft', ' sqft')",Condominium,"331,000 ",Puerto Rico,point2homes
+l_137243562,2 Beds,2 Baths,,"('1,200 Sqft', ' sqft')",Residential,"250,000 ",Puerto Rico,point2homes
+l_159220993,3 Beds,2 Baths,,"('1,134 Sqft', ' sqft')",Residential,"215,000 ",Puerto Rico,point2homes
+l_158027860,3 Beds,2 Baths,0.015 ac Lot Size,"('1,200 Sqft', ' sqft')",Residential,"305,000 ",Puerto Rico,point2homes
+l_157221524,,,,"('165,856.79 Sqft', ' sqft')",Lots and Land,"90,000 ",Puerto Rico,point2homes
+l_155736506,4 Beds,3 Baths,,,Residential,"525,000 ",Puerto Rico,point2homes
+l_157538179,,,,,Residential,"950,000 ",Puerto Rico,point2homes
+l_130620709,,,,"('42,463.62 Sqft', ' sqft')",Lots And Land,"75,000 ",Puerto Rico,point2homes
+l_153655404,,,,"('42,302.17 Sqft', ' sqft')",Commercial,"389,000  60",Puerto Rico,point2homes
+l_148109418,1 Bed,1 Bath,,"('513 Sqft', ' sqft')",Residential,"58,000 ",Puerto Rico,point2homes
+l_152042408,,,,,Lots and Land,"818,900  102",Puerto Rico,point2homes
+l_136917582,,,0.013 ac Lot Size,,Lots And Land,"44,000 ",Puerto Rico,point2homes
+l_21060107,6 Beds,4 Baths,,,Residential,"250,000 ",Puerto Rico,point2homes
+l_156564051,10 Beds,9 Baths,1 ac Lot Size,"('6,000 Sqft', ' sqft')",Multifamily,"3,100,000 ",Puerto Rico,point2homes
+l_136363908,3 Beds,2 Baths,,"('1,400 Sqft', ' sqft')",Condominium,"210,000 ",Puerto Rico,point2homes
+l_155736469,,,,"('13,788.03 Sqft', ' sqft')",Lots and Land,"219,000 ",Puerto Rico,point2homes
+l_145899635,4 Beds,2 Baths,,,Residential,"125,000 ",Puerto Rico,point2homes
+l_158163585,3 Beds,4 Baths,,,Residential,"495,000 ",Puerto Rico,point2homes
+l_158576028,,,,,Residential,"124,000 ",Puerto Rico,point2homes
+l_157222736,4 Beds,4 Baths,0.125 ac Lot Size,"('3,300 Sqft', ' sqft')",Residential,"1,250,000 ",Puerto Rico,point2homes
+l_157941360,4 Beds,3 Baths,,"('2,613 Sqft', ' sqft')",Residential,"585,000 ",Puerto Rico,point2homes
+l_158963250,,,,"('76,154.67 Sqft', ' sqft')",Lots and Land,"199,000 ",Puerto Rico,point2homes
+l_160653391,3 Beds,2 Baths,,"('988 Sqft', ' sqft')",Residential,"88,000 ",Puerto Rico,point2homes
+l_150023784,3 Beds,3 Baths,0.06 ac Lot Size,"('2,000 Sqft', ' sqft')",Residential,"525,000 ",Puerto Rico,point2homes
+l_140221163,4 Beds,4 Baths,0.45 ac Lot Size,"('3,718.5 Sqft', ' sqft')",Residential,"2,650,000 ",Puerto Rico,point2homes
+l_156110653,2 Beds,1 Bath,,"('955.25 Sqft', ' sqft')",Residential,"260,000 ",Puerto Rico,point2homes
+l_155353106,4 Beds,3 Baths,,"('2,400 Sqft', ' sqft')",Residential,"1,075,000 ",Puerto Rico,point2homes
+l_157720944,3 Beds,2 Baths,,,Condominium,"455,000 ",Puerto Rico,point2homes
+l_157549413,3 Beds,2 Baths,,"('1,400 Sqft', ' sqft')",Condominium,"225,000 ",Puerto Rico,point2homes
+l_156470042,6 Beds,7 Baths,,"('9,310 Sqft', ' sqft')",Residential,"5,000,000 ",Puerto Rico,point2homes
+l_144327900,7 Beds,6 Baths,,"('5,214 Sqft', ' sqft')",Residential,"700,000 ",Puerto Rico,point2homes
+l_136711315,3 Beds,2 Baths,,"('2,069 Sqft', ' sqft')",Residential,"2,495,000 ",Puerto Rico,point2homes
+l_154651763,,,0.029 ac Lot Size,,Lots And Land,"125,000  25",Puerto Rico,point2homes
+l_158466224,3 Beds,2 Baths,,"('17,222.26 Sqft', ' sqft')",Residential,"385,000 ",Puerto Rico,point2homes
+l_141549613,3 Beds,2 Baths,,"('1,573 Sqft', ' sqft')",Residential,"1,495,000 ",Puerto Rico,point2homes
+l_154299695,,,,,Residential,"285,000 ",Puerto Rico,point2homes
+l_134616846,,,,,Lots and Land,"45,000 ",Puerto Rico,point2homes
+l_157549416,2 Beds,2 Baths,,"('1,258 Sqft', ' sqft')",Residential,"385,000 ",Puerto Rico,point2homes
+l_149857213,,,,"('40,913.62 Sqft', ' sqft')",Lots and Land,"80,000  15",Puerto Rico,point2homes
+l_160965547,,,0.656 ac Lot Size,,Lots And Land,"3,900,000 ",Puerto Rico,point2homes
+l_150968760,,,,,Other,"6,500,000 ",Puerto Rico,point2homes
+l_143815244,3 Beds,1 Bath,0.9 ac Lot Size,,Lots and Land,"1,995,000 ",Puerto Rico,point2homes
+l_158773464,,2 Baths,5.6 ac Lot Size,"('243,931.74 Sqft', ' sqft')",Farm and Ranch,"895,000 ",Puerto Rico,point2homes
+l_154461501,,,0.275 ac Lot Size,"('28,664.29 Sqft', ' sqft')",Lots and Land,"1,400,000 ",Puerto Rico,point2homes
+l_160013352,,,0.217 ac Lot Size,"('1,200 Sqft', ' sqft')",Residential,"300,000 ",Puerto Rico,point2homes
+l_158963199,5 Beds,3 Baths,,"('3,455.22 Sqft', ' sqft')",Multifamily,"110,000 ",Puerto Rico,point2homes
+l_141656092,,,1.47 ac Lot Size,,Lots And Land,"135,000 ",Puerto Rico,point2homes
+l_153800882,4 Beds,3 Baths,,"('1,339 Sqft', ' sqft')",Residential,"118,000 ",Puerto Rico,point2homes
+l_157578058,,,,,Multifamily,"250,000 ",Puerto Rico,point2homes
+l_157578074,,,21.42 ac Lot Size,,Lots And Land,"2,150,000 ",Puerto Rico,point2homes
+l_152042426,4 Beds,3 Baths,,"('5,000 Sqft', ' sqft')",Residential,"1,800,000  199",Puerto Rico,point2homes
+l_122617452,1 Bed,2 Baths,,"('950 Sqft', ' sqft')",Condominium,"650,000  75",Puerto Rico,point2homes
+l_160755875,3 Beds,2 Baths,0.007 ac Lot Size,"('1,556 Sqft', ' sqft')",Residential,"169,000 ",Puerto Rico,point2homes
+l_159655937,,,0.02 ac Lot Size,,Lots And Land,"280,000 ",Puerto Rico,point2homes
+l_124087118,,,1.35 ac Lot Size,"('59,223.04 Sqft', ' sqft')",Lots And Land,"29,000 ",Puerto Rico,point2homes
+l_149474820,,,,"('33,260.48 Sqft', ' sqft')",Lots and Land,"360,000 ",Puerto Rico,point2homes
+l_141774279,4 Beds,2 Baths,,"('1,800 Sqft', ' sqft')",Residential,"369,000 ",Puerto Rico,point2homes
+l_149704420,4 Beds,6 Baths,0.16 ac Lot Size,"('6,900 Sqft', ' sqft')",Residential,"7,500,000  1.4",Puerto Rico,point2homes
+l_155791405,3 Beds,2 Baths,,"('1,875 Sqft', ' sqft')",Residential,"459,000 ",Puerto Rico,point2homes
+l_145338179,,,,,Residential,"700,000 ",Puerto Rico,point2homes
+l_122219906,7 Beds,4 Baths,0.088 ac Lot Size,"('4,600 Sqft', ' sqft')",Residential,"2,450,000 ",Puerto Rico,point2homes
+l_146536620,6 Beds,2 Baths,0.037 ac Lot Size,"('1,306 Sqft', ' sqft')",MultiFamily,"165,000 ",Puerto Rico,point2homes
+l_158578027,,,,,Residential,"370,000  60",Puerto Rico,point2homes
+l_152819554,,,,"('10,053.49 Sqft', ' sqft')",Lots And Land,"55,000 ",Puerto Rico,point2homes
+l_141826379,,,0.363 ac Lot Size,,Lots And Land,"70,000 ",Puerto Rico,point2homes
+l_152138195,,,2.462 ac Lot Size,,Lots And Land,"245,160 ",Puerto Rico,point2homes
+l_160011840,,,0.31 ac Lot Size,,Lots and Land,"72,500 ",Puerto Rico,point2homes
+l_160217777,4 Beds,2 Baths,,,Residential,"158,500 ",Puerto Rico,point2homes
+l_148764430,,,,"('30,499,400,252 Sqft', ' sqft')",Residential,"5,000,000 ",Puerto Rico,point2homes
+l_159896266,,,0.188 ac Lot Size,"('8,198.98 Sqft', ' sqft')",Lots and Land,"58,000 ",Puerto Rico,point2homes
+l_146948432,4 Beds,4 Baths,,"('3,000 Sqft', ' sqft')",Residential,"1,695,000 ",Puerto Rico,point2homes
+l_149396459,,,0.109 ac Lot Size,,Lots And Land,"225,000 ",Puerto Rico,point2homes
+l_137489734,5 Beds,2 Baths,,"('3,433 Sqft', ' sqft')",Multifamily,"449,000  50",Puerto Rico,point2homes
+l_151510137,2 Beds,2 Baths,,"('992 Sqft', ' sqft')",Residential,"279,000  31",Puerto Rico,point2homes
+l_144764980,5 Beds,3 Baths,2 ac Lot Size,,Residential,"165,000 ",Puerto Rico,point2homes
+l_157549356,4 Beds,5 Baths,0.28 ac Lot Size,"('3,400 Sqft', ' sqft')",Residential,"1,480,000 ",Puerto Rico,point2homes
+l_160886836,2 Beds,1 Bath,,"('627 Sqft', ' sqft')",Residential,"114,500 ",Puerto Rico,point2homes
+l_157578072,,,13.7 ac Lot Size,,Lots And Land,"1,165,000 ",Puerto Rico,point2homes
+l_157171799,5 Beds,6 Baths,0.26 ac Lot Size,"('5,500 Sqft', ' sqft')",Residential,"6,995,000 ",Puerto Rico,point2homes
+l_159231981,5 Beds,8 Baths,0.5 ac Lot Size,"('6,610 Sqft', ' sqft')",Residential,"6,483,000 ",Puerto Rico,point2homes
+l_160305982,,,0.234 ac Lot Size,,Lots and Land,"339,000 ",Puerto Rico,point2homes
+l_160433112,3 Beds,3 Baths,,"('1,763 Sqft', ' sqft')",Condominium,"792,000 ",Puerto Rico,point2homes
+l_150498186,,,0.023 ac Lot Size,,Lots And Land,"196,000 ",Puerto Rico,point2homes
+l_158240195,4 Beds,4 Baths,0.007 ac Lot Size,"('1,916 Sqft', ' sqft')",MultiFamily,"676,000 ",Puerto Rico,point2homes
+l_159960457,5 Beds,8 Baths,0.5 ac Lot Size,"('6,595 Sqft', ' sqft')",Residential,"6,279,000 ",Puerto Rico,point2homes
+l_147151807,4 Beds,3 Baths,,,MultiFamily,"275,000 ",Puerto Rico,point2homes
+l_159960453,5 Beds,8 Baths,0.5 ac Lot Size,"('6,595 Sqft', ' sqft')",Residential,"6,238,000 ",Puerto Rico,point2homes
+l_153892418,3 Beds,2 Baths,,"('2,101 Sqft', ' sqft')",Condominium,"1,195,000 ",Puerto Rico,point2homes
+l_146836351,3 Beds,1 Bath,0.988 ac Lot Size,,Lots and Land,"895,000  102",Puerto Rico,point2homes
+l_152906192,4 Beds,3 Baths,0.062 ac Lot Size,"('3,000 Sqft', ' sqft')",Residential,"385,000  84",Puerto Rico,point2homes
+l_156026953,2 Beds,2 Baths,,"('1,235.38 Sqft', ' sqft')",Condominium,"375,000 ",Puerto Rico,point2homes
+l_147239035,4 Beds,3 Baths,0.238 ac Lot Size,"('2,096 Sqft', ' sqft')",Residential,"499,000  80",Puerto Rico,point2homes
+l_143887794,,,28 ac Lot Size,,Lots and Land,"800,000 ",Puerto Rico,point2homes
+l_148407383,,,0.226 ac Lot Size,,Lots And Land,"42,000 ",Puerto Rico,point2homes
+l_145130920,3 Beds,2 Baths,99 ac Lot Size,"('2,500 Sqft', ' sqft')",Farm and Ranch,"3,000,000 ",Puerto Rico,point2homes
+l_139035013,3 Beds,3 Baths,,"('2,765 Sqft', ' sqft')",Condominium,"272,900 ",Puerto Rico,point2homes
+l_159895157,,,,"('10,763.91 Sqft', ' sqft')",Residential,"110,000 ",Puerto Rico,point2homes
+l_156923899,5 Beds,6 Baths,,"('3,167 Sqft', ' sqft')",Residential,"750,000 ",Puerto Rico,point2homes
+l_158425060,3 Beds,3 Baths,,"('1,800 Sqft', ' sqft')",Residential,"1,050,000 ",Puerto Rico,point2homes
+l_155132564,,,0.674 ac Lot Size,,Lots and Land,"50,000 ",Puerto Rico,point2homes
+l_161190597,3 Beds,2 Baths,,"('2,080 Sqft', ' sqft')",Residential,"1,270,000 ",Puerto Rico,point2homes
+l_153921632,7 Beds,4 Baths,0.326 ac Lot Size,"('200 Sqft', ' sqft')",Multifamily,"1,600,000 ",Puerto Rico,point2homes
+l_154208848,,,9 ac Lot Size,,Residential,"490,000  60",Puerto Rico,point2homes
+l_141656475,,,0.07 ac Lot Size,,Lots And Land,"500,000 ",Puerto Rico,point2homes
+l_150348191,,,,"('11,162.17 Sqft', ' sqft')",Lots and Land,"203,252 ",Puerto Rico,point2homes
+l_146460897,,,,"('1,000 Sqft', ' sqft')",Residential,"1,800,000 ",Puerto Rico,point2homes
+l_158013031,,,,"('43,572.31 Sqft', ' sqft')",Lots and Land,"9,000,000 ",Puerto Rico,point2homes
+l_142624093,4 Beds,2 Baths,,"('2,500 Sqft', ' sqft')",Residential,"350,000 ",Puerto Rico,point2homes
+l_146948772,4 Beds,4 Baths,,"('3,000 Sqft', ' sqft')",Residential,"1,600,000 ",Puerto Rico,point2homes
+l_155346365,5 Beds,3 Baths,0.052 ac Lot Size,"('11,728 Sqft', ' sqft')",Multifamily,"899,000 ",Puerto Rico,point2homes
+l_155736059,,,0.374 ac Lot Size,"('16,307.32 Sqft', ' sqft')",Lots and Land,"1,400,000 ",Puerto Rico,point2homes
+l_159321801,3 Beds,5 Baths,0.42 ac Lot Size,"('2,500 Sqft', ' sqft')",Residential,"1,950,000 ",Puerto Rico,point2homes
+l_130607433,5 Beds,6 Baths,,,Residential,"10,000,000 ",Puerto Rico,point2homes
+l_145349751,4 Beds,4 Baths,0.21 ac Lot Size,"('3,100 Sqft', ' sqft')",Residential,"1,950,000 ",Puerto Rico,point2homes
+l_160812991,4 Beds,4 Baths,,"('3,940 Sqft', ' sqft')",Residential,"1,100,000 ",Puerto Rico,point2homes
+l_117415174,3 Beds,2 Baths,0.112 ac Lot Size,"('1,900 Sqft', ' sqft')",Residential,"425,000 ",Puerto Rico,point2homes
+l_144305629,,,0.176 ac Lot Size,,Lots And Land,"69,000 ",Puerto Rico,point2homes
+l_157325887,,,0.277 ac Lot Size,,Lots And Land,"85,000 ",Puerto Rico,point2homes
+l_159895200,,,0.27 ac Lot Size,"('11,894.12 Sqft', ' sqft')",Lots and Land,"20,000 ",Puerto Rico,point2homes
+l_159223614,2 Beds,2 Baths,,"('1,522.77 Sqft', ' sqft')",Residential,"795,000 ",Puerto Rico,point2homes
+l_161702181,,,0.047 ac Lot Size,,Lots And Land,"289,000 ",Puerto Rico,point2homes
+l_150815894,1 Bed,1 Bath,,"('615 Sqft', ' sqft')",Condominium,"255,000 ",Puerto Rico,point2homes
+l_146734911,,,1.3 ac Lot Size,,Lots and Land,"215,000  35",Puerto Rico,point2homes
+l_137042033,,,0.018 ac Lot Size,,Lots And Land,"120,000 ",Puerto Rico,point2homes
+l_142570481,5 Beds,5 Baths,,"('3,957 Sqft', ' sqft')",Residential,"285,000  30",Puerto Rico,point2homes
+l_147036379,4 Beds,4 Baths,,"('3,200 Sqft', ' sqft')",Residential,"1,800,000 ",Puerto Rico,point2homes
+l_157237768,4 Beds,3 Baths,0.383 ac Lot Size,"('2,700 Sqft', ' sqft')",Residential,"695,000 ",Puerto Rico,point2homes
+l_129113269,,,5.8 ac Lot Size,,Lots And Land,"180,000 ",Puerto Rico,point2homes
+l_149757822,1 Bed,1 Bath,,"('833.62 Sqft', ' sqft')",Condominium,"535,000 ",Puerto Rico,point2homes
+l_140865450,,,0.321 ac Lot Size,"('13,993 Sqft', ' sqft')",Lots And Land,"465,000 ",Puerto Rico,point2homes
+l_126204532,,,,,Residential,"3,500,000 ",Puerto Rico,point2homes
+l_141299395,3 Beds,2 Baths,,,Residential,"120,000 ",Puerto Rico,point2homes
+l_154681908,3 Beds,4 Baths,0.14 ac Lot Size,"('3,921 Sqft', ' sqft')",Residential,"9,900,000  1.6",Puerto Rico,point2homes
+l_152838442,,,0.023 ac Lot Size,,Lots And Land,"74,800 ",Puerto Rico,point2homes
+l_160743415,,,,,Lots and Land,70 ,Puerto Rico,point2homes
+l_159778385,,,0.29 ac Lot Size,,Lots And Land,"995,000 ",Puerto Rico,point2homes
+l_150871551,3 Beds,3 Baths,,"('2,868 Sqft', ' sqft')",Residential,"13,500,000 ",Puerto Rico,point2homes
+l_157549397,3 Beds,2 Baths,,"('1,741 Sqft', ' sqft')",Residential,"1,400,000 ",Puerto Rico,point2homes
+l_147968960,4 Beds,3 Baths,0.135 ac Lot Size,"('1,643 Sqft', ' sqft')",Residential,"214,000 ",Puerto Rico,point2homes
+l_147493735,,,24.3 ac Lot Size,,Lots And Land,"385,000 ",Puerto Rico,point2homes
+l_146741771,3 Beds,1 Bath,,"('959 Sqft', ' sqft')",Residential,"119,000 ",Puerto Rico,point2homes
+l_141632925,,,,"('497 Sqft', ' sqft')",Residential,"120,000 ",Puerto Rico,point2homes
+l_158117618,4 Beds,4 Baths,,"('3,379.87 Sqft', ' sqft')",Multifamily,"676,000 ",Puerto Rico,point2homes
+l_153187312,7 Beds,4 Baths,0.022 ac Lot Size,"('1 Sqft', ' sqft')",Residential,"89,900  10",Puerto Rico,point2homes
+l_153246152,,,,,Lots And Land,"35,000 ",Puerto Rico,point2homes
+l_155131081,4 Beds,5 Baths,,"('4,113 Sqft', ' sqft')",Condominium,"3,550,000 ",Puerto Rico,point2homes
+l_158528489,4 Beds,3 Baths,,"('2,834 Sqft', ' sqft')",Residential,"725,000 ",Puerto Rico,point2homes
+l_155736056,,,0.374 ac Lot Size,"('16,307.32 Sqft', ' sqft')",Other,"1,400,000 ",Puerto Rico,point2homes
+l_135854613,,,,,Residential,"289,000 ",Puerto Rico,point2homes
+l_145348473,2 Beds,2 Baths,0.03 ac Lot Size,"('1,213 Sqft', ' sqft')",Residential,"795,000 ",Puerto Rico,point2homes
+l_141656144,,,0.06 ac Lot Size,,Lots And Land,"450,000 ",Puerto Rico,point2homes
+l_144305804,3 Beds,1 Bath,0.091 ac Lot Size,"('886 Sqft', ' sqft')",Residential,"58,900 ",Puerto Rico,point2homes
+l_146639697,5 Beds,4 Baths,11.768 ac Lot Size,"('5,000 Sqft', ' sqft')",Residential,"1,198,000 ",Puerto Rico,point2homes
+l_159895076,,,,"('7,491.68 Sqft', ' sqft')",Residential,"280,000 ",Puerto Rico,point2homes
+l_141343713,3 Beds,4 Baths,,"('4,518 Sqft', ' sqft')",Condominium,"4,518,000 ",Puerto Rico,point2homes
+l_158965542,,,,,Lots and Land,"49,900 ",Puerto Rico,point2homes
+l_136928221,,,0.198 ac Lot Size,,Lots and Land,"120,000 ",Puerto Rico,point2homes
+l_140001171,5 Beds,3 Baths,1.942 ac Lot Size,"('3,000 Sqft', ' sqft')",Residential,"250,000 ",Puerto Rico,point2homes
+l_142325014,2 Beds,1 Bath,0.02 ac Lot Size,"('1,059 Sqft', ' sqft')",Residential,"320,000 ",Puerto Rico,point2homes
+l_135472889,3 Beds,1 Bath,0.073 ac Lot Size,"('975 Sqft', ' sqft')",Residential,"52,000  6",Puerto Rico,point2homes
+l_160499912,6 Beds,8 Baths,,"('12,121 Sqft', ' sqft')",Condominium,"16,000,000  3.9",Puerto Rico,point2homes
+l_150253664,,,6.799 ac Lot Size,,Farm and Ranch,"525,000  125",Puerto Rico,point2homes
+l_161576782,4 Beds,2 Baths,,"('2,304 Sqft', ' sqft')",Residential,"450,000 ",Puerto Rico,point2homes
+l_157232456,3 Beds,4 Baths,0.08 ac Lot Size,"('3,359 Sqft', ' sqft')",Residential,"2,800,000 ",Puerto Rico,point2homes
+l_142124240,3 Beds,2 Baths,,"('3,123 Sqft', ' sqft')",Condominium,"998,000 ",Puerto Rico,point2homes
+l_141823337,6 Beds,5 Baths,,"('3,200 Sqft', ' sqft')",Condominium,"3,000,000 ",Puerto Rico,point2homes
+l_137137200,2 Beds,2 Baths,,,Condominium,"250,000 ",Puerto Rico,point2homes
+l_151882608,4 Beds,2 Baths,0.119 ac Lot Size,"('1,752 Sqft', ' sqft')",Residential,"1,650,000  225",Puerto Rico,point2homes
+l_143230249,,,0.247 ac Lot Size,,Lots And Land,"70,000 ",Puerto Rico,point2homes
+l_122230797,7 Beds,4 Baths,0.088 ac Lot Size,"('4,600 Sqft', ' sqft')",Multifamily,"2,450,000 ",Puerto Rico,point2homes
+l_144789044,2 Beds,2 Baths,,,Condominium,"240,000 ",Puerto Rico,point2homes
+l_143143664,,,16 ac Lot Size,,Lots And Land,"1,750,000 ",Puerto Rico,point2homes
+l_138672046,,,,,Lots And Land,"270,000 ",Puerto Rico,point2homes
+l_154436328,,,,"('3,000 Sqft', ' sqft')",Multifamily,"450,000 ",Puerto Rico,point2homes
+l_125459872,3 Beds,3 Baths,,"('4,677 Sqft', ' sqft')",Condominium,"6,500,000 ",Puerto Rico,point2homes

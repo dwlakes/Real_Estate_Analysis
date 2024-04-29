@@ -1,13 +1,19 @@
-import main
+
 import csv
 
 import clean_currency
 from selenium.webdriver.common.by import By
 
+from selenium import webdriver
+from selenium.webdriver import ChromeOptions
+from selenium.webdriver.chrome.service import Service
+from validate_email import validate_email
+from webdriver_manager.chrome import ChromeDriverManager
+
 
 from time import sleep
 
-pages = 10
+pages = 3
 
 browser = None
 
@@ -18,14 +24,29 @@ countries = {#"Brazil": "BR",
                 #  "Honduras":"HN",
                 #  "Nicaragua": "NI",
                 #  "Mexico": "MX",
-                 "Venezuela": "VE",
-                 "Guatemala": "GT"}
+                 #"Venezuela": "VE",
+                 #"Guatemala": "GT",
+                "Puerto Rico": "PR"}
+
+def init_browser():
+    options = ChromeOptions()
+    #options.add_argument("--headless=new")
+    service = Service(ChromeDriverManager().install())
+    #driver = webdriver.Chrome(service=service, options=options)
+    #options.add_argument(r'--user-data-dir=~/Library/Application Support/Google/Chrome/') #e.g. C:\Users\You\AppData\Local\Google\Chrome\User Data
+    #options.add_argument(r'--profile-directory=~/Library/Application Support/Google/Chrome/Profile 3') #e.g. Profile 3
+    #options.add_argument('--disk-cache-dir=')
+    driver = webdriver.Chrome(service=service, options=options)
+    driver.implicitly_wait(1) # wait time in seconds to allow loading of elements
+    driver.set_window_position(-2000, 0)
+    
+    return driver
 
 def load_next_page(country):
     global browser, pages
     # dealing with captcha 
     browser.quit()
-    browser = main.init_browser()
+    browser = init_browser()
     pages += 1
 
     get_property_info(country)
@@ -50,8 +71,12 @@ def get_listings(key):
     value = countries[key]
 
     if pages == 1:
+        url = f'https://www.point2homes.com/US/Real-Estate-Listings/PR.html'
+    elif pages == 1 and value != "PR":
         url = f'https://www.point2homes.com/{value}/Real-Estate-Listings.html'
-    else:
+    elif pages != 1 and value == "PR":
+        url = f'https://www.point2homes.com/US/Real-Estate-Listings/PR.html?page={pages}'
+    elif pages != 1 and value != "PR":
         url = f'https://www.point2homes.com/{value}/Real-Estate-Listings.html?SelectedView=listings&page={pages}'
     browser.get(url)
     listing_container = browser.find_element(By.CLASS_NAME, "listings")
@@ -70,7 +95,7 @@ def get_property_info(country):
         
         # Write the header row
         if pages <2:
-            writer.writerow(['Listing ID', 'Bedrooms', 'Bathrooms', 'Lot Size', 'House Size', 'Property Type', 'Price', 'Country'])
+            writer.writerow(['Listing ID', 'Bedrooms', 'Bathrooms', 'Lot Size', 'House Size', 'Property Type', 'Price', 'Country', 'Source'])
         
         for i in listings:
             # # Find the price within each <li> element
@@ -125,7 +150,7 @@ def get_property_info(country):
             except:
                 #print(listing_id, " has no price information")
                 pass
-            writer.writerow([listing_id, beds, baths, lot_size, house_size, prop_type, price, country])
+            writer.writerow([listing_id, beds, baths, lot_size, house_size, prop_type, price, country, "point2homes"])
 
             #print(i.text)
             #print("\n")
@@ -142,11 +167,13 @@ def start_scrape():
 
     try:
         for key in countries:
-            browser =  main.init_browser()
+            browser = init_browser()
             print(f'Begin scraping for {key}')
             get_property_info(key)
     except KeyboardInterrupt:
         # Close the browser if the program is interrupted
         browser.quit()
         exit()  # Exit the program
-        
+
+
+start_scrape()

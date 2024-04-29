@@ -1,182 +1,445 @@
-Listing ID,Bedrooms,Bathrooms,Lot Size,House Size,Property Type,Price,Country
-l_148707254,1 Bed,1 Bath,,"('3,605 Sqft', ' sqft')",Residential,"139,999 ",Nicaragua
-l_149525836,,,"4,401 ac Lot Size",,Residential,"19,194,600 ",Nicaragua
-l_161042355,2 Beds,2 Baths,0.188 ac Lot Size,,Residential,"175,000 ",Nicaragua
-l_161126291,2 Beds,2 Baths,0.029 ac Lot Size,,Other,"265,000 ",Nicaragua
-l_158346873,3 Beds,2 Baths,,"('4,305 Sqft', ' sqft')",Residential,"649,000 ",Nicaragua
-l_159295730,3 Beds,3 Baths,0.303 ac Lot Size,,Residential,"205,000 ",Nicaragua
-l_158299043,5 Beds,2 Baths,,,Residential,"350,000 ",Nicaragua
-l_158295962,,,,"('8,611.13 Sqft', ' sqft')",Lots And Land,"150,000 ",Nicaragua
-l_160507139,6 Beds,4 Baths,0.399 ac Lot Size,,Residential,"520,000 ",Nicaragua
-l_158292079,2 Beds,2 Baths,,"('1,711.46 Sqft', ' sqft')",Residential,"325,000 ",Nicaragua
-l_159295755,4 Beds,4 Baths,0.389 ac Lot Size,,Residential,"420,000 ",Nicaragua
-l_158856637,3 Beds,2 Baths,0.104 ac Lot Size,,Residential,"218,500 ",Nicaragua
-l_159326089,4 Beds,4 Baths,0.355 ac Lot Size,,Residential,"237,000 ",Nicaragua
-l_158427204,4 Beds,4 Baths,0.297 ac Lot Size,,Residential,"210,000 ",Nicaragua
-l_158300042,5 Beds,5 Baths,,,Residential,"570,000 ",Nicaragua
-l_158288698,4 Beds,3 Baths,,"('4,107 Sqft', ' sqft')",Residential,"869,000 ",Nicaragua
-l_158299956,2 Beds,2 Baths,,"('1,517.71 Sqft', ' sqft')",Residential,"169,000  20",Nicaragua
-l_158300040,4 Beds,3 Baths,,,Residential,"869,000 ",Nicaragua
-l_158113684,2 Beds,1 Bath,0.063 ac Lot Size,,Residential,"85,000 ",Nicaragua
-l_138893940,2 Beds,2 Baths,,,Residential,"249,500 ",Nicaragua
-l_159295726,3 Beds,2 Baths,0.132 ac Lot Size,,Residential,"171,500 ",Nicaragua
-l_157781189,2 Beds,1 Bath,0.038 ac Lot Size,,Residential,"50,000 ",Nicaragua
-l_158300116,9 Beds,7 Baths,,,Residential,"650,000 ",Nicaragua
-l_155975743,,,,"('16,608.71 Sqft', ' sqft')",Residential,"179,000 ",Nicaragua
-l_147087755,3 Beds,3 Baths,0.188 ac Lot Size,,Residential,"276,200 ",Nicaragua
-l_159709152,4 Beds,4 Baths,,"('4,300 Sqft', ' sqft')",Residential,"460,000 ",Nicaragua
-l_159295719,3 Beds,2 Baths,0.136 ac Lot Size,,Residential,"145,000 ",Nicaragua
-l_153876199,,,,,Lots and Land,"134,000  15",Nicaragua
-l_157288218,,,,"('11,775.72 Sqft', ' sqft')",Lots And Land,"58,000 ",Nicaragua
-l_158295302,2 Beds,2 Baths,,"('51,795.94 Sqft', ' sqft')",Residential,"258,985 ",Nicaragua
-l_151715075,2 Beds,1 Bath,0.049 ac Lot Size,,Residential,"49,000  6",Nicaragua
-l_154958214,2 Beds,2 Baths,,"('240 Sqft', ' sqft')",Residential,"284,985 ",Nicaragua
-l_154788845,3 Beds,3 Baths,,"('2,200 Sqft', ' sqft')",Residential,"699,000 ",Nicaragua
-l_140043398,2 Beds,2 Baths,,,Residential,"195,000 ",Nicaragua
-l_155148973,3 Beds,3 Baths,0.208 ac Lot Size,,Residential,"260,000 ",Nicaragua
-l_155777354,5 Beds,5 Baths,0.484 ac Lot Size,,Residential,"1,199,000 ",Nicaragua
-l_158294476,2 Beds,2 Baths,,"('4,843.76 Sqft', ' sqft')",Residential,"260,000 ",Nicaragua
-l_157293053,8 Beds,9 Baths,,"('11,571.2 Sqft', ' sqft')",Residential,"680,000 ",Nicaragua
-l_157294137,2 Beds,2 Baths,,"('7,287.17 Sqft', ' sqft')",Residential,"199,000 ",Nicaragua
-l_159295909,3 Beds,3 Baths,0.432 ac Lot Size,,Residential,"200,000 ",Nicaragua
-l_159295728,4 Beds,4 Baths,0.371 ac Lot Size,,Residential,"214,000 ",Nicaragua
-l_158295979,4 Beds,5 Baths,,"('5,866.33 Sqft', ' sqft')",Residential,"405,000 ",Nicaragua
-l_150703959,3 Beds,3 Baths,0.243 ac Lot Size,,Residential,"169,000  30",Nicaragua
-l_158576126,3 Beds,3 Baths,,"('32,291.73 Sqft', ' sqft')",Residential,"449,000 ",Nicaragua
-l_159295903,3 Beds,4 Baths,0.395 ac Lot Size,,Residential,"425,000 ",Nicaragua
-l_159295693,4 Beds,4 Baths,0.42 ac Lot Size,,Residential,"580,000 ",Nicaragua
-l_156267172,,,,"('267,397.06 Sqft', ' sqft')",Lots and Land,"99,000 ",Nicaragua
-l_138137238,9 Beds,5 Baths,,"('3,000 Sqft', ' sqft')",Residential,"269,000 ",Nicaragua
-l_158298941,2 Beds,2 Baths,,,Residential,"285,000 ",Nicaragua
-l_159295910,4 Beds,,0.558 ac Lot Size,,Residential,"435,000 ",Nicaragua
-l_159295732,3 Beds,,0.236 ac Lot Size,,Residential,"155,000 ",Nicaragua
-l_157293908,3 Beds,3 Baths,,"('11,721.9 Sqft', ' sqft')",Residential,0.000000 ,Nicaragua
-l_159326023,12 Beds,6 Baths,0.175 ac Lot Size,,Other,"347,600  50",Nicaragua
-l_158972747,,,1.727 ac Lot Size,,Lots And Land,"120,000 ",Nicaragua
-l_159326033,3 Beds,2 Baths,0.049 ac Lot Size,,Residential,"130,000 ",Nicaragua
-l_159326031,,,0.436 ac Lot Size,,Lots And Land,"70,000  10",Nicaragua
-l_151715082,2 Beds,1 Bath,0.193 ac Lot Size,,Residential,"97,000 ",Nicaragua
-l_154743880,2 Beds,2 Baths,0.032 ac Lot Size,,Other,"230,000 ",Nicaragua
-l_159295692,4 Beds,9 Baths,0.344 ac Lot Size,,Residential,"415,590 ",Nicaragua
-l_158300638,3 Beds,3 Baths,,,Residential,"259,000 ",Nicaragua
-l_158299253,,,,,Residential,"279,000 ",Nicaragua
-l_160507144,4 Beds,4 Baths,0.492 ac Lot Size,,Residential,"595,000 ",Nicaragua
-l_159326028,,,0.273 ac Lot Size,,Lots And Land,"169,800 ",Nicaragua
-l_160507213,3 Beds,3 Baths,0.032 ac Lot Size,,Residential,"120,000 ",Nicaragua
-l_146460349,,,,"('50,375.52 Sqft', ' sqft')",Residential,"269,000 ",Nicaragua
-l_154788801,,,,"('43,626.13 Sqft', ' sqft')",Lots and Land,"49,900 ",Nicaragua
-l_143380807,,,3.7 ac Lot Size,,Lots And Land,"49,000 ",Nicaragua
-l_139664510,5 Beds,5 Baths,,,Residential,"869,000 ",Nicaragua
-l_159295691,,,0.173 ac Lot Size,,Lots And Land,"28,000 ",Nicaragua
-l_159295735,3 Beds,2 Baths,0.075 ac Lot Size,,Residential,"95,000 ",Nicaragua
-l_142433376,2 Beds,2 Baths,,"('1,399 Sqft', ' sqft')",Residential,"415,000 ",Nicaragua
-l_157617344,3 Beds,3 Baths,0.1 ac Lot Size,,Residential,"175,000 ",Nicaragua
-l_146534144,4 Beds,3 Baths,,"('5,382 Sqft', ' sqft')",Residential,"370,000 ",Nicaragua
-l_157390772,2 Beds,2 Baths,0.038 ac Lot Size,,Other,"350,000 ",Nicaragua
-l_159295743,4 Beds,4 Baths,,,Other,"375,000 ",Nicaragua
-l_154743839,5 Beds,3 Baths,,,Other,"325,000 ",Nicaragua
-l_138334819,,,,"('5,314 Sqft', ' sqft')",Residential,"89,000 ",Nicaragua
-l_159553614,6 Beds,6 Baths,,"('13,993.08 Sqft', ' sqft')",Residential,"799,000 ",Nicaragua
-l_154958337,3 Beds,3 Baths,,"('3,875.01 Sqft', ' sqft')",Residential,"419,989 ",Nicaragua
-l_115718348,4 Beds,3 Baths,,,Residential,"249,000 ",Nicaragua
-l_154788818,3 Beds,3 Baths,,"('39,482.02 Sqft', ' sqft')",Residential,"499,000 ",Nicaragua
-l_158522251,1 Bed,1 Bath,0.023 ac Lot Size,,Other,"93,000 ",Nicaragua
-l_159295756,4 Beds,4 Baths,0.735 ac Lot Size,,Residential,"495,000 ",Nicaragua
-l_151715081,4 Beds,4 Baths,0.494 ac Lot Size,,Residential,"349,000 ",Nicaragua
-l_160507143,3 Beds,3 Baths,0.111 ac Lot Size,,Residential,"260,000 ",Nicaragua
-l_159295714,,,10.298 ac Lot Size,,Lots And Land,"185,850 ",Nicaragua
-l_153738621,2 Beds,2 Baths,,"('1,306 Sqft', ' sqft')",Residential,"259,000 ",Nicaragua
-l_157286646,2 Beds,2 Baths,,"('775 Sqft', ' sqft')",Residential,"135,000 ",Nicaragua
-l_146460777,,,,"('6,684.44 Sqft', ' sqft')",Residential,"85,000 ",Nicaragua
-l_143732972,1 Bed,1 Bath,,,Residential,"165,000 ",Nicaragua
-l_138334825,,,,"('8,000 Sqft', ' sqft')",Residential,"45,000 ",Nicaragua
-l_142432080,5 Beds,4 Baths,,"('2,327 Sqft', ' sqft')",Residential,"297,000 ",Nicaragua
-l_159295720,,,1.231 ac Lot Size,,Lots And Land,"16,000 ",Nicaragua
-l_138334832,,,,"('4,236 Sqft', ' sqft')",Residential,"144,000 ",Nicaragua
-l_159295747,3 Beds,3 Baths,0.14 ac Lot Size,,Residential,"499,000 ",Nicaragua
-l_158381947,,,0.348 ac Lot Size,,Lots And Land,"97,000 ",Nicaragua
-l_142382059,3 Beds,2 Baths,,,Residential,"325,000 ",Nicaragua
-l_159326032,3 Beds,2 Baths,0.047 ac Lot Size,,Other,"440,000 ",Nicaragua
-l_146533907,2 Beds,2 Baths,,,Residential,"389,000 ",Nicaragua
-l_158292851,4 Beds,3 Baths,,"('1,923 Sqft', ' sqft')",Residential,"869,000 ",Nicaragua
-l_158299244,3 Beds,2 Baths,,,Residential,"325,000 ",Nicaragua
-l_156227278,,4 Baths,0.086 ac Lot Size,,Residential,"173,000 ",Nicaragua
-l_159553728,3 Beds,4 Baths,,"('1,000 Sqft', ' sqft')",Residential,"690,000 ",Nicaragua
-l_159295729,3 Beds,3 Baths,0.086 ac Lot Size,,Residential,"280,000 ",Nicaragua
-l_138137299,2 Beds,1 Bath,,"('1,000 Sqft', ' sqft')",Residential,"239,000 ",Nicaragua
-l_154918921,5 Beds,5 Baths,0.401 ac Lot Size,,Residential,"590,000 ",Nicaragua
-l_159326022,3 Beds,3 Baths,0.089 ac Lot Size,,Residential,"330,000 ",Nicaragua
-l_159295715,4 Beds,4 Baths,0.371 ac Lot Size,,Residential,"600,000 ",Nicaragua
-l_159326081,3 Beds,7 Baths,0.186 ac Lot Size,,Residential,"358,600 ",Nicaragua
-l_154958164,2 Beds,2 Baths,,"('2,000 Sqft', ' sqft')",Residential,"268,000 ",Nicaragua
-l_142156372,,,,,Residential,"495,000 ",Nicaragua
-l_146461401,3 Beds,3 Baths,,,Residential,"650,000 ",Nicaragua
-l_157280687,4 Beds,4 Baths,,"('21,441.71 Sqft', ' sqft')",Residential,"585,000 ",Nicaragua
-l_159295717,34 Beds,36 Baths,1.051 ac Lot Size,,Other,"2,450,000 ",Nicaragua
-l_159295746,3 Beds,,3.481 ac Lot Size,,Residential,"75,000 ",Nicaragua
-l_159295725,3 Beds,3 Baths,0.101 ac Lot Size,,Residential,"231,000 ",Nicaragua
-l_137137670,2 Beds,1 Bath,,,Residential,"69,000  15.5",Nicaragua
-l_159295907,4 Beds,4 Baths,0.445 ac Lot Size,,Residential,"460,000 ",Nicaragua
-l_155975038,,,,"('32,916.04 Sqft', ' sqft')",Residential,"299,000 ",Nicaragua
-l_157296159,4 Beds,3 Baths,,"('13,067.39 Sqft', ' sqft')",Residential,"695,000 ",Nicaragua
-l_158293936,3 Beds,3 Baths,,"('2,583 Sqft', ' sqft')",Residential,"369,000 ",Nicaragua
-l_153738633,4 Beds,4 Baths,,"('87,119.97 Sqft', ' sqft')",Residential,"2,700,000 ",Nicaragua
-l_158300248,,,,,Residential,"489,000 ",Nicaragua
-l_115922977,3 Beds,2 Baths,,,Residential,"245,000 ",Nicaragua
-l_157466846,,,3.737 ac Lot Size,,Lots And Land,"471,900 ",Nicaragua
-l_159295718,3 Beds,2 Baths,0.053 ac Lot Size,,Residential,"79,500 ",Nicaragua
-l_145094333,5 Beds,4 Baths,,"('4,036 Sqft', ' sqft')",Residential,"945,000 ",Nicaragua
-l_115677059,,,,,Residential,"159,000 ",Nicaragua
-l_151066433,3 Beds,2 Baths,0.116 ac Lot Size,,Other,"119,000 ",Nicaragua
-l_158292434,3 Beds,3 Baths,,"('2,900 Sqft', ' sqft')",Residential,"369,000 ",Nicaragua
-l_157294323,,,,,Residential,"495,000 ",Nicaragua
-l_159295731,4 Beds,2 Baths,0.047 ac Lot Size,,Residential,"75,000 ",Nicaragua
-l_157287161,,,,"('44,896.27 Sqft', ' sqft')",Lots And Land,"75,000 ",Nicaragua
-l_139665489,3 Beds,3 Baths,,,Residential,"264,000 ",Nicaragua
-l_145094374,4 Beds,4 Baths,,,Residential,"580,000 ",Nicaragua
-l_158300309,4 Beds,4 Baths,,"('8,180.57 Sqft', ' sqft')",Residential,"369,000 ",Nicaragua
-l_159295759,1 Bed,2 Baths,0.173 ac Lot Size,,Residential,"120,000 ",Nicaragua
-l_154743870,2 Beds,1 Bath,0.052 ac Lot Size,,Other,"180,000 ",Nicaragua
-l_160033129,3 Beds,3 Baths,0.084 ac Lot Size,,Residential,"290,000 ",Nicaragua
-l_157293048,3 Beds,2 Baths,,"('15,424.68 Sqft', ' sqft')",Residential,"199,000 ",Nicaragua
-l_147087772,5 Beds,4 Baths,0.235 ac Lot Size,,Residential,"254,600 ",Nicaragua
-l_158300635,2 Beds,2 Baths,,,Residential,"199,000 ",Nicaragua
-l_157293037,4 Beds,4 Baths,,,Residential,"650,000 ",Nicaragua
-l_157293514,5 Beds,5 Baths,,,Residential,"570,000 ",Nicaragua
-l_159295757,4 Beds,3 Baths,0.181 ac Lot Size,,Residential,"260,000 ",Nicaragua
-l_159953335,4 Beds,4 Baths,0.177 ac Lot Size,,Residential,"60,000 ",Nicaragua
-l_154743872,2 Beds,2 Baths,0.071 ac Lot Size,,Residential,"119,400 ",Nicaragua
-l_160822739,3 Beds,1 Bath,0.063 ac Lot Size,,Residential,"70,000 ",Nicaragua
-l_157294774,2 Beds,2 Baths,,"('1,431 Sqft', ' sqft')",Residential,"400,000 ",Nicaragua
-l_156164039,3 Beds,3 Baths,,"('27,458.74 Sqft', ' sqft')",Residential,"349,000 ",Nicaragua
-l_157781207,,,0.119 ac Lot Size,,Lots And Land,"48,300  5.2",Nicaragua
-l_142166790,5 Beds,5 Baths,,,Residential,"499,000 ",Nicaragua
-l_156163994,5 Beds,5 Baths,,"('234,254.98 Sqft', ' sqft')",Residential,"429,000 ",Nicaragua
-l_156837122,4 Beds,5 Baths,,"('5,000 Sqft', ' sqft')",Residential,"799,000 ",Nicaragua
-l_143389726,3 Beds,3 Baths,,,Residential,"399,000 ",Nicaragua
-l_156214016,3 Beds,3 Baths,,"('2,486.46 Sqft', ' sqft')",Residential,"179,900 ",Nicaragua
-l_158972765,,,86.352 ac Lot Size,,Lots And Land,"50,000 ",Nicaragua
-l_159295697,4 Beds,4 Baths,0.72 ac Lot Size,,Residential,"495,000 ",Nicaragua
-l_156267156,,,,"('15,392.39 Sqft', ' sqft')",Lots and Land,"178,750 ",Nicaragua
-l_153738548,3 Beds,3 Baths,,"('6,212 Sqft', ' sqft')",Residential,"1,750,000 ",Nicaragua
-l_145098231,2 Beds,2 Baths,,"('11,216.09 Sqft', ' sqft')",Residential,"279,000 ",Nicaragua
-l_159295694,3 Beds,,0.069 ac Lot Size,,Residential,"190,000 ",Nicaragua
-l_152911487,4 Beds,4 Baths,0.15 ac Lot Size,,Residential,"265,000 ",Nicaragua
-l_159021238,4 Beds,4 Baths,0.104 ac Lot Size,,Residential,"140,000 ",Nicaragua
-l_158287478,,,,"('15,618.43 Sqft', ' sqft')",Lots And Land,"95,000 ",Nicaragua
-l_159295758,3 Beds,2 Baths,0.16 ac Lot Size,,Residential,"299,500 ",Nicaragua
-l_159295713,,,0.555 ac Lot Size,,Lots And Land,"192,960 ",Nicaragua
-l_157294312,4 Beds,4 Baths,,"('84,389.05 Sqft', ' sqft')",Residential,"499,000 ",Nicaragua
-l_154655441,4 Beds,4 Baths,,"('3,853.48 Sqft', ' sqft')",Residential,"180,000 ",Nicaragua
-l_157904163,4 Beds,3 Baths,0.288 ac Lot Size,,Residential,"350,000 ",Nicaragua
-l_160507182,,,0.253 ac Lot Size,,Lots And Land,"98,000 ",Nicaragua
-l_157290881,5 Beds,5 Baths,,,Residential,"869,000 ",Nicaragua
-l_158300249,,,,,Residential,"495,000 ",Nicaragua
-l_146534923,4 Beds,3 Baths,,"('87,102.29 Sqft', ' sqft')",Residential,"249,000 ",Nicaragua
-l_150822875,,,0.871 ac Lot Size,,Lots And Land,"69,000 ",Nicaragua
-l_146273273,,,0.428 ac Lot Size,,Lots And Land,"99,600  12",Nicaragua
-l_115833269,2 Beds,2 Baths,,,Residential,"160,000 ",Nicaragua
-l_137489912,2 Beds,2 Baths,,"('960 Sqft', ' sqft')",Residential,"149,000 ",Nicaragua
-l_158293056,2 Beds,2 Baths,,"('1,700.7 Sqft', ' sqft')",Residential,"129,000 ",Nicaragua
-l_158850513,2 Beds,2 Baths,,"('1,200 Sqft', ' sqft')",Residential,"131,500 ",Nicaragua
-l_124474465,1 Bed,1 Bath,0.494 ac Lot Size,,Residential,"159,000 ",Nicaragua
+Listing ID,Bedrooms,Bathrooms,Lot Size,House Size,Property Type,Price,Country,Source
+l_148707254,1 Bed,1 Bath,,"('3,605 Sqft', ' sqft')",Residential,"139,999 ",Nicaragua,point2homes
+l_149525836,,,"4,401 ac Lot Size",,Residential,"19,194,600 ",Nicaragua,point2homes
+l_161042355,2 Beds,2 Baths,0.188 ac Lot Size,,Residential,"175,000 ",Nicaragua,point2homes
+l_161126291,2 Beds,2 Baths,0.029 ac Lot Size,,Other,"265,000 ",Nicaragua,point2homes
+l_158346873,3 Beds,2 Baths,,"('4,305 Sqft', ' sqft')",Residential,"649,000 ",Nicaragua,point2homes
+l_159295730,3 Beds,3 Baths,0.303 ac Lot Size,,Residential,"205,000 ",Nicaragua,point2homes
+l_158299043,5 Beds,2 Baths,,,Residential,"350,000 ",Nicaragua,point2homes
+l_158295962,,,,"('8,611.13 Sqft', ' sqft')",Lots And Land,"150,000 ",Nicaragua,point2homes
+l_160507139,6 Beds,4 Baths,0.399 ac Lot Size,,Residential,"520,000 ",Nicaragua,point2homes
+l_158292079,2 Beds,2 Baths,,"('1,711.46 Sqft', ' sqft')",Residential,"325,000 ",Nicaragua,point2homes
+l_159295755,4 Beds,4 Baths,0.389 ac Lot Size,,Residential,"420,000 ",Nicaragua,point2homes
+l_158856637,3 Beds,2 Baths,0.104 ac Lot Size,,Residential,"218,500 ",Nicaragua,point2homes
+l_159326089,4 Beds,4 Baths,0.355 ac Lot Size,,Residential,"237,000 ",Nicaragua,point2homes
+l_158427204,4 Beds,4 Baths,0.297 ac Lot Size,,Residential,"210,000 ",Nicaragua,point2homes
+l_158300042,5 Beds,5 Baths,,,Residential,"570,000 ",Nicaragua,point2homes
+l_158288698,4 Beds,3 Baths,,"('4,107 Sqft', ' sqft')",Residential,"869,000 ",Nicaragua,point2homes
+l_158299956,2 Beds,2 Baths,,"('1,517.71 Sqft', ' sqft')",Residential,"169,000  20",Nicaragua,point2homes
+l_158300040,4 Beds,3 Baths,,,Residential,"869,000 ",Nicaragua,point2homes
+l_158113684,2 Beds,1 Bath,0.063 ac Lot Size,,Residential,"85,000 ",Nicaragua,point2homes
+l_138893940,2 Beds,2 Baths,,,Residential,"249,500 ",Nicaragua,point2homes
+l_159295726,3 Beds,2 Baths,0.132 ac Lot Size,,Residential,"171,500 ",Nicaragua,point2homes
+l_157781189,2 Beds,1 Bath,0.038 ac Lot Size,,Residential,"50,000 ",Nicaragua,point2homes
+l_158300116,9 Beds,7 Baths,,,Residential,"650,000 ",Nicaragua,point2homes
+l_155975743,,,,"('16,608.71 Sqft', ' sqft')",Residential,"179,000 ",Nicaragua,point2homes
+l_147087755,3 Beds,3 Baths,0.188 ac Lot Size,,Residential,"276,200 ",Nicaragua,point2homes
+l_159709152,4 Beds,4 Baths,,"('4,300 Sqft', ' sqft')",Residential,"460,000 ",Nicaragua,point2homes
+l_159295719,3 Beds,2 Baths,0.136 ac Lot Size,,Residential,"145,000 ",Nicaragua,point2homes
+l_153876199,,,,,Lots and Land,"134,000  15",Nicaragua,point2homes
+l_157288218,,,,"('11,775.72 Sqft', ' sqft')",Lots And Land,"58,000 ",Nicaragua,point2homes
+l_158295302,2 Beds,2 Baths,,"('51,795.94 Sqft', ' sqft')",Residential,"258,985 ",Nicaragua,point2homes
+l_151715075,2 Beds,1 Bath,0.049 ac Lot Size,,Residential,"49,000  6",Nicaragua,point2homes
+l_154958214,2 Beds,2 Baths,,"('240 Sqft', ' sqft')",Residential,"284,985 ",Nicaragua,point2homes
+l_154788845,3 Beds,3 Baths,,"('2,200 Sqft', ' sqft')",Residential,"699,000 ",Nicaragua,point2homes
+l_140043398,2 Beds,2 Baths,,,Residential,"195,000 ",Nicaragua,point2homes
+l_155148973,3 Beds,3 Baths,0.208 ac Lot Size,,Residential,"260,000 ",Nicaragua,point2homes
+l_155777354,5 Beds,5 Baths,0.484 ac Lot Size,,Residential,"1,199,000 ",Nicaragua,point2homes
+l_158294476,2 Beds,2 Baths,,"('4,843.76 Sqft', ' sqft')",Residential,"260,000 ",Nicaragua,point2homes
+l_157293053,8 Beds,9 Baths,,"('11,571.2 Sqft', ' sqft')",Residential,"680,000 ",Nicaragua,point2homes
+l_157294137,2 Beds,2 Baths,,"('7,287.17 Sqft', ' sqft')",Residential,"199,000 ",Nicaragua,point2homes
+l_159295909,3 Beds,3 Baths,0.432 ac Lot Size,,Residential,"200,000 ",Nicaragua,point2homes
+l_159295728,4 Beds,4 Baths,0.371 ac Lot Size,,Residential,"214,000 ",Nicaragua,point2homes
+l_158295979,4 Beds,5 Baths,,"('5,866.33 Sqft', ' sqft')",Residential,"405,000 ",Nicaragua,point2homes
+l_150703959,3 Beds,3 Baths,0.243 ac Lot Size,,Residential,"169,000  30",Nicaragua,point2homes
+l_158576126,3 Beds,3 Baths,,"('32,291.73 Sqft', ' sqft')",Residential,"449,000 ",Nicaragua,point2homes
+l_159295903,3 Beds,4 Baths,0.395 ac Lot Size,,Residential,"425,000 ",Nicaragua,point2homes
+l_159295693,4 Beds,4 Baths,0.42 ac Lot Size,,Residential,"580,000 ",Nicaragua,point2homes
+l_156267172,,,,"('267,397.06 Sqft', ' sqft')",Lots and Land,"99,000 ",Nicaragua,point2homes
+l_138137238,9 Beds,5 Baths,,"('3,000 Sqft', ' sqft')",Residential,"269,000 ",Nicaragua,point2homes
+l_158298941,2 Beds,2 Baths,,,Residential,"285,000 ",Nicaragua,point2homes
+l_159295910,4 Beds,,0.558 ac Lot Size,,Residential,"435,000 ",Nicaragua,point2homes
+l_159295732,3 Beds,,0.236 ac Lot Size,,Residential,"155,000 ",Nicaragua,point2homes
+l_157293908,3 Beds,3 Baths,,"('11,721.9 Sqft', ' sqft')",Residential,0.000000 ,Nicaragua,point2homes
+l_159326023,12 Beds,6 Baths,0.175 ac Lot Size,,Other,"347,600  50",Nicaragua,point2homes
+l_158972747,,,1.727 ac Lot Size,,Lots And Land,"120,000 ",Nicaragua,point2homes
+l_159326033,3 Beds,2 Baths,0.049 ac Lot Size,,Residential,"130,000 ",Nicaragua,point2homes
+l_159326031,,,0.436 ac Lot Size,,Lots And Land,"70,000  10",Nicaragua,point2homes
+l_151715082,2 Beds,1 Bath,0.193 ac Lot Size,,Residential,"97,000 ",Nicaragua,point2homes
+l_154743880,2 Beds,2 Baths,0.032 ac Lot Size,,Other,"230,000 ",Nicaragua,point2homes
+l_159295692,4 Beds,9 Baths,0.344 ac Lot Size,,Residential,"415,590 ",Nicaragua,point2homes
+l_158300638,3 Beds,3 Baths,,,Residential,"259,000 ",Nicaragua,point2homes
+l_158299253,,,,,Residential,"279,000 ",Nicaragua,point2homes
+l_160507144,4 Beds,4 Baths,0.492 ac Lot Size,,Residential,"595,000 ",Nicaragua,point2homes
+l_159326028,,,0.273 ac Lot Size,,Lots And Land,"169,800 ",Nicaragua,point2homes
+l_160507213,3 Beds,3 Baths,0.032 ac Lot Size,,Residential,"120,000 ",Nicaragua,point2homes
+l_146460349,,,,"('50,375.52 Sqft', ' sqft')",Residential,"269,000 ",Nicaragua,point2homes
+l_154788801,,,,"('43,626.13 Sqft', ' sqft')",Lots and Land,"49,900 ",Nicaragua,point2homes
+l_143380807,,,3.7 ac Lot Size,,Lots And Land,"49,000 ",Nicaragua,point2homes
+l_139664510,5 Beds,5 Baths,,,Residential,"869,000 ",Nicaragua,point2homes
+l_159295691,,,0.173 ac Lot Size,,Lots And Land,"28,000 ",Nicaragua,point2homes
+l_159295735,3 Beds,2 Baths,0.075 ac Lot Size,,Residential,"95,000 ",Nicaragua,point2homes
+l_142433376,2 Beds,2 Baths,,"('1,399 Sqft', ' sqft')",Residential,"415,000 ",Nicaragua,point2homes
+l_157617344,3 Beds,3 Baths,0.1 ac Lot Size,,Residential,"175,000 ",Nicaragua,point2homes
+l_146534144,4 Beds,3 Baths,,"('5,382 Sqft', ' sqft')",Residential,"370,000 ",Nicaragua,point2homes
+l_157390772,2 Beds,2 Baths,0.038 ac Lot Size,,Other,"350,000 ",Nicaragua,point2homes
+l_159295743,4 Beds,4 Baths,,,Other,"375,000 ",Nicaragua,point2homes
+l_154743839,5 Beds,3 Baths,,,Other,"325,000 ",Nicaragua,point2homes
+l_138334819,,,,"('5,314 Sqft', ' sqft')",Residential,"89,000 ",Nicaragua,point2homes
+l_159553614,6 Beds,6 Baths,,"('13,993.08 Sqft', ' sqft')",Residential,"799,000 ",Nicaragua,point2homes
+l_154958337,3 Beds,3 Baths,,"('3,875.01 Sqft', ' sqft')",Residential,"419,989 ",Nicaragua,point2homes
+l_115718348,4 Beds,3 Baths,,,Residential,"249,000 ",Nicaragua,point2homes
+l_154788818,3 Beds,3 Baths,,"('39,482.02 Sqft', ' sqft')",Residential,"499,000 ",Nicaragua,point2homes
+l_158522251,1 Bed,1 Bath,0.023 ac Lot Size,,Other,"93,000 ",Nicaragua,point2homes
+l_159295756,4 Beds,4 Baths,0.735 ac Lot Size,,Residential,"495,000 ",Nicaragua,point2homes
+l_151715081,4 Beds,4 Baths,0.494 ac Lot Size,,Residential,"349,000 ",Nicaragua,point2homes
+l_160507143,3 Beds,3 Baths,0.111 ac Lot Size,,Residential,"260,000 ",Nicaragua,point2homes
+l_159295714,,,10.298 ac Lot Size,,Lots And Land,"185,850 ",Nicaragua,point2homes
+l_153738621,2 Beds,2 Baths,,"('1,306 Sqft', ' sqft')",Residential,"259,000 ",Nicaragua,point2homes
+l_157286646,2 Beds,2 Baths,,"('775 Sqft', ' sqft')",Residential,"135,000 ",Nicaragua,point2homes
+l_146460777,,,,"('6,684.44 Sqft', ' sqft')",Residential,"85,000 ",Nicaragua,point2homes
+l_143732972,1 Bed,1 Bath,,,Residential,"165,000 ",Nicaragua,point2homes
+l_138334825,,,,"('8,000 Sqft', ' sqft')",Residential,"45,000 ",Nicaragua,point2homes
+l_142432080,5 Beds,4 Baths,,"('2,327 Sqft', ' sqft')",Residential,"297,000 ",Nicaragua,point2homes
+l_159295720,,,1.231 ac Lot Size,,Lots And Land,"16,000 ",Nicaragua,point2homes
+l_138334832,,,,"('4,236 Sqft', ' sqft')",Residential,"144,000 ",Nicaragua,point2homes
+l_159295747,3 Beds,3 Baths,0.14 ac Lot Size,,Residential,"499,000 ",Nicaragua,point2homes
+l_158381947,,,0.348 ac Lot Size,,Lots And Land,"97,000 ",Nicaragua,point2homes
+l_142382059,3 Beds,2 Baths,,,Residential,"325,000 ",Nicaragua,point2homes
+l_159326032,3 Beds,2 Baths,0.047 ac Lot Size,,Other,"440,000 ",Nicaragua,point2homes
+l_146533907,2 Beds,2 Baths,,,Residential,"389,000 ",Nicaragua,point2homes
+l_158292851,4 Beds,3 Baths,,"('1,923 Sqft', ' sqft')",Residential,"869,000 ",Nicaragua,point2homes
+l_158299244,3 Beds,2 Baths,,,Residential,"325,000 ",Nicaragua,point2homes
+l_156227278,,4 Baths,0.086 ac Lot Size,,Residential,"173,000 ",Nicaragua,point2homes
+l_159553728,3 Beds,4 Baths,,"('1,000 Sqft', ' sqft')",Residential,"690,000 ",Nicaragua,point2homes
+l_159295729,3 Beds,3 Baths,0.086 ac Lot Size,,Residential,"280,000 ",Nicaragua,point2homes
+l_138137299,2 Beds,1 Bath,,"('1,000 Sqft', ' sqft')",Residential,"239,000 ",Nicaragua,point2homes
+l_154918921,5 Beds,5 Baths,0.401 ac Lot Size,,Residential,"590,000 ",Nicaragua,point2homes
+l_159326022,3 Beds,3 Baths,0.089 ac Lot Size,,Residential,"330,000 ",Nicaragua,point2homes
+l_159295715,4 Beds,4 Baths,0.371 ac Lot Size,,Residential,"600,000 ",Nicaragua,point2homes
+l_159326081,3 Beds,7 Baths,0.186 ac Lot Size,,Residential,"358,600 ",Nicaragua,point2homes
+l_154958164,2 Beds,2 Baths,,"('2,000 Sqft', ' sqft')",Residential,"268,000 ",Nicaragua,point2homes
+l_142156372,,,,,Residential,"495,000 ",Nicaragua,point2homes
+l_146461401,3 Beds,3 Baths,,,Residential,"650,000 ",Nicaragua,point2homes
+l_157280687,4 Beds,4 Baths,,"('21,441.71 Sqft', ' sqft')",Residential,"585,000 ",Nicaragua,point2homes
+l_159295717,34 Beds,36 Baths,1.051 ac Lot Size,,Other,"2,450,000 ",Nicaragua,point2homes
+l_159295746,3 Beds,,3.481 ac Lot Size,,Residential,"75,000 ",Nicaragua,point2homes
+l_159295725,3 Beds,3 Baths,0.101 ac Lot Size,,Residential,"231,000 ",Nicaragua,point2homes
+l_137137670,2 Beds,1 Bath,,,Residential,"69,000  15.5",Nicaragua,point2homes
+l_159295907,4 Beds,4 Baths,0.445 ac Lot Size,,Residential,"460,000 ",Nicaragua,point2homes
+l_155975038,,,,"('32,916.04 Sqft', ' sqft')",Residential,"299,000 ",Nicaragua,point2homes
+l_157296159,4 Beds,3 Baths,,"('13,067.39 Sqft', ' sqft')",Residential,"695,000 ",Nicaragua,point2homes
+l_158293936,3 Beds,3 Baths,,"('2,583 Sqft', ' sqft')",Residential,"369,000 ",Nicaragua,point2homes
+l_153738633,4 Beds,4 Baths,,"('87,119.97 Sqft', ' sqft')",Residential,"2,700,000 ",Nicaragua,point2homes
+l_158300248,,,,,Residential,"489,000 ",Nicaragua,point2homes
+l_115922977,3 Beds,2 Baths,,,Residential,"245,000 ",Nicaragua,point2homes
+l_157466846,,,3.737 ac Lot Size,,Lots And Land,"471,900 ",Nicaragua,point2homes
+l_159295718,3 Beds,2 Baths,0.053 ac Lot Size,,Residential,"79,500 ",Nicaragua,point2homes
+l_145094333,5 Beds,4 Baths,,"('4,036 Sqft', ' sqft')",Residential,"945,000 ",Nicaragua,point2homes
+l_115677059,,,,,Residential,"159,000 ",Nicaragua,point2homes
+l_151066433,3 Beds,2 Baths,0.116 ac Lot Size,,Other,"119,000 ",Nicaragua,point2homes
+l_158292434,3 Beds,3 Baths,,"('2,900 Sqft', ' sqft')",Residential,"369,000 ",Nicaragua,point2homes
+l_157294323,,,,,Residential,"495,000 ",Nicaragua,point2homes
+l_159295731,4 Beds,2 Baths,0.047 ac Lot Size,,Residential,"75,000 ",Nicaragua,point2homes
+l_157287161,,,,"('44,896.27 Sqft', ' sqft')",Lots And Land,"75,000 ",Nicaragua,point2homes
+l_139665489,3 Beds,3 Baths,,,Residential,"264,000 ",Nicaragua,point2homes
+l_145094374,4 Beds,4 Baths,,,Residential,"580,000 ",Nicaragua,point2homes
+l_158300309,4 Beds,4 Baths,,"('8,180.57 Sqft', ' sqft')",Residential,"369,000 ",Nicaragua,point2homes
+l_159295759,1 Bed,2 Baths,0.173 ac Lot Size,,Residential,"120,000 ",Nicaragua,point2homes
+l_154743870,2 Beds,1 Bath,0.052 ac Lot Size,,Other,"180,000 ",Nicaragua,point2homes
+l_160033129,3 Beds,3 Baths,0.084 ac Lot Size,,Residential,"290,000 ",Nicaragua,point2homes
+l_157293048,3 Beds,2 Baths,,"('15,424.68 Sqft', ' sqft')",Residential,"199,000 ",Nicaragua,point2homes
+l_147087772,5 Beds,4 Baths,0.235 ac Lot Size,,Residential,"254,600 ",Nicaragua,point2homes
+l_158300635,2 Beds,2 Baths,,,Residential,"199,000 ",Nicaragua,point2homes
+l_157293037,4 Beds,4 Baths,,,Residential,"650,000 ",Nicaragua,point2homes
+l_157293514,5 Beds,5 Baths,,,Residential,"570,000 ",Nicaragua,point2homes
+l_159295757,4 Beds,3 Baths,0.181 ac Lot Size,,Residential,"260,000 ",Nicaragua,point2homes
+l_159953335,4 Beds,4 Baths,0.177 ac Lot Size,,Residential,"60,000 ",Nicaragua,point2homes
+l_154743872,2 Beds,2 Baths,0.071 ac Lot Size,,Residential,"119,400 ",Nicaragua,point2homes
+l_160822739,3 Beds,1 Bath,0.063 ac Lot Size,,Residential,"70,000 ",Nicaragua,point2homes
+l_157294774,2 Beds,2 Baths,,"('1,431 Sqft', ' sqft')",Residential,"400,000 ",Nicaragua,point2homes
+l_156164039,3 Beds,3 Baths,,"('27,458.74 Sqft', ' sqft')",Residential,"349,000 ",Nicaragua,point2homes
+l_157781207,,,0.119 ac Lot Size,,Lots And Land,"48,300  5.2",Nicaragua,point2homes
+l_142166790,5 Beds,5 Baths,,,Residential,"499,000 ",Nicaragua,point2homes
+l_156163994,5 Beds,5 Baths,,"('234,254.98 Sqft', ' sqft')",Residential,"429,000 ",Nicaragua,point2homes
+l_156837122,4 Beds,5 Baths,,"('5,000 Sqft', ' sqft')",Residential,"799,000 ",Nicaragua,point2homes
+l_143389726,3 Beds,3 Baths,,,Residential,"399,000 ",Nicaragua,point2homes
+l_156214016,3 Beds,3 Baths,,"('2,486.46 Sqft', ' sqft')",Residential,"179,900 ",Nicaragua,point2homes
+l_158972765,,,86.352 ac Lot Size,,Lots And Land,"50,000 ",Nicaragua,point2homes
+l_159295697,4 Beds,4 Baths,0.72 ac Lot Size,,Residential,"495,000 ",Nicaragua,point2homes
+l_156267156,,,,"('15,392.39 Sqft', ' sqft')",Lots and Land,"178,750 ",Nicaragua,point2homes
+l_153738548,3 Beds,3 Baths,,"('6,212 Sqft', ' sqft')",Residential,"1,750,000 ",Nicaragua,point2homes
+l_145098231,2 Beds,2 Baths,,"('11,216.09 Sqft', ' sqft')",Residential,"279,000 ",Nicaragua,point2homes
+l_159295694,3 Beds,,0.069 ac Lot Size,,Residential,"190,000 ",Nicaragua,point2homes
+l_152911487,4 Beds,4 Baths,0.15 ac Lot Size,,Residential,"265,000 ",Nicaragua,point2homes
+l_159021238,4 Beds,4 Baths,0.104 ac Lot Size,,Residential,"140,000 ",Nicaragua,point2homes
+l_158287478,,,,"('15,618.43 Sqft', ' sqft')",Lots And Land,"95,000 ",Nicaragua,point2homes
+l_159295758,3 Beds,2 Baths,0.16 ac Lot Size,,Residential,"299,500 ",Nicaragua,point2homes
+l_159295713,,,0.555 ac Lot Size,,Lots And Land,"192,960 ",Nicaragua,point2homes
+l_157294312,4 Beds,4 Baths,,"('84,389.05 Sqft', ' sqft')",Residential,"499,000 ",Nicaragua,point2homes
+l_154655441,4 Beds,4 Baths,,"('3,853.48 Sqft', ' sqft')",Residential,"180,000 ",Nicaragua,point2homes
+l_157904163,4 Beds,3 Baths,0.288 ac Lot Size,,Residential,"350,000 ",Nicaragua,point2homes
+l_160507182,,,0.253 ac Lot Size,,Lots And Land,"98,000 ",Nicaragua,point2homes
+l_157290881,5 Beds,5 Baths,,,Residential,"869,000 ",Nicaragua,point2homes
+l_158300249,,,,,Residential,"495,000 ",Nicaragua,point2homes
+l_146534923,4 Beds,3 Baths,,"('87,102.29 Sqft', ' sqft')",Residential,"249,000 ",Nicaragua,point2homes
+l_150822875,,,0.871 ac Lot Size,,Lots And Land,"69,000 ",Nicaragua,point2homes
+l_146273273,,,0.428 ac Lot Size,,Lots And Land,"99,600  12",Nicaragua,point2homes
+l_115833269,2 Beds,2 Baths,,,Residential,"160,000 ",Nicaragua,point2homes
+l_137489912,2 Beds,2 Baths,,"('960 Sqft', ' sqft')",Residential,"149,000 ",Nicaragua,point2homes
+l_158293056,2 Beds,2 Baths,,"('1,700.7 Sqft', ' sqft')",Residential,"129,000 ",Nicaragua,point2homes
+l_158850513,2 Beds,2 Baths,,"('1,200 Sqft', ' sqft')",Residential,"131,500 ",Nicaragua,point2homes
+l_124474465,1 Bed,1 Bath,0.494 ac Lot Size,,Residential,"159,000 ",Nicaragua,point2homes
+120090725429,3,3,,"2,131.27 sq ft",House," 196,000",Nicaragua,realtor.com
+120090667716,3,3,,"2,131.27 sq ft",Apartment," 265,000",Nicaragua,realtor.com
+120090593859,3,3,,"2,131.27 sq ft",House," 175,000",Nicaragua,realtor.com
+120090491334,3,3,,"2,131.27 sq ft",House," 70,000",Nicaragua,realtor.com
+120090445788,3,3,,"2,131.27 sq ft",Apartment," 145,000",Nicaragua,realtor.com
+120090233284,3,3,,"2,131.27 sq ft",Land," 220,000",Nicaragua,realtor.com
+120090221024,3,3,,"2,131.27 sq ft",House," 290,000",Nicaragua,realtor.com
+120090191341,3,3,,"2,131.27 sq ft",House," 60,000",Nicaragua,realtor.com
+120090066778,3,3,,"2,131.27 sq ft",House," 199,000",Nicaragua,realtor.com
+120090042145,3,3,,"2,131.27 sq ft",House," 1,490,000",Nicaragua,realtor.com
+120089984370,3,3,,"2,131.27 sq ft",House," 120,000",Nicaragua,realtor.com
+120089858168,3,3,,"2,131.27 sq ft",Land," 50,000",Nicaragua,realtor.com
+120089858154,3,3,,"2,131.27 sq ft",Land," 120,000",Nicaragua,realtor.com
+120089781348,3,3,,"2,131.27 sq ft",House," 250,000",Nicaragua,realtor.com
+120089781027,3,3,,"2,131.27 sq ft",House," 218,500",Nicaragua,realtor.com
+120089781019,3,3,,"2,131.27 sq ft",Industrial/Warehouse," 179,999",Nicaragua,realtor.com
+120089623365,3,3,,"2,131.27 sq ft",House," 210,000",Nicaragua,realtor.com
+120089607854,3,3,,"2,131.27 sq ft",House," 120,000",Nicaragua,realtor.com
+120089607818,3,3,,"2,131.27 sq ft",Land," 97,000",Nicaragua,realtor.com
+120089541801,3,3,,"2,131.27 sq ft",House," 85,000",Nicaragua,realtor.com
+120089472333,3,3,,"2,131.27 sq ft",House," 350,000",Nicaragua,realtor.com
+120089421511,3,3,,"2,131.27 sq ft",House," 148,000",Nicaragua,realtor.com
+120089421491,3,3,,"2,131.27 sq ft",House," 50,000",Nicaragua,realtor.com
+120089421485,3,3,,"2,131.27 sq ft",Land," 48,300",Nicaragua,realtor.com
+120089359282,3,3,,"2,131.27 sq ft",House," 175,000",Nicaragua,realtor.com
+120089359266,3,2,"3,931.65 sq ft",,House," 95,000",Nicaragua,realtor.com
+120089297971,3,2,"3,931.65 sq ft",,Land," 471,900",Nicaragua,realtor.com
+120089252556,3,2,"3,931.65 sq ft",,House," 215,000",Nicaragua,realtor.com
+120089117997,3,2,"3,931.65 sq ft",,Apartment," 350,000",Nicaragua,realtor.com
+120089058138,3,2,"3,931.65 sq ft",,House," 400,000",Nicaragua,realtor.com
+120088973923,3,2,"3,931.65 sq ft",,House," 250,000",Nicaragua,realtor.com
+120088973917,3,2,"3,931.65 sq ft",,House," 299,500",Nicaragua,realtor.com
+120088962869,3,2,"3,931.65 sq ft",,House," 190,000",Nicaragua,realtor.com
+120088878402,3,2,"3,931.65 sq ft",,Industrial/Warehouse," 481,500",Nicaragua,realtor.com
+120088878392,3,2,"3,931.65 sq ft",,House," 173,000",Nicaragua,realtor.com
+120088852998,3,2,"3,931.65 sq ft",,House," 595,000",Nicaragua,realtor.com
+120088852995,3,2,"3,931.65 sq ft",,House," 75,000",Nicaragua,realtor.com
+120088799579,3,2,"3,931.65 sq ft",,House," 119,000",Nicaragua,realtor.com
+120088771591,3,2,"3,931.65 sq ft",,House," 1,199,000",Nicaragua,realtor.com
+120088615379,3,2,"3,931.65 sq ft",,Commercial," 93,000",Nicaragua,realtor.com
+120088591718,3,2,"3,931.65 sq ft",,House," 75,000",Nicaragua,realtor.com
+120088515753,3,2,"3,931.65 sq ft",,House," 260,000",Nicaragua,realtor.com
+120088439083,3,2,"3,931.65 sq ft",,House," 590,000",Nicaragua,realtor.com
+120088423222,3,2,"3,931.65 sq ft",,House," 140,000",Nicaragua,realtor.com
+120088397022,3,2,"3,931.65 sq ft",,Apartment," 230,000",Nicaragua,realtor.com
+120088397017,3,2,"3,931.65 sq ft",,Commercial," 180,000",Nicaragua,realtor.com
+120088397015,3,2,"3,931.65 sq ft",,Commercial," 325,000",Nicaragua,realtor.com
+120088397014,3,2,"3,931.65 sq ft",,House," 237,000",Nicaragua,realtor.com
+120088397011,3,2,"3,931.65 sq ft",,House," 119,400",Nicaragua,realtor.com
+120088322849,3,2,"3,931.65 sq ft",,House," 495,000",Nicaragua,realtor.com
+120088137721,3,3,,"3,229.20 sq ft",House," 329,000",Nicaragua,realtor.com
+120088058603,3,3,,"3,229.20 sq ft",House," 290,000",Nicaragua,realtor.com
+110087967448,3,3,,"3,229.20 sq ft",House," 125,000",Nicaragua,realtor.com
+120087929440,3,3,,"3,229.20 sq ft",House," 215,000",Nicaragua,realtor.com
+120087929432,3,3,,"3,229.20 sq ft",House," 475,000",Nicaragua,realtor.com
+120087906407,3,3,,"3,229.20 sq ft",House," 220,000",Nicaragua,realtor.com
+120087832040,3,3,,"3,229.20 sq ft",House," 265,000",Nicaragua,realtor.com
+120087832024,3,3,,"3,229.20 sq ft",Land," 98,000",Nicaragua,realtor.com
+120087825981,3,3,,"3,229.20 sq ft",House," 155,000",Nicaragua,realtor.com
+120087693694,3,3,,"3,229.20 sq ft",House," 499,000",Nicaragua,realtor.com
+120087658013,3,3,,"3,229.20 sq ft",Apartment, 250,Nicaragua,realtor.com
+120087654957,3,3,,"3,229.20 sq ft",House," 260,000",Nicaragua,realtor.com
+120087385994,3,3,,"3,229.20 sq ft",House," 49,000",Nicaragua,realtor.com
+120087385971,3,3,,"3,229.20 sq ft",House," 97,000",Nicaragua,realtor.com
+120087305507,3,3,,"3,229.20 sq ft",House," 580,000",Nicaragua,realtor.com
+120087183246,3,3,,"3,229.20 sq ft",Apartment," 119,000",Nicaragua,realtor.com
+120087167892,3,3,,"3,229.20 sq ft",Land," 59,000",Nicaragua,realtor.com
+120087144088,3,3,,"3,229.20 sq ft",Land," 69,000",Nicaragua,realtor.com
+120087101183,3,3,,"3,229.20 sq ft",House," 495,000",Nicaragua,realtor.com
+120087086386,3,3,,"3,229.20 sq ft",House," 169,000",Nicaragua,realtor.com
+120087086380,3,3,,"3,229.20 sq ft",Apartment," 375,000",Nicaragua,realtor.com
+120086910879,3,3,,"3,229.20 sq ft",House," 205,000",Nicaragua,realtor.com
+120086890419,3,3,,"3,229.20 sq ft",House," 171,500",Nicaragua,realtor.com
+120086836815,3,3,,"3,229.20 sq ft",House," 280,000",Nicaragua,realtor.com
+120086828436,3,3,,"3,229.20 sq ft",Commercial," 3,000,000",Nicaragua,realtor.com
+120086701980,34,36,,"33,605.21 sq ft",Commercial," 2,450,000",Nicaragua,realtor.com
+120086534009,34,36,,"33,605.21 sq ft",House," 415,590",Nicaragua,realtor.com
+120086533999,34,36,,"33,605.21 sq ft",House," 231,000",Nicaragua,realtor.com
+120086533975,34,36,,"33,605.21 sq ft",Industrial/Warehouse," 90,000",Nicaragua,realtor.com
+120086446097,34,36,,"33,605.21 sq ft",House," 135,000",Nicaragua,realtor.com
+120086381525,34,36,,"33,605.21 sq ft",Land," 185,850",Nicaragua,realtor.com
+120086372989,34,36,,"33,605.21 sq ft",House," 600,000",Nicaragua,realtor.com
+120086357903,34,36,,"33,605.21 sq ft",Land," 16,000",Nicaragua,realtor.com
+120086311257,34,36,,"33,605.21 sq ft",House," 165,000",Nicaragua,realtor.com
+120086237384,34,36,,"33,605.21 sq ft",House," 145,000",Nicaragua,realtor.com
+120086237386,34,36,,"33,605.21 sq ft",House," 214,000",Nicaragua,realtor.com
+120086222222,34,36,,"33,605.21 sq ft",House," 79,500",Nicaragua,realtor.com
+120086199184,34,36,,"33,605.21 sq ft",House," 250,000",Nicaragua,realtor.com
+120086185055,34,36,,"33,605.21 sq ft",Land," 192,960",Nicaragua,realtor.com
+120086185049,34,36,,"33,605.21 sq ft",Land," 28,000",Nicaragua,realtor.com
+120086156538,34,36,,"33,605.21 sq ft",Land," 90,000",Nicaragua,realtor.com
+120086156528,34,36,,"33,605.21 sq ft",House," 680,000",Nicaragua,realtor.com
+120086081266,34,36,,"33,605.21 sq ft",House," 420,000",Nicaragua,realtor.com
+120086045764,34,36,,"33,605.21 sq ft",House," 300,000",Nicaragua,realtor.com
+120086039339,34,36,,"33,605.21 sq ft",House," 140,000",Nicaragua,realtor.com
+120085811435,34,36,,"33,605.21 sq ft",House," 358,600",Nicaragua,realtor.com
+120085811434,34,36,,"33,605.21 sq ft",Land," 1,800,000",Nicaragua,realtor.com
+120085786914,34,36,,"33,605.21 sq ft",Commercial," 350,000",Nicaragua,realtor.com
+120085786551,34,36,,"33,605.21 sq ft",House," 260,000",Nicaragua,realtor.com
+120085728925,34,36,,"33,605.21 sq ft",House," 250,000",Nicaragua,realtor.com
+120085703999,3,2,,"1,162.51 sq ft",House," 130,000",Nicaragua,realtor.com
+120085703995,3,2,,"1,162.51 sq ft",House," 276,200",Nicaragua,realtor.com
+120085630362,3,2,,"1,162.51 sq ft",House," 520,000",Nicaragua,realtor.com
+120085588204,3,2,,"1,162.51 sq ft",Commercial," 329,000",Nicaragua,realtor.com
+120085485516,3,2,,"1,162.51 sq ft",Land," 99,600",Nicaragua,realtor.com
+120085167115,3,2,,"1,162.51 sq ft",House," 460,000",Nicaragua,realtor.com
+120085167086,3,2,,"1,162.51 sq ft",House," 435,000",Nicaragua,realtor.com
+120085166977,3,2,,"1,162.51 sq ft",House," 200,000",Nicaragua,realtor.com
+120085015019,3,2,,"1,162.51 sq ft",House," 425,000",Nicaragua,realtor.com
+120084566479,3,2,,"1,162.51 sq ft",Land," 49,000",Nicaragua,realtor.com
+120083436173,3,2,,"1,162.51 sq ft",Industrial/Warehouse," 79,000",Nicaragua,realtor.com
+120083301017,3,2,,"1,162.51 sq ft",House," 254,600",Nicaragua,realtor.com
+120082113847,3,2,,"1,162.51 sq ft",House," 260,000",Nicaragua,realtor.com
+120080652005,3,2,,"1,162.51 sq ft",Commercial," 347,600",Nicaragua,realtor.com
+120079080160,3,2,,"1,162.51 sq ft",Land," 70,000",Nicaragua,realtor.com
+120079023290,3,2,,"1,162.51 sq ft",House," 330,000",Nicaragua,realtor.com
+120078931028,3,2,,"1,162.51 sq ft",Land," 169,800",Nicaragua,realtor.com
+120077918240,3,2,,"1,162.51 sq ft",House," 159,000",Nicaragua,realtor.com
+120077044936,3,2,,"1,162.51 sq ft",Apartment," 440,000",Nicaragua,realtor.com
+120076592335,3,2,,"1,162.51 sq ft",Industrial/Warehouse," 695,000",Nicaragua,realtor.com
+95987983,5,5,,3229.17 ft sqr,Detached house,"545,000",nicaragua,properstar.com
+90916065,7,4,,4843.755 ft sqr,Detached house,"375,000",nicaragua,properstar.com
+95937877,,,,,,"53,000",nicaragua,properstar.com
+93810575,4,1,,3121.531 ft sqr,Detached house,"60,000",nicaragua,properstar.com
+95903136,3,2,,,Building land,"185,000",nicaragua,properstar.com
+95875575,3,2,,2098.9605 ft sqr,Detached house,"68,000",nicaragua,properstar.com
+94237417,2,1,,,House,"70,000",nicaragua,properstar.com
+95810015,2,2,,1420.8347999999999 ft sqr,Building land,"89,900",nicaragua,properstar.com
+95810014,2,2,,1291.668 ft sqr,Detached house,"90,000",nicaragua,properstar.com
+95732520,3,3,,,Farmhouse,"75,000",nicaragua,properstar.com
+95714341,2,1,,,House,"69,000",nicaragua,properstar.com
+95714340,,1,,,House,"40,000",nicaragua,properstar.com
+95996917,4,6,,,Plot of land,"978,480",nicaragua,properstar.com
+95996684,4,5,,3971.8790999999997 ft sqr,Property,"368,561",nicaragua,properstar.com
+95996579,2,2,,1076.3899999999999 ft sqr,House,"81,540",nicaragua,properstar.com
+95996950,4,3,,4004.1708 ft sqr,House,"394,654",nicaragua,properstar.com
+95996767,2,2,,807.2925 ft sqr,House,"81,540",nicaragua,properstar.com
+95623834,4,4,,,Detached house,"275,000",nicaragua,properstar.com
+95558807,,,,,,"29,000",nicaragua,properstar.com
+95546559,1,1,,2152.7799999999997 ft sqr,House,"38,000",nicaragua,properstar.com
+95546558,3,2,,1980.5575999999999 ft sqr,House,"48,000",nicaragua,properstar.com
+95490566,1,,,,House,"40,000",nicaragua,properstar.com
+95427159,1,1,,1151.7373 ft sqr,Detached house,"200,000",nicaragua,properstar.com
+95427168,,,,4305.5599999999995 ft sqr,Hotel,"1,200,000",nicaragua,properstar.com
+95397287,5,4,,,Detached house,"250,000",nicaragua,properstar.com
+95338883,,,,,,"120,000",nicaragua,properstar.com
+95338882,,,,,,"65,000",nicaragua,properstar.com
+95305079,,,,,,"20,500",nicaragua,properstar.com
+95305080,,,,,,"70,000",nicaragua,properstar.com
+95305078,,,,,,"90,500",nicaragua,properstar.com
+95229713,3,3,,4090.2819999999997 ft sqr,Detached house,"315,000",nicaragua,properstar.com
+95203360,,,,,,"59,000",nicaragua,properstar.com
+95168468,4,2,,,House,"50,000",nicaragua,properstar.com
+95130833,,,,,,"35,000",nicaragua,properstar.com
+95077528,6,7,,,Detached house,"350,000",nicaragua,properstar.com
+95077518,5,5,,,Detached house,"195,000",nicaragua,properstar.com
+95059499,,2,,,House,"40,000",nicaragua,properstar.com
+95059500,,1,,,House,"45,000",nicaragua,properstar.com
+95011890,2,1,,,Detached house,"89,800",nicaragua,properstar.com
+94962666,5,5,,,Detached house,"495,000",nicaragua,properstar.com
+94962682,3,,,2131.2522 ft sqr,Detached house,"125,000",nicaragua,properstar.com
+94844651,4,4,,,Detached house,"230,000",nicaragua,properstar.com
+94817923,,,,,,"95,000",nicaragua,properstar.com
+94804514,,,,,,"120,000",nicaragua,properstar.com
+94713296,5,4,,8847.925799999999 ft sqr,Building land,"125,000",nicaragua,properstar.com
+94713298,5,5,,,Detached house,"399,000",nicaragua,properstar.com
+94659473,2,4,,,Villa,"380,000",nicaragua,properstar.com
+94626495,,2,,,Villa,"150,000",nicaragua,properstar.com
+94626496,,4,,,House,"215,000",nicaragua,properstar.com
+94510299,3,3,,,Building land,"32,700",nicaragua,properstar.com
+89381243,3,2,,,Detached house,"160,000",nicaragua,properstar.com
+90438393,8,,,4154.8654 ft sqr,House,"350,000",nicaragua,properstar.com
+92290450,7,7,,,Detached house,"65,000",nicaragua,properstar.com
+92737069,4,3,,,Detached house,"80,000",nicaragua,properstar.com
+86371679,3,2,,1829.8629999999998 ft sqr,House,"60,000",nicaragua,properstar.com
+90180935,3,2,,,House,"42,000",nicaragua,properstar.com
+90262835,3,3,,,Detached house,"105,000",nicaragua,properstar.com
+90723198,,,,6038.5479 ft sqr,Detached house,"140,000",nicaragua,properstar.com
+90549888,,,,,Building,"320,000",nicaragua,properstar.com
+83010878,2,2,,,Farmhouse,"200,000",nicaragua,properstar.com
+89174063,3,3,,,Building land,"19,900",nicaragua,properstar.com
+89226946,,,,,,"18,600",nicaragua,properstar.com
+93626125,3,3,,2228.1273 ft sqr,Detached house,"130,000",nicaragua,properstar.com
+91972143,2,2,,1291.668 ft sqr,Detached house,"59,900",nicaragua,properstar.com
+88331002,,,,,,"531,000",nicaragua,properstar.com
+87839895,3,2,,,Detached house,"90,000",nicaragua,properstar.com
+90341097,,,,32560.797499999997 ft sqr,Building,"950,000",nicaragua,properstar.com
+81482150,,,,4305.5599999999995 ft sqr,Plot of land,"18,500",nicaragua,properstar.com
+88609998,10,10,,,Commercial premises,"159,000",nicaragua,properstar.com
+92178941,1,1,,1560.7655 ft sqr,Detached house,"79,000",nicaragua,properstar.com
+93276127,,,,4843.755 ft sqr,Plot of land,"8,000",nicaragua,properstar.com
+87839896,4,3,,1485.4181999999998 ft sqr,Detached house,"75,000",nicaragua,properstar.com
+91773658,,,,,,"180,000",nicaragua,properstar.com
+87839896,4,3,,1485.4181999999998 ft sqr,Detached house,"75,000",nicaragua,properstar.com
+88304999,3,3,,,House,"95,000",nicaragua,properstar.com
+92737066,3,3,,4036.4624999999996 ft sqr,Detached house,"119,000",nicaragua,properstar.com
+89487394,,,,,,"55,000",nicaragua,properstar.com
+85491126,,,,,,"185,000",nicaragua,properstar.com
+84826158,3,3,,6458.34 ft sqr,Detached house,"395,000",nicaragua,properstar.com
+92331405,2,2,,,House,"95,000",nicaragua,properstar.com
+86739365,7,7,,,Detached house,"200,000",nicaragua,properstar.com
+91369573,6,4,,,House,"249,000",nicaragua,properstar.com
+85901422,4,1,,,Farmhouse,"255,000",nicaragua,properstar.com
+82566134,5,3,,,Farmhouse,"180,000",nicaragua,properstar.com
+89226943,3,3,,,Building land,"22,100",nicaragua,properstar.com
+89196769,6,2,,3412.1562999999996 ft sqr,Detached house,"98,000",nicaragua,properstar.com
+88855423,6,6,,,Detached house,"574,000",nicaragua,properstar.com
+93626121,3,2,,2992.3642 ft sqr,Detached house,"198,000",nicaragua,properstar.com
+93276124,,,,2690.975 ft sqr,Plot of land,"11,800",nicaragua,properstar.com
+84324487,2,1,,775.0008 ft sqr,House,"56,000",nicaragua,properstar.com
+85537541,2,1,,,Detached house,"120,000",nicaragua,properstar.com
+88449425,,,,,,"20,000",nicaragua,properstar.com
+91120591,3,3,,5909.3811 ft sqr,Detached house,"399,000",nicaragua,properstar.com
+82075928,,3,,,Farmhouse,"180,000",nicaragua,properstar.com
+88029279,4,3,,2045.1409999999998 ft sqr,Detached house,"89,000",nicaragua,properstar.com
+93787339,,,,,,"39,000",nicaragua,properstar.com
+93276123,3,2,,23852.8024 ft sqr,Farm,"168,000",nicaragua,properstar.com
+85168992,,,,,,"130,000",nicaragua,properstar.com
+89056439,,,,,,"300,000",nicaragua,properstar.com
+89226939,3,3,,,Building land,"18,000",nicaragua,properstar.com
+89196766,3,3,,,Building land,"37,200",nicaragua,properstar.com
+90404669,4,4,,,House,"200,000",nicaragua,properstar.com
+82481597,5,3,,5026.7413 ft sqr,House,"230,000",nicaragua,properstar.com
+81482155,,2,,2152.7799999999997 ft sqr,Farmhouse,"128,000",nicaragua,properstar.com
+88489197,,,,,,"55,500",nicaragua,properstar.com
+82859920,3,3,,2131.2522 ft sqr,House,"85,000",nicaragua,properstar.com
+81715500,,3,,1377.7792 ft sqr,House,"129,000",nicaragua,properstar.com
+93276121,2,2,,,Farm,"120,000",nicaragua,properstar.com
+92972877,3,3,,1883.6825 ft sqr,Detached house,"179,000",nicaragua,properstar.com
+92470117,2,2,,1959.0298 ft sqr,Detached house,"214,000",nicaragua,properstar.com
+92972876,,,,,,"125,000",nicaragua,properstar.com
+93276120,3,3,,4843.755 ft sqr,Farm,"240,000",nicaragua,properstar.com
+81715501,,,,,,"618,800",nicaragua,properstar.com
+88855431,,,,,,"65,220",nicaragua,properstar.com
+86668620,3,2,,,House,"98,000",nicaragua,properstar.com
+90284322,,,,,,"50,000",nicaragua,properstar.com
+90331028,,,,,,"15,600",nicaragua,properstar.com
+90341102,4,2,,3767.365 ft sqr,Detached house,"75,000",nicaragua,properstar.com
+91524582,2,3,,2260.419 ft sqr,Detached house,"180,000",nicaragua,properstar.com
+91250582,3,3,,,Detached house,"90,000",nicaragua,properstar.com
+91369578,,,,,,"35,000",nicaragua,properstar.com
+93276120,3,3,,4843.755 ft sqr,Farm,"240,000",nicaragua,properstar.com
+92972876,,,,,,"125,000",nicaragua,properstar.com
+88727036,7,4,,2292.7107 ft sqr,House,"229,000",nicaragua,properstar.com
+87873831,,,,,,"125,000",nicaragua,properstar.com
+90104821,,,,2066.6688 ft sqr,Plot of land,"13,500",nicaragua,properstar.com
+91145179,3,3,,,Detached house,"99,000",nicaragua,properstar.com
+92972862,3,2,,,Detached house,"189,900",nicaragua,properstar.com
+84942137,3,2,,3078.4754 ft sqr,House,"75,000",nicaragua,properstar.com
+85030161,5,3,,,House,"145,000",nicaragua,properstar.com
+85652697,,,,,,"47,000",nicaragua,properstar.com
+87839892,,,,,,"160,000",nicaragua,properstar.com
+81482120,,1,,,House,"135,000",nicaragua,properstar.com
+88875952,11,10,,,Building land,"890,000",nicaragua,properstar.com
+90180936,,,,,,"12,500",nicaragua,properstar.com
+92538221,1,1,,,Farmhouse,"180,000",nicaragua,properstar.com
+90081099,,2,,,Commercial building,"149,000",nicaragua,properstar.com
+90693807,,,,,,"10,500",nicaragua,properstar.com
+90262836,4,5,,4305.5599999999995 ft sqr,Detached house,"479,000",nicaragua,properstar.com
+73576476,,,,,,"91,900",nicaragua,properstar.com
+73576500,,,,,,"51,750",nicaragua,properstar.com
+73576501,,,,,,"129,000",nicaragua,properstar.com
+73576486,,,,,,"49,000",nicaragua,properstar.com

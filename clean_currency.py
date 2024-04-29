@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 
 def convert_currency(money):
-    currency_type = money[-3:].lower()
+    currency_type = "".join(re.findall(r'\b[A-Za-z]{3}\b', money))
     dollar_amount = "".join(re.findall(r'\d+', money))
     print(f'Needs to convert {dollar_amount} {currency_type} to USD')
 
@@ -28,7 +28,7 @@ def clean_currency(money):
     cleaned_money = re.sub('[a-zA-Z|$]', '', cleaned_money)
     #print(f'Cleaned money: {cleaned_money}')
 
+    #print(cleaned_money)
+
     return cleaned_money
-
-
 
